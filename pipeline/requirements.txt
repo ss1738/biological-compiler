@@ -21,3 +21,13 @@ numpy<2
 # the GPU instead (verified: 100% nvidia-smi utilization during a real run).
 openmm
 pdbfixer
+
+# for chai1_fold.py -- install in ITS OWN venv, not alongside the rest of this
+# file. chai_lab==0.6.1 silently downgrades torch to a version that does not
+# support Blackwell GPUs. See pipeline/chai1_fold.py's docstring for the
+# exact reinstall fix, required every time.
+# chai_lab==0.6.1
+
+# DiffDock (docking real substrates against the shortlist) is not pip-installable
+# and needs its own venv + a git checkout of github.com/gcorso/DiffDock -- full
+# setup instructions in pipeline/diffdock_jobs.py's docstring.

@@ -32,6 +32,8 @@ A second, independent check followed: 100 ps of real molecular dynamics (OpenMM,
 
 A third check asked a different question: does a real substrate molecule actually fit the designed pocket. DiffDock docking of all 30 relaxed candidates against fluoroacetate (FAcD's real substrate) and against PFOA/PFOS (the actual PFAS target) found exactly what the target-mismatch caveat below predicts: 9/30 dock fluoroacetate at high confidence, 0/30 dock either PFOA or PFOS at high confidence. That's not a disappointing result, it's the expected one, now measured instead of assumed. Full numbers in `research/diffdock_results.md`.
 
+A fourth check used a second, architecturally unrelated structure-prediction model (Chai-1, an AlphaFold3-class diffusion model, not a language-model-based folder like ESMFold) to independently re-fold all 30 sequences. 30/30 came back high-confidence (pTM > 0.7, mean 0.887) -- a different method arriving at the same answer as ESMFold did, which rules out that agreement being some ESMFold-specific artifact. Full numbers in `research/chai1_results.md`.
+
 ## The gap
 
 Nobody's building the full stack here. There are protein-design tool companies (Baker lab spinouts, various RFdiffusion-adjacent platforms), and there are PFAS remediation product companies doing physical or chemical treatment (see above). Nothing found so far does "generate candidate enzymes specifically for PFAS chemistry, end to end, and get them into a real assay." That's the actual gap. Not because it's technically impossible; this pipeline shows the mechanics work. It's because the work sits between two worlds that don't usually talk to each other.
@@ -53,10 +55,11 @@ The pipeline works. More GPU time produces more candidates at roughly the same p
 ```
 pipeline/       the actual working code: RFdiffusion setup, ProteinMPNN wrapper,
                 ESMFold filter, RMSD scoring, curation, MD relaxation,
-                DiffDock docking, orchestration, Dockerfile
+                DiffDock docking, Chai-1 folding, orchestration, Dockerfile
 data/shortlist/ the 30 real candidates: manifest, FASTA, predicted structures,
-                relaxed structures + MD results, docking results
+                relaxed structures + MD results, docking results, Chai-1 results
 research/       market data, competitor list, enzyme science notes, MD
-                relaxation and docking methodology, MCP setup, everything sourced
+                relaxation / docking / Chai-1 methodology, MCP setup,
+                everything sourced
 outreach/       PI shortlist and the actual email that was sent
 ```
