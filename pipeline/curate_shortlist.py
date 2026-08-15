@@ -22,7 +22,10 @@ def curate(jsonl_paths, out_dir, n=30, max_per_backbone=3, plddt_thresh=65.0, rm
 
     recs = []
     for path in jsonl_paths:
-        batch = os.path.splitext(os.path.basename(path))[0]
+        # results.jsonl is named identically across every pipeline.py run (it's always
+        # "results.jsonl" inside <out-dir>/logs/), so the batch label has to come from
+        # the run's own output directory name, not the log file's basename.
+        batch = os.path.basename(os.path.dirname(os.path.dirname(os.path.abspath(path))))
         for line in open(path):
             r = json.loads(line)
             r["batch"] = batch

@@ -15,3 +15,9 @@ torchaudio==2.11.0+cu128
 transformers>=4.40
 accelerate
 numpy<2
+
+# for openmm_relax.py -- installed via pip, not conda, on the machine this was
+# tested on. No OpenMM CUDA platform available in the pip package; OpenCL reaches
+# the GPU instead (verified: 100% nvidia-smi utilization during a real run).
+openmm
+pdbfixer
