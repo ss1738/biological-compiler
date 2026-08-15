@@ -1,0 +1,17 @@
+# For pipeline.py / esmfold_filter.py — the host-side orchestration and ESMFold
+# scoring code. RFdiffusion and ProteinMPNN run in their own separate
+# environments (RFdiffusion via docker/RTX-5090.dockerfile; ProteinMPNN needs
+# only numpy/torch and was run from a plain venv, see its own repo for details).
+#
+# Versions below are what was actually verified working on an RTX 5090 (compute
+# capability 12.0 / sm_120, CUDA 12.8 toolkit, driver-reported CUDA 13.2).
+# Un-pin at your own risk if you're on different hardware.
+
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+torchaudio==2.11.0+cu128
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+transformers>=4.40
+accelerate
+numpy<2
