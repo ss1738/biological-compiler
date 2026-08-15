@@ -30,6 +30,8 @@ This ran twice at scale: 100 backbones, then 300 more. 3,600 sequences total eva
 
 A second, independent check followed: 100 ps of real molecular dynamics (OpenMM, Amber14, implicit solvent) on all 30 candidates, measuring how much each structure actually drifts under physics rather than just what a second AI model predicts. 29/30 held overall structural stability under 2.0 Å, 23/30 held active-site geometry under 1.0 Å. Method and full caveats in `research/md_relaxation.md`.
 
+A third check asked a different question: does a real substrate molecule actually fit the designed pocket. DiffDock docking of all 30 relaxed candidates against fluoroacetate (FAcD's real substrate) and against PFOA/PFOS (the actual PFAS target) found exactly what the target-mismatch caveat below predicts: 9/30 dock fluoroacetate at high confidence, 0/30 dock either PFOA or PFOS at high confidence. That's not a disappointing result, it's the expected one, now measured instead of assumed. Full numbers in `research/diffdock_results.md`.
+
 ## The gap
 
 Nobody's building the full stack here. There are protein-design tool companies (Baker lab spinouts, various RFdiffusion-adjacent platforms), and there are PFAS remediation product companies doing physical or chemical treatment (see above). Nothing found so far does "generate candidate enzymes specifically for PFAS chemistry, end to end, and get them into a real assay." That's the actual gap. Not because it's technically impossible; this pipeline shows the mechanics work. It's because the work sits between two worlds that don't usually talk to each other.
@@ -40,7 +42,7 @@ The pipeline works. More GPU time produces more candidates at roughly the same p
 
 ## Raw notes, the honest caveats
 
-- **The target isn't PFAS.** The pipeline scaffolds around fluoroacetate dehalogenase (FAcD, PDB 1Y37). Its real catalytic residues (Asp104, Asp128, His271) were verified directly against the downloaded structure file, not just an annotation. FAcD's native substrate is fluoroacetate: one C–F bond next to a carboxylate. Real PFAS chains carry many C–F bonds on an otherwise chemically inert backbone, which is mechanistically much harder to break. FAcD was chosen because it's the best-characterized natural C–F bond-cleaving enzyme with a public structure, and because haloacid dehalogenases (its family) are explicitly named as a candidate family in the PFAS-engineering review literature. Not because it's PFAS-relevant on its own.
+- **The target isn't PFAS, and now there's docking evidence for exactly that.** The pipeline scaffolds around fluoroacetate dehalogenase (FAcD, PDB 1Y37). Its real catalytic residues (Asp104, Asp128, His271) were verified directly against the downloaded structure file, not just an annotation. FAcD's native substrate is fluoroacetate: one C–F bond next to a carboxylate. Real PFAS chains carry many C–F bonds on an otherwise chemically inert backbone, which is mechanistically much harder to break. FAcD was chosen because it's the best-characterized natural C–F bond-cleaving enzyme with a public structure, and because haloacid dehalogenases (its family) are explicitly named as a candidate family in the PFAS-engineering review literature, not because it's PFAS-relevant on its own. DiffDock docking now confirms this directly: fluoroacetate docks at high confidence in 9/30 candidates, PFOA and PFOS dock at high confidence in 0/30. See `research/diffdock_results.md`.
 - **A real PFAS-active gene exists, and it can't be used yet.** `rdhA`, from *Acidimicrobium* sp. strain A6, was shown by gene-knockout experiments (Jaffé et al., 2024) to actually drive PFOA/PFOS defluorination in a living organism. As of this writing it has no public sequence or structure anywhere checked: not UniProt, not NCBI Protein, not NCBI Assembly, not AlphaFold DB (which is built from UniProt entries, so no UniProt hit means no model either). Worth rechecking periodically.
 - **Self-consistency, even with an MD check added, still isn't activity.** None of the 30 candidates has been synthesized. Nothing has touched a real fluorine-containing molecule. Structure-prediction agreement and short-timescale MD stability are real, standard early filters in computational enzyme design. Neither is evidence that anything works.
 - **The "15+ companies" and "$132B" figures from an earlier draft of this brief got dropped.** Neither could be verified. What's in `research/` instead is a shorter list of things actually checked, with sources attached.
@@ -51,10 +53,10 @@ The pipeline works. More GPU time produces more candidates at roughly the same p
 ```
 pipeline/       the actual working code: RFdiffusion setup, ProteinMPNN wrapper,
                 ESMFold filter, RMSD scoring, curation, MD relaxation,
-                orchestration, Dockerfile
+                DiffDock docking, orchestration, Dockerfile
 data/shortlist/ the 30 real candidates: manifest, FASTA, predicted structures,
-                relaxed structures and MD stability results
+                relaxed structures + MD results, docking results
 research/       market data, competitor list, enzyme science notes, MD
-                relaxation methodology, MCP setup, everything sourced
+                relaxation and docking methodology, MCP setup, everything sourced
 outreach/       PI shortlist and the actual email that was sent
 ```

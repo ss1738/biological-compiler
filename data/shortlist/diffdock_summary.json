@@ -1,0 +1,362 @@
+[
+  {
+    "complex": "rank01_batch2_design_0073_seq5__PFOA",
+    "top_confidence": -0.9
+  },
+  {
+    "complex": "rank01_batch2_design_0073_seq5__PFOS",
+    "top_confidence": -1.24
+  },
+  {
+    "complex": "rank01_batch2_design_0073_seq5__fluoroacetate",
+    "top_confidence": 0.09
+  },
+  {
+    "complex": "rank02_batch1_design_0098_seq3__PFOA",
+    "top_confidence": -2.07
+  },
+  {
+    "complex": "rank02_batch1_design_0098_seq3__PFOS",
+    "top_confidence": -2.19
+  },
+  {
+    "complex": "rank02_batch1_design_0098_seq3__fluoroacetate",
+    "top_confidence": -0.11
+  },
+  {
+    "complex": "rank03_batch2_design_0152_seq6__PFOA",
+    "top_confidence": -1.34
+  },
+  {
+    "complex": "rank03_batch2_design_0152_seq6__PFOS",
+    "top_confidence": -1.73
+  },
+  {
+    "complex": "rank03_batch2_design_0152_seq6__fluoroacetate",
+    "top_confidence": 0.05
+  },
+  {
+    "complex": "rank04_batch2_design_0049_seq5__PFOA",
+    "top_confidence": -1.54
+  },
+  {
+    "complex": "rank04_batch2_design_0049_seq5__PFOS",
+    "top_confidence": -2.24
+  },
+  {
+    "complex": "rank04_batch2_design_0049_seq5__fluoroacetate",
+    "top_confidence": -0.08
+  },
+  {
+    "complex": "rank05_batch2_design_0152_seq1__PFOA",
+    "top_confidence": -3.79
+  },
+  {
+    "complex": "rank05_batch2_design_0152_seq1__PFOS",
+    "top_confidence": -2.49
+  },
+  {
+    "complex": "rank05_batch2_design_0152_seq1__fluoroacetate",
+    "top_confidence": 0.22
+  },
+  {
+    "complex": "rank06_batch1_design_0099_seq7__PFOA",
+    "top_confidence": -2.36
+  },
+  {
+    "complex": "rank06_batch1_design_0099_seq7__PFOS",
+    "top_confidence": -2.53
+  },
+  {
+    "complex": "rank06_batch1_design_0099_seq7__fluoroacetate",
+    "top_confidence": -0.03
+  },
+  {
+    "complex": "rank07_batch1_design_0010_seq2__PFOA",
+    "top_confidence": -3.4
+  },
+  {
+    "complex": "rank07_batch1_design_0010_seq2__PFOS",
+    "top_confidence": -3.09
+  },
+  {
+    "complex": "rank07_batch1_design_0010_seq2__fluoroacetate",
+    "top_confidence": 0.12
+  },
+  {
+    "complex": "rank08_batch1_design_0098_seq2__PFOA",
+    "top_confidence": -2.26
+  },
+  {
+    "complex": "rank08_batch1_design_0098_seq2__PFOS",
+    "top_confidence": -1.8
+  },
+  {
+    "complex": "rank08_batch1_design_0098_seq2__fluoroacetate",
+    "top_confidence": 0.22
+  },
+  {
+    "complex": "rank09_batch2_design_0141_seq1__PFOA",
+    "top_confidence": -0.61
+  },
+  {
+    "complex": "rank09_batch2_design_0141_seq1__PFOS",
+    "top_confidence": -1.04
+  },
+  {
+    "complex": "rank09_batch2_design_0141_seq1__fluoroacetate",
+    "top_confidence": -0.35
+  },
+  {
+    "complex": "rank10_batch2_design_0057_seq4__PFOA",
+    "top_confidence": -1.65
+  },
+  {
+    "complex": "rank10_batch2_design_0057_seq4__PFOS",
+    "top_confidence": -1.59
+  },
+  {
+    "complex": "rank10_batch2_design_0057_seq4__fluoroacetate",
+    "top_confidence": 0.29
+  },
+  {
+    "complex": "rank11_batch2_design_0194_seq4__PFOA",
+    "top_confidence": -2.32
+  },
+  {
+    "complex": "rank11_batch2_design_0194_seq4__PFOS",
+    "top_confidence": -2.1
+  },
+  {
+    "complex": "rank11_batch2_design_0194_seq4__fluoroacetate",
+    "top_confidence": -0.05
+  },
+  {
+    "complex": "rank12_batch2_design_0296_seq0__PFOA",
+    "top_confidence": -2.04
+  },
+  {
+    "complex": "rank12_batch2_design_0296_seq0__PFOS",
+    "top_confidence": -2.72
+  },
+  {
+    "complex": "rank12_batch2_design_0296_seq0__fluoroacetate",
+    "top_confidence": -0.44
+  },
+  {
+    "complex": "rank13_batch1_design_0098_seq5__PFOA",
+    "top_confidence": -2.57
+  },
+  {
+    "complex": "rank13_batch1_design_0098_seq5__PFOS",
+    "top_confidence": -3.13
+  },
+  {
+    "complex": "rank13_batch1_design_0098_seq5__fluoroacetate",
+    "top_confidence": -0.36
+  },
+  {
+    "complex": "rank14_batch2_design_0111_seq0__PFOA",
+    "top_confidence": -0.89
+  },
+  {
+    "complex": "rank14_batch2_design_0111_seq0__PFOS",
+    "top_confidence": -1.75
+  },
+  {
+    "complex": "rank14_batch2_design_0111_seq0__fluoroacetate",
+    "top_confidence": -0.07
+  },
+  {
+    "complex": "rank15_batch1_design_0049_seq0__PFOA",
+    "top_confidence": -0.9
+  },
+  {
+    "complex": "rank15_batch1_design_0049_seq0__PFOS",
+    "top_confidence": -1.83
+  },
+  {
+    "complex": "rank15_batch1_design_0049_seq0__fluoroacetate",
+    "top_confidence": -0.03
+  },
+  {
+    "complex": "rank16_batch2_design_0225_seq8__PFOA",
+    "top_confidence": -2.09
+  },
+  {
+    "complex": "rank16_batch2_design_0225_seq8__PFOS",
+    "top_confidence": -2.64
+  },
+  {
+    "complex": "rank16_batch2_design_0225_seq8__fluoroacetate",
+    "top_confidence": 0.1
+  },
+  {
+    "complex": "rank17_batch2_design_0164_seq7__PFOA",
+    "top_confidence": -3.61
+  },
+  {
+    "complex": "rank17_batch2_design_0164_seq7__PFOS",
+    "top_confidence": -2.44
+  },
+  {
+    "complex": "rank17_batch2_design_0164_seq7__fluoroacetate",
+    "top_confidence": -0.3
+  },
+  {
+    "complex": "rank18_batch2_design_0194_seq7__PFOA",
+    "top_confidence": -2.03
+  },
+  {
+    "complex": "rank18_batch2_design_0194_seq7__PFOS",
+    "top_confidence": -2.7
+  },
+  {
+    "complex": "rank18_batch2_design_0194_seq7__fluoroacetate",
+    "top_confidence": -0.31
+  },
+  {
+    "complex": "rank19_batch2_design_0003_seq3__PFOA",
+    "top_confidence": -3.06
+  },
+  {
+    "complex": "rank19_batch2_design_0003_seq3__PFOS",
+    "top_confidence": -2.78
+  },
+  {
+    "complex": "rank19_batch2_design_0003_seq3__fluoroacetate",
+    "top_confidence": 0.09
+  },
+  {
+    "complex": "rank20_batch1_design_0010_seq5__PFOA",
+    "top_confidence": -1.56
+  },
+  {
+    "complex": "rank20_batch1_design_0010_seq5__PFOS",
+    "top_confidence": -2.27
+  },
+  {
+    "complex": "rank20_batch1_design_0010_seq5__fluoroacetate",
+    "top_confidence": -0.1
+  },
+  {
+    "complex": "rank21_batch1_design_0099_seq3__PFOA",
+    "top_confidence": -1.22
+  },
+  {
+    "complex": "rank21_batch1_design_0099_seq3__PFOS",
+    "top_confidence": -1.41
+  },
+  {
+    "complex": "rank21_batch1_design_0099_seq3__fluoroacetate",
+    "top_confidence": -0.04
+  },
+  {
+    "complex": "rank22_batch1_design_0006_seq1__PFOA",
+    "top_confidence": -2.52
+  },
+  {
+    "complex": "rank22_batch1_design_0006_seq1__PFOS",
+    "top_confidence": -2.38
+  },
+  {
+    "complex": "rank22_batch1_design_0006_seq1__fluoroacetate",
+    "top_confidence": -0.3
+  },
+  {
+    "complex": "rank23_batch2_design_0194_seq1__PFOA",
+    "top_confidence": -2.07
+  },
+  {
+    "complex": "rank23_batch2_design_0194_seq1__PFOS",
+    "top_confidence": -1.68
+  },
+  {
+    "complex": "rank23_batch2_design_0194_seq1__fluoroacetate",
+    "top_confidence": -0.22
+  },
+  {
+    "complex": "rank24_batch2_design_0003_seq0__PFOA",
+    "top_confidence": -2.85
+  },
+  {
+    "complex": "rank24_batch2_design_0003_seq0__PFOS",
+    "top_confidence": -2.66
+  },
+  {
+    "complex": "rank24_batch2_design_0003_seq0__fluoroacetate",
+    "top_confidence": -0.04
+  },
+  {
+    "complex": "rank25_batch2_design_0143_seq8__PFOA",
+    "top_confidence": -2.14
+  },
+  {
+    "complex": "rank25_batch2_design_0143_seq8__PFOS",
+    "top_confidence": -2.03
+  },
+  {
+    "complex": "rank25_batch2_design_0143_seq8__fluoroacetate",
+    "top_confidence": 0.25
+  },
+  {
+    "complex": "rank26_batch2_design_0241_seq0__PFOA",
+    "top_confidence": -2.13
+  },
+  {
+    "complex": "rank26_batch2_design_0241_seq0__PFOS",
+    "top_confidence": -1.87
+  },
+  {
+    "complex": "rank26_batch2_design_0241_seq0__fluoroacetate",
+    "top_confidence": -0.63
+  },
+  {
+    "complex": "rank27_batch2_design_0092_seq5__PFOA",
+    "top_confidence": -1.79
+  },
+  {
+    "complex": "rank27_batch2_design_0092_seq5__PFOS",
+    "top_confidence": -1.46
+  },
+  {
+    "complex": "rank27_batch2_design_0092_seq5__fluoroacetate",
+    "top_confidence": -0.23
+  },
+  {
+    "complex": "rank28_batch2_design_0251_seq4__PFOA",
+    "top_confidence": -1.31
+  },
+  {
+    "complex": "rank28_batch2_design_0251_seq4__PFOS",
+    "top_confidence": -1.77
+  },
+  {
+    "complex": "rank28_batch2_design_0251_seq4__fluoroacetate",
+    "top_confidence": -0.21
+  },
+  {
+    "complex": "rank29_batch2_design_0117_seq6__PFOA",
+    "top_confidence": -1.88
+  },
+  {
+    "complex": "rank29_batch2_design_0117_seq6__PFOS",
+    "top_confidence": -2.35
+  },
+  {
+    "complex": "rank29_batch2_design_0117_seq6__fluoroacetate",
+    "top_confidence": -0.31
+  },
+  {
+    "complex": "rank30_batch1_design_0042_seq3__PFOA",
+    "top_confidence": -1.19
+  },
+  {
+    "complex": "rank30_batch1_design_0042_seq3__PFOS",
+    "top_confidence": -1.48
+  },
+  {
+    "complex": "rank30_batch1_design_0042_seq3__fluoroacetate",
+    "top_confidence": -0.28
+  }
+]
