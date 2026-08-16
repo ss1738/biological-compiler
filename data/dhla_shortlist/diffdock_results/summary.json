@@ -1,0 +1,362 @@
+[
+  {
+    "complex": "rank01_design_0064_seq6__12dichloroethane",
+    "top_confidence": -0.63
+  },
+  {
+    "complex": "rank01_design_0064_seq6__PFOA",
+    "top_confidence": -1.98
+  },
+  {
+    "complex": "rank01_design_0064_seq6__PFOS",
+    "top_confidence": -2.28
+  },
+  {
+    "complex": "rank02_design_0041_seq2__12dichloroethane",
+    "top_confidence": -0.87
+  },
+  {
+    "complex": "rank02_design_0041_seq2__PFOA",
+    "top_confidence": -2.32
+  },
+  {
+    "complex": "rank02_design_0041_seq2__PFOS",
+    "top_confidence": -2.72
+  },
+  {
+    "complex": "rank03_design_0074_seq4__12dichloroethane",
+    "top_confidence": -0.78
+  },
+  {
+    "complex": "rank03_design_0074_seq4__PFOA",
+    "top_confidence": -0.98
+  },
+  {
+    "complex": "rank03_design_0074_seq4__PFOS",
+    "top_confidence": -1.42
+  },
+  {
+    "complex": "rank04_design_0103_seq5__12dichloroethane",
+    "top_confidence": -1.13
+  },
+  {
+    "complex": "rank04_design_0103_seq5__PFOA",
+    "top_confidence": -1.52
+  },
+  {
+    "complex": "rank04_design_0103_seq5__PFOS",
+    "top_confidence": -3.27
+  },
+  {
+    "complex": "rank05_design_0193_seq7__12dichloroethane",
+    "top_confidence": -0.46
+  },
+  {
+    "complex": "rank05_design_0193_seq7__PFOA",
+    "top_confidence": -2.87
+  },
+  {
+    "complex": "rank05_design_0193_seq7__PFOS",
+    "top_confidence": -3.18
+  },
+  {
+    "complex": "rank06_design_0121_seq5__12dichloroethane",
+    "top_confidence": -1.11
+  },
+  {
+    "complex": "rank06_design_0121_seq5__PFOA",
+    "top_confidence": -1.61
+  },
+  {
+    "complex": "rank06_design_0121_seq5__PFOS",
+    "top_confidence": -1.5
+  },
+  {
+    "complex": "rank07_design_0168_seq4__12dichloroethane",
+    "top_confidence": -0.35
+  },
+  {
+    "complex": "rank07_design_0168_seq4__PFOA",
+    "top_confidence": -1.38
+  },
+  {
+    "complex": "rank07_design_0168_seq4__PFOS",
+    "top_confidence": -1.79
+  },
+  {
+    "complex": "rank08_design_0168_seq0__12dichloroethane",
+    "top_confidence": -1.57
+  },
+  {
+    "complex": "rank08_design_0168_seq0__PFOA",
+    "top_confidence": -1.66
+  },
+  {
+    "complex": "rank08_design_0168_seq0__PFOS",
+    "top_confidence": -2.47
+  },
+  {
+    "complex": "rank09_design_0145_seq8__12dichloroethane",
+    "top_confidence": -1.24
+  },
+  {
+    "complex": "rank09_design_0145_seq8__PFOA",
+    "top_confidence": -3.19
+  },
+  {
+    "complex": "rank09_design_0145_seq8__PFOS",
+    "top_confidence": -3.11
+  },
+  {
+    "complex": "rank10_design_0131_seq2__12dichloroethane",
+    "top_confidence": -0.63
+  },
+  {
+    "complex": "rank10_design_0131_seq2__PFOA",
+    "top_confidence": -2.08
+  },
+  {
+    "complex": "rank10_design_0131_seq2__PFOS",
+    "top_confidence": -2.01
+  },
+  {
+    "complex": "rank11_design_0103_seq8__12dichloroethane",
+    "top_confidence": -0.91
+  },
+  {
+    "complex": "rank11_design_0103_seq8__PFOA",
+    "top_confidence": -2.05
+  },
+  {
+    "complex": "rank11_design_0103_seq8__PFOS",
+    "top_confidence": -2.34
+  },
+  {
+    "complex": "rank12_design_0193_seq4__12dichloroethane",
+    "top_confidence": -0.05
+  },
+  {
+    "complex": "rank12_design_0193_seq4__PFOA",
+    "top_confidence": -3.18
+  },
+  {
+    "complex": "rank12_design_0193_seq4__PFOS",
+    "top_confidence": -2.49
+  },
+  {
+    "complex": "rank13_design_0158_seq4__12dichloroethane",
+    "top_confidence": -0.57
+  },
+  {
+    "complex": "rank13_design_0158_seq4__PFOA",
+    "top_confidence": -2.34
+  },
+  {
+    "complex": "rank13_design_0158_seq4__PFOS",
+    "top_confidence": -2.42
+  },
+  {
+    "complex": "rank14_design_0145_seq5__12dichloroethane",
+    "top_confidence": -0.35
+  },
+  {
+    "complex": "rank14_design_0145_seq5__PFOA",
+    "top_confidence": -1.63
+  },
+  {
+    "complex": "rank14_design_0145_seq5__PFOS",
+    "top_confidence": -1.79
+  },
+  {
+    "complex": "rank15_design_0049_seq7__12dichloroethane",
+    "top_confidence": -0.84
+  },
+  {
+    "complex": "rank15_design_0049_seq7__PFOA",
+    "top_confidence": -1.2
+  },
+  {
+    "complex": "rank15_design_0049_seq7__PFOS",
+    "top_confidence": -1.32
+  },
+  {
+    "complex": "rank16_design_0017_seq1__12dichloroethane",
+    "top_confidence": -0.21
+  },
+  {
+    "complex": "rank16_design_0017_seq1__PFOA",
+    "top_confidence": -2.37
+  },
+  {
+    "complex": "rank16_design_0017_seq1__PFOS",
+    "top_confidence": -2.35
+  },
+  {
+    "complex": "rank17_design_0131_seq5__12dichloroethane",
+    "top_confidence": -1.27
+  },
+  {
+    "complex": "rank17_design_0131_seq5__PFOA",
+    "top_confidence": -1.42
+  },
+  {
+    "complex": "rank17_design_0131_seq5__PFOS",
+    "top_confidence": -1.79
+  },
+  {
+    "complex": "rank18_design_0041_seq8__12dichloroethane",
+    "top_confidence": -0.5
+  },
+  {
+    "complex": "rank18_design_0041_seq8__PFOA",
+    "top_confidence": -2.29
+  },
+  {
+    "complex": "rank18_design_0041_seq8__PFOS",
+    "top_confidence": -1.58
+  },
+  {
+    "complex": "rank19_design_0021_seq3__12dichloroethane",
+    "top_confidence": -0.27
+  },
+  {
+    "complex": "rank19_design_0021_seq3__PFOA",
+    "top_confidence": -2.93
+  },
+  {
+    "complex": "rank19_design_0021_seq3__PFOS",
+    "top_confidence": -2.31
+  },
+  {
+    "complex": "rank20_design_0152_seq1__12dichloroethane",
+    "top_confidence": -0.26
+  },
+  {
+    "complex": "rank20_design_0152_seq1__PFOA",
+    "top_confidence": -1.27
+  },
+  {
+    "complex": "rank20_design_0152_seq1__PFOS",
+    "top_confidence": -1.64
+  },
+  {
+    "complex": "rank21_design_0041_seq3__12dichloroethane",
+    "top_confidence": -0.81
+  },
+  {
+    "complex": "rank21_design_0041_seq3__PFOA",
+    "top_confidence": -1.34
+  },
+  {
+    "complex": "rank21_design_0041_seq3__PFOS",
+    "top_confidence": -2.2
+  },
+  {
+    "complex": "rank22_design_0170_seq1__12dichloroethane",
+    "top_confidence": -0.11
+  },
+  {
+    "complex": "rank22_design_0170_seq1__PFOA",
+    "top_confidence": -0.95
+  },
+  {
+    "complex": "rank22_design_0170_seq1__PFOS",
+    "top_confidence": -1.76
+  },
+  {
+    "complex": "rank23_design_0002_seq8__12dichloroethane",
+    "top_confidence": -0.74
+  },
+  {
+    "complex": "rank23_design_0002_seq8__PFOA",
+    "top_confidence": -1.86
+  },
+  {
+    "complex": "rank23_design_0002_seq8__PFOS",
+    "top_confidence": -1.38
+  },
+  {
+    "complex": "rank24_design_0145_seq2__12dichloroethane",
+    "top_confidence": -1.09
+  },
+  {
+    "complex": "rank24_design_0145_seq2__PFOA",
+    "top_confidence": -1.02
+  },
+  {
+    "complex": "rank24_design_0145_seq2__PFOS",
+    "top_confidence": -1.86
+  },
+  {
+    "complex": "rank25_design_0103_seq7__12dichloroethane",
+    "top_confidence": -0.41
+  },
+  {
+    "complex": "rank25_design_0103_seq7__PFOA",
+    "top_confidence": -2.62
+  },
+  {
+    "complex": "rank25_design_0103_seq7__PFOS",
+    "top_confidence": -3.08
+  },
+  {
+    "complex": "rank26_design_0064_seq0__12dichloroethane",
+    "top_confidence": -0.55
+  },
+  {
+    "complex": "rank26_design_0064_seq0__PFOA",
+    "top_confidence": -1.92
+  },
+  {
+    "complex": "rank26_design_0064_seq0__PFOS",
+    "top_confidence": -1.84
+  },
+  {
+    "complex": "rank27_design_0158_seq5__12dichloroethane",
+    "top_confidence": -0.48
+  },
+  {
+    "complex": "rank27_design_0158_seq5__PFOA",
+    "top_confidence": -2.4
+  },
+  {
+    "complex": "rank27_design_0158_seq5__PFOS",
+    "top_confidence": -2.94
+  },
+  {
+    "complex": "rank28_design_0029_seq2__12dichloroethane",
+    "top_confidence": -0.89
+  },
+  {
+    "complex": "rank28_design_0029_seq2__PFOA",
+    "top_confidence": -1.28
+  },
+  {
+    "complex": "rank28_design_0029_seq2__PFOS",
+    "top_confidence": -1.98
+  },
+  {
+    "complex": "rank29_design_0136_seq5__12dichloroethane",
+    "top_confidence": -0.73
+  },
+  {
+    "complex": "rank29_design_0136_seq5__PFOA",
+    "top_confidence": -2.33
+  },
+  {
+    "complex": "rank29_design_0136_seq5__PFOS",
+    "top_confidence": -2.15
+  },
+  {
+    "complex": "rank30_design_0096_seq1__12dichloroethane",
+    "top_confidence": -0.62
+  },
+  {
+    "complex": "rank30_design_0096_seq1__PFOA",
+    "top_confidence": -3.12
+  },
+  {
+    "complex": "rank30_design_0096_seq1__PFOS",
+    "top_confidence": -2.91
+  }
+]

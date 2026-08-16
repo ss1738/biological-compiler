@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "global_id": "design_0064_seq6",
+    "backbone_drift_A": 1.2550960027330123,
+    "active_site_drift_A": 0.5999888308451501
+  },
+  {
+    "rank": 2,
+    "global_id": "design_0041_seq2",
+    "backbone_drift_A": 1.299414668630921,
+    "active_site_drift_A": 0.996127995650533
+  },
+  {
+    "rank": 3,
+    "global_id": "design_0074_seq4",
+    "backbone_drift_A": 1.7326225738958911,
+    "active_site_drift_A": 1.8835775924396168
+  },
+  {
+    "rank": 4,
+    "global_id": "design_0103_seq5",
+    "backbone_drift_A": 1.499718575500481,
+    "active_site_drift_A": 0.9770713643542317
+  },
+  {
+    "rank": 5,
+    "global_id": "design_0193_seq7",
+    "backbone_drift_A": 2.0700250233915685,
+    "active_site_drift_A": 0.559066526418683
+  },
+  {
+    "rank": 6,
+    "global_id": "design_0121_seq5",
+    "backbone_drift_A": 1.2050450485079405,
+    "active_site_drift_A": 0.700229265519797
+  },
+  {
+    "rank": 7,
+    "global_id": "design_0168_seq4",
+    "backbone_drift_A": 1.141893876629973,
+    "active_site_drift_A": 0.5377505412876539
+  },
+  {
+    "rank": 8,
+    "global_id": "design_0168_seq0",
+    "backbone_drift_A": 1.715528453703751,
+    "active_site_drift_A": 2.3432696398643147
+  },
+  {
+    "rank": 9,
+    "global_id": "design_0145_seq8",
+    "backbone_drift_A": 1.5232180499634922,
+    "active_site_drift_A": 0.6842723699874553
+  },
+  {
+    "rank": 10,
+    "global_id": "design_0131_seq2",
+    "backbone_drift_A": 1.2803218902694533,
+    "active_site_drift_A": 0.421515788906175
+  },
+  {
+    "rank": 11,
+    "global_id": "design_0103_seq8",
+    "backbone_drift_A": 1.4975008924036242,
+    "active_site_drift_A": 1.2151013852754475
+  },
+  {
+    "rank": 12,
+    "global_id": "design_0193_seq4",
+    "backbone_drift_A": 1.6832677560073437,
+    "active_site_drift_A": 1.1417161563315665
+  },
+  {
+    "rank": 13,
+    "global_id": "design_0158_seq4",
+    "backbone_drift_A": 1.9285285419565317,
+    "active_site_drift_A": 1.183711847743649
+  },
+  {
+    "rank": 14,
+    "global_id": "design_0145_seq5",
+    "backbone_drift_A": 1.5225476373590903,
+    "active_site_drift_A": 1.2990204105745649
+  },
+  {
+    "rank": 15,
+    "global_id": "design_0049_seq7",
+    "backbone_drift_A": 1.2426551234117544,
+    "active_site_drift_A": 0.3491858158508482
+  },
+  {
+    "rank": 16,
+    "global_id": "design_0017_seq1",
+    "backbone_drift_A": 1.2282489513125223,
+    "active_site_drift_A": 0.5433612593245307
+  },
+  {
+    "rank": 17,
+    "global_id": "design_0131_seq5",
+    "backbone_drift_A": 1.3905761769979936,
+    "active_site_drift_A": 0.9396957446263627
+  },
+  {
+    "rank": 18,
+    "global_id": "design_0041_seq8",
+    "backbone_drift_A": 1.577399219381099,
+    "active_site_drift_A": 0.5716161513135272
+  },
+  {
+    "rank": 19,
+    "global_id": "design_0021_seq3",
+    "backbone_drift_A": 1.2466404272609037,
+    "active_site_drift_A": 0.6218892562386185
+  },
+  {
+    "rank": 20,
+    "global_id": "design_0152_seq1",
+    "backbone_drift_A": 1.0477877675930127,
+    "active_site_drift_A": 0.43346877308129433
+  },
+  {
+    "rank": 21,
+    "global_id": "design_0041_seq3",
+    "backbone_drift_A": 1.2142873952873834,
+    "active_site_drift_A": 0.4479298741785534
+  },
+  {
+    "rank": 22,
+    "global_id": "design_0170_seq1",
+    "backbone_drift_A": 1.0499839595032254,
+    "active_site_drift_A": 0.5180817949731394
+  },
+  {
+    "rank": 23,
+    "global_id": "design_0002_seq8",
+    "backbone_drift_A": 2.0283907664786818,
+    "active_site_drift_A": 1.0402181731533249
+  },
+  {
+    "rank": 24,
+    "global_id": "design_0145_seq2",
+    "backbone_drift_A": 1.0894458026239093,
+    "active_site_drift_A": 0.5693857939084547
+  },
+  {
+    "rank": 25,
+    "global_id": "design_0103_seq7",
+    "backbone_drift_A": 1.3227186540500508,
+    "active_site_drift_A": 0.6404988720770408
+  },
+  {
+    "rank": 26,
+    "global_id": "design_0064_seq0",
+    "backbone_drift_A": 1.4861083127059644,
+    "active_site_drift_A": 0.6383173224399068
+  },
+  {
+    "rank": 27,
+    "global_id": "design_0158_seq5",
+    "backbone_drift_A": 1.1423830628587706,
+    "active_site_drift_A": 0.748745869314629
+  },
+  {
+    "rank": 28,
+    "global_id": "design_0029_seq2",
+    "backbone_drift_A": 1.3329718088499118,
+    "active_site_drift_A": 1.322770621831968
+  },
+  {
+    "rank": 29,
+    "global_id": "design_0136_seq5",
+    "backbone_drift_A": 1.1923140041137543,
+    "active_site_drift_A": 0.5614969182580329
+  },
+  {
+    "rank": 30,
+    "global_id": "design_0096_seq1",
+    "backbone_drift_A": 1.595501887371203,
+    "active_site_drift_A": 0.7983048640702162
+  }
+]

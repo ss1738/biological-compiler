@@ -1,0 +1,110 @@
+=== DhlA overnight campaign starting Sat 15 Aug 13:46:52 AKDT 2026 ===
+=== Launching stage 1 at Sat 15 Aug 13:46:52 AKDT 2026 ===
+[13:46:52] [MAIN] === STAGE 1: RFdiffusion/ProteinMPNN/ESMFold campaign ===
+[13:46:54] [S1] Loading ESMFold...
+Loading weights:   0%|          | 0/4498 [00:00<?, ?it/s]Loading weights:   0%|          | 18/4498 [00:00<01:48, 41.45it/s]Loading weights: 100%|██████████| 4498/4498 [00:00<00:00, 8842.92it/s]
+[transformers] [1mEsmForProteinFolding LOAD REPORT[0m from: facebook/esmfold_v1
+Key                                | Status  | 
+-----------------------------------+---------+-
+esm.contact_head.regression.bias   | MISSING | 
+esm.contact_head.regression.weight | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+[13:46:58] [S1] ESMFold loaded
+[14:10:56] [S1]   20/200 backbones, 180 seqs, 48 candidates
+[14:35:03] [S1]   40/200 backbones, 360 seqs, 96 candidates
+[14:58:32] [S1]   60/200 backbones, 540 seqs, 138 candidates
+[15:21:19] [S1]   80/200 backbones, 720 seqs, 186 candidates
+[15:45:15] [S1]   100/200 backbones, 900 seqs, 227 candidates
+[16:08:18] [S1]   120/200 backbones, 1080 seqs, 277 candidates
+[16:32:43] [S1]   140/200 backbones, 1260 seqs, 326 candidates
+[16:55:41] [S1]   160/200 backbones, 1440 seqs, 392 candidates
+[17:18:06] [S1]   180/200 backbones, 1620 seqs, 443 candidates
+[17:42:34] [S1]   200/200 backbones, 1800 seqs, 474 candidates
+[17:42:34] [S1] COMPLETE: 200 backbones, 1800 sequences, 474 candidates
+=== Stage 1 finished cleanly at Sat 15 Aug 17:42:34 AKDT 2026 ===
+=== Launching stage 2 at Sat 15 Aug 17:42:34 AKDT 2026 ===
+[17:42:34] [MAIN] === STAGE 2: curate shortlist ===
+[17:42:34] [S2] Total passed: 474, selected: 30 from 19 backbones
+[17:42:34] [MAIN] === STAGE 2 COMPLETE ===
+=== Stage 2 finished cleanly at Sat 15 Aug 17:42:34 AKDT 2026 ===
+=== Launching stage 3 at Sat 15 Aug 17:42:34 AKDT 2026 ===
+[17:42:34] [MAIN] === STAGE 3: OpenMM relaxation ===
+[17:42:45] [S3]   [1/30] design_0064_seq6: backbone=1.26A site=0.5999888308451501
+[17:42:55] [S3]   [2/30] design_0041_seq2: backbone=1.30A site=0.996127995650533
+[17:43:06] [S3]   [3/30] design_0074_seq4: backbone=1.73A site=1.8835775924396168
+[17:43:16] [S3]   [4/30] design_0103_seq5: backbone=1.50A site=0.9770713643542317
+[17:43:28] [S3]   [5/30] design_0193_seq7: backbone=2.07A site=0.559066526418683
+[17:43:38] [S3]   [6/30] design_0121_seq5: backbone=1.21A site=0.700229265519797
+[17:43:47] [S3]   [7/30] design_0168_seq4: backbone=1.14A site=0.5377505412876539
+[17:43:55] [S3]   [8/30] design_0168_seq0: backbone=1.72A site=2.3432696398643147
+[17:44:03] [S3]   [9/30] design_0145_seq8: backbone=1.52A site=0.6842723699874553
+[17:44:16] [S3]   [10/30] design_0131_seq2: backbone=1.28A site=0.421515788906175
+[17:44:26] [S3]   [11/30] design_0103_seq8: backbone=1.50A site=1.2151013852754475
+[17:44:38] [S3]   [12/30] design_0193_seq4: backbone=1.68A site=1.1417161563315665
+[17:44:49] [S3]   [13/30] design_0158_seq4: backbone=1.93A site=1.183711847743649
+[17:44:58] [S3]   [14/30] design_0145_seq5: backbone=1.52A site=1.2990204105745649
+[17:45:12] [S3]   [15/30] design_0049_seq7: backbone=1.24A site=0.3491858158508482
+[17:45:21] [S3]   [16/30] design_0017_seq1: backbone=1.23A site=0.5433612593245307
+[17:45:34] [S3]   [17/30] design_0131_seq5: backbone=1.39A site=0.9396957446263627
+[17:45:45] [S3]   [18/30] design_0041_seq8: backbone=1.58A site=0.5716161513135272
+[17:45:58] [S3]   [19/30] design_0021_seq3: backbone=1.25A site=0.6218892562386185
+[17:46:09] [S3]   [20/30] design_0152_seq1: backbone=1.05A site=0.43346877308129433
+[17:46:19] [S3]   [21/30] design_0041_seq3: backbone=1.21A site=0.4479298741785534
+[17:46:30] [S3]   [22/30] design_0170_seq1: backbone=1.05A site=0.5180817949731394
+[17:46:40] [S3]   [23/30] design_0002_seq8: backbone=2.03A site=1.0402181731533249
+[17:46:48] [S3]   [24/30] design_0145_seq2: backbone=1.09A site=0.5693857939084547
+[17:46:57] [S3]   [25/30] design_0103_seq7: backbone=1.32A site=0.6404988720770408
+[17:47:08] [S3]   [26/30] design_0064_seq0: backbone=1.49A site=0.6383173224399068
+[17:47:18] [S3]   [27/30] design_0158_seq5: backbone=1.14A site=0.748745869314629
+[17:47:32] [S3]   [28/30] design_0029_seq2: backbone=1.33A site=1.322770621831968
+[17:47:42] [S3]   [29/30] design_0136_seq5: backbone=1.19A site=0.5614969182580329
+[17:47:58] [S3]   [30/30] design_0096_seq1: backbone=1.60A site=0.7983048640702162
+[17:47:58] [S3] COMPLETE: backbone<2.0A: 28/30, site<1.0A: 22/30
+=== Stage 3 finished cleanly at Sat 15 Aug 17:47:58 AKDT 2026 ===
+=== Launching stage 4 at Sat 15 Aug 17:47:58 AKDT 2026 ===
+[17:47:58] [MAIN] === STAGE 4: DiffDock ===
+[17:47:58] [S4] 90 docking jobs
+[17:52:53] [S4] DiffDock exit: returncode=0
+[17:52:53] [S4]   12dichloroethane: n=30 mean=-0.68 high_conf(c>0)=0/30
+[17:52:53] [S4]   PFOA: n=30 mean=-1.97 high_conf(c>0)=0/30
+[17:52:53] [S4]   PFOS: n=30 mean=-2.20 high_conf(c>0)=0/30
+[17:52:53] [MAIN] === STAGE 4 COMPLETE ===
+=== Stage 4 finished cleanly at Sat 15 Aug 17:52:53 AKDT 2026 ===
+=== Launching stage 5 at Sat 15 Aug 17:52:53 AKDT 2026 ===
+[17:52:53] [MAIN] === STAGE 5: Chai-1 ===
+[17:53:32] [S5]   [1/30] design_0064_seq6: ptm=0.849
+[17:54:11] [S5]   [2/30] design_0041_seq2: ptm=0.902
+[17:54:50] [S5]   [3/30] design_0074_seq4: ptm=0.903
+[17:55:28] [S5]   [4/30] design_0103_seq5: ptm=0.842
+[17:56:07] [S5]   [5/30] design_0193_seq7: ptm=0.842
+[17:56:46] [S5]   [6/30] design_0121_seq5: ptm=0.890
+[17:57:24] [S5]   [7/30] design_0168_seq4: ptm=0.913
+[17:58:03] [S5]   [8/30] design_0168_seq0: ptm=0.801
+[17:58:41] [S5]   [9/30] design_0145_seq8: ptm=0.878
+[17:59:20] [S5]   [10/30] design_0131_seq2: ptm=0.875
+[17:59:58] [S5]   [11/30] design_0103_seq8: ptm=0.887
+[18:00:37] [S5]   [12/30] design_0193_seq4: ptm=0.909
+[18:01:16] [S5]   [13/30] design_0158_seq4: ptm=0.901
+[18:01:54] [S5]   [14/30] design_0145_seq5: ptm=0.891
+[18:02:33] [S5]   [15/30] design_0049_seq7: ptm=0.791
+[18:03:12] [S5]   [16/30] design_0017_seq1: ptm=0.904
+[18:03:50] [S5]   [17/30] design_0131_seq5: ptm=0.875
+[18:04:29] [S5]   [18/30] design_0041_seq8: ptm=0.884
+[18:05:08] [S5]   [19/30] design_0021_seq3: ptm=0.873
+[18:05:46] [S5]   [20/30] design_0152_seq1: ptm=0.908
+[18:06:25] [S5]   [21/30] design_0041_seq3: ptm=0.895
+[18:07:03] [S5]   [22/30] design_0170_seq1: ptm=0.931
+[18:07:42] [S5]   [23/30] design_0002_seq8: ptm=0.834
+[18:08:20] [S5]   [24/30] design_0145_seq2: ptm=0.885
+[18:08:59] [S5]   [25/30] design_0103_seq7: ptm=0.880
+[18:09:38] [S5]   [26/30] design_0064_seq0: ptm=0.891
+[18:10:16] [S5]   [27/30] design_0158_seq5: ptm=0.904
+[18:10:55] [S5]   [28/30] design_0029_seq2: ptm=0.872
+[18:11:33] [S5]   [29/30] design_0136_seq5: ptm=0.892
+[18:12:12] [S5]   [30/30] design_0096_seq1: ptm=0.856
+[18:12:12] [S5] COMPLETE: pTM mean=0.879 n>0.7=30/30
+[18:12:12] [MAIN] === STAGE 5 COMPLETE ===
+=== Stage 5 finished cleanly at Sat 15 Aug 18:12:12 AKDT 2026 ===
+=== DhlA overnight campaign fully complete at Sat 15 Aug 18:12:12 AKDT 2026 ===

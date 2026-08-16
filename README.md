@@ -34,6 +34,8 @@ A third check asked a different question: does a real substrate molecule actuall
 
 A fourth check used a second, architecturally unrelated structure-prediction model (Chai-1, an AlphaFold3-class diffusion model, not a language-model-based folder like ESMFold) to independently re-fold all 30 sequences. 30/30 came back high-confidence (pTM > 0.7, mean 0.887) -- a different method arriving at the same answer as ESMFold did, which rules out that agreement being some ESMFold-specific artifact. Full numbers in `research/chai1_results.md`.
 
+A fifth run tried a genuinely different real target: haloalkane dehalogenase (DhlA, PDB 2HAD) instead of FAcD, on the hypothesis that its unactivated-alkyl-halide-in-a-hydrophobic-pocket mechanism might be geometrically closer to a PFAS chain than FAcD's carboxylate-adjacent single-F-bond chemistry is. Full pipeline, 200 backbones, unattended. Result was more ambiguous than a clean yes or no: Chai-1 confidence and MD stability both matched FAcD's numbers almost exactly, but DiffDock came back 0/30 high-confidence for DhlA's *own native substrate*, not just for PFAS -- a different failure mode than FAcD's clean "binds its own substrate, doesn't bind PFAS" result. The hypothesis remains genuinely untested by this data. Full writeup, including why, in `research/dhla_second_target.md`.
+
 ## The gap
 
 Nobody's building the full stack here. There are protein-design tool companies (Baker lab spinouts, various RFdiffusion-adjacent platforms), and there are PFAS remediation product companies doing physical or chemical treatment (see above). Nothing found so far does "generate candidate enzymes specifically for PFAS chemistry, end to end, and get them into a real assay." That's the actual gap. Not because it's technically impossible; this pipeline shows the mechanics work. It's because the work sits between two worlds that don't usually talk to each other.
@@ -53,13 +55,17 @@ The pipeline works. More GPU time produces more candidates at roughly the same p
 ## Repo layout
 
 ```
-pipeline/       the actual working code: RFdiffusion setup, ProteinMPNN wrapper,
-                ESMFold filter, RMSD scoring, curation, MD relaxation,
-                DiffDock docking, Chai-1 folding, orchestration, Dockerfile
-data/shortlist/ the 30 real candidates: manifest, FASTA, predicted structures,
-                relaxed structures + MD results, docking results, Chai-1 results
-research/       market data, competitor list, enzyme science notes, MD
-                relaxation / docking / Chai-1 methodology, MCP setup,
-                everything sourced
-outreach/       PI shortlist and the actual email that was sent
+pipeline/          the actual working code: RFdiffusion setup, ProteinMPNN
+                    wrapper, ESMFold filter, RMSD scoring, curation, MD
+                    relaxation, DiffDock docking, Chai-1 folding,
+                    orchestration, Dockerfile
+data/shortlist/     the 30 real FAcD candidates: manifest, FASTA, predicted
+                    structures, relaxed structures + MD results, docking
+                    results, Chai-1 results
+data/dhla_shortlist/ the second-target (DhlA) run: same full validation stack,
+                    ambiguous result, see research/dhla_second_target.md
+research/           market data, competitor list, enzyme science notes, MD
+                    relaxation / docking / Chai-1 methodology, the DhlA
+                    second-target writeup, MCP setup, everything sourced
+outreach/           PI shortlist and the actual email that was sent
 ```
