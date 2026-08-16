@@ -1,0 +1,28 @@
+[10:06:58] [MAIN] === STAGE 1: RFdiffusion/ProteinMPNN/ESMFold campaign ===
+[10:07:00] [S1] Loading ESMFold...
+[10:07:03] [S1] ESMFold loaded
+[10:19:44] [S1]   10/10 backbones, 90 seqs, 4 candidates
+[10:19:44] [S1] COMPLETE: 10 backbones, 90 sequences, 4 candidates
+[10:22:31] [MAIN] === STAGE 2: curate shortlist ===
+[10:22:31] [S2] Total passed: 4, selected: 4 from 3 backbones
+[10:22:31] [MAIN] === STAGE 2 COMPLETE ===
+[10:22:39] [MAIN] === STAGE 3: OpenMM relaxation ===
+[10:22:52] [S3]   [1/4] design_0009_seq2: backbone=1.28A site=0.8539389056536512
+[10:23:01] [S3]   [2/4] design_0010_seq4: backbone=1.47A site=1.4247883777839616
+[10:23:12] [S3]   [3/4] design_0009_seq1: backbone=1.62A site=0.8931795791680741
+[10:23:22] [S3]   [4/4] design_0003_seq0: backbone=2.58A site=2.587816448942647
+[10:23:22] [S3] COMPLETE: backbone<2.0A: 3/4, site<1.0A: 2/4
+[10:23:31] [MAIN] === STAGE 4: DiffDock ===
+[10:23:31] [S4] 12 docking jobs
+[10:24:19] [S4] DiffDock exit: returncode=0
+[10:24:19] [S4]   12dichloroethane: n=4 mean=-1.66 high_conf(c>0)=0/4
+[10:24:19] [S4]   PFOA: n=4 mean=-2.33 high_conf(c>0)=0/4
+[10:24:19] [S4]   PFOS: n=4 mean=-2.71 high_conf(c>0)=0/4
+[10:24:19] [MAIN] === STAGE 4 COMPLETE ===
+[10:24:40] [MAIN] === STAGE 5: Chai-1 ===
+[10:25:18] [S5]   [1/4] design_0009_seq2: ptm=0.822
+[10:25:57] [S5]   [2/4] design_0010_seq4: ptm=0.803
+[10:26:36] [S5]   [3/4] design_0009_seq1: ptm=0.831
+[10:27:15] [S5]   [4/4] design_0003_seq0: ptm=0.889
+[10:27:15] [S5] COMPLETE: pTM mean=0.836 n>0.7=4/4
+[10:27:15] [MAIN] === STAGE 5 COMPLETE ===

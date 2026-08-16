@@ -1,0 +1,26 @@
+[
+  {
+    "rank": 1,
+    "global_id": "design_0009_seq2",
+    "backbone_drift_A": 1.2758151361679284,
+    "active_site_drift_A": 0.8539389056536512
+  },
+  {
+    "rank": 2,
+    "global_id": "design_0010_seq4",
+    "backbone_drift_A": 1.4688496960552668,
+    "active_site_drift_A": 1.4247883777839616
+  },
+  {
+    "rank": 3,
+    "global_id": "design_0009_seq1",
+    "backbone_drift_A": 1.6201783003134387,
+    "active_site_drift_A": 0.8931795791680741
+  },
+  {
+    "rank": 4,
+    "global_id": "design_0003_seq0",
+    "backbone_drift_A": 2.577455673317554,
+    "active_site_drift_A": 2.587816448942647
+  }
+]

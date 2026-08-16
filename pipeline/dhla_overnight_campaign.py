@@ -1,32 +1,55 @@
 """
-Overnight campaign: a SECOND, mechanistically different real enzyme target.
+A SECOND, mechanistically different real enzyme target -- and a documented
+negative result, not a working recipe to copy blindly.
 
-Everything up to now scaffolded fluoroacetate dehalogenase (FAcD, a haloACID
-dehalogenase -- activated single C-F bond next to a carboxylate). This targets
-haloalkane dehalogenase (DhlA, PDB 2HAD, Xanthobacter autotrophicus) instead --
-a real, structurally verified enzyme from a DIFFERENT candidate family named in
-the PFAS-engineering review literature. DhlA processes unactivated alkyl
-halides (its native substrate is 1,2-dichloroethane) in a hydrophobic pocket,
-mechanistically closer to a long inert perfluorocarbon chain than FAcD's
-carboxylate-adjacent single-F-bond chemistry. Real hypothesis: does docking
-against real PFAS substrates score any better against THIS scaffold family
-than it did against FAcD (which scored 0/30 high-confidence for PFOA/PFOS)?
+Everything else in this repo scaffolds fluoroacetate dehalogenase (FAcD, a
+haloACID dehalogenase -- activated single C-F bond next to a carboxylate).
+This targets haloalkane dehalogenase (DhlA, PDB 2HAD, Xanthobacter
+autotrophicus) instead -- a real, structurally verified enzyme from a
+DIFFERENT candidate family named in the PFAS-engineering review literature.
+DhlA processes unactivated alkyl halides (its native substrate is
+1,2-dichloroethane) in a hydrophobic pocket, mechanistically closer to a long
+inert perfluorocarbon chain than FAcD's carboxylate-adjacent single-F-bond
+chemistry. The real hypothesis: does docking against real PFAS substrates
+score any better against THIS scaffold family than it did against FAcD (which
+scored 0/30 high-confidence for PFOA/PFOS)?
 
-Catalytic triad verified directly against the downloaded 2HAD structure file:
-Asp124 (nucleophile), Asp260 (H-bond acceptor), His289 (H-bond intermediary).
-No bound ligand in 2HAD (only water), same situation as 1Y37 -- plain motif
-scaffolding, no substrate-contact potential.
+RESULT, both tried, both negative: this motif-scaffolding approach did not
+produce a working DhlA pocket, with either the 3-residue catalytic triad
+(Asp124/Asp260/His289) or a corrected 5-residue set that also includes the
+real chloride-binding tryptophans (Trp125, Trp175, verified via UniProt
+P22643). Both versions scored 0/N DiffDock high-confidence for DhlA's OWN
+native substrate, not just for PFAS -- a different, more informative failure
+mode than FAcD's clean "binds its own substrate, doesn't bind PFAS" result.
+Full writeup: research/dhla_second_target.md. The original hypothesis about
+haloalkane dehalogenases remains genuinely untested, because this method
+can't currently build a working DhlA scaffold to test it with -- not because
+the hypothesis itself was refuted.
+
+The 5-residue version below is what's checked in (the corrected attempt);
+the original 3-residue version is documented in the research writeup for the
+full history, not preserved as a second code path here.
+
+Catalytic residues verified directly against the downloaded 2HAD structure
+file, not just UniProt's annotation. No bound ligand in 2HAD (only water),
+same situation as FAcD's 1Y37 -- plain motif scaffolding, no substrate-contact
+potential.
 
 Runs the full validated stack end to end, unattended:
   RFdiffusion -> ProteinMPNN -> ESMFold filter -> curate shortlist ->
   OpenMM relax -> DiffDock (1,2-dichloroethane + PFOA + PFOS) -> Chai-1 fold
+
+IMPORTANT: each stage must run as its own process (see
+run_dhla_overnight.sh) -- stages 1 and 3 call os._exit(0) internally to work
+around a real torch/CUDA and OpenCL context teardown hang observed on this
+machine. Chaining stages in one long-lived process hard-exits after stage 1.
 """
 import subprocess, json, os, time, pickle, glob, csv, re, sys
 
 BASE = os.path.expanduser("~/biocompiler")
 RFDIFF = f"{BASE}/RFdiffusion"
 MPNN = f"{BASE}/ProteinMPNN"
-CAMPAIGN = f"{BASE}/dhla_campaign"
+CAMPAIGN = f"{BASE}/dhla_campaign_v2"
 PY = f"{BASE}/venv/bin/python3"
 DIFFDOCK_VENV = f"{BASE}/diffdock_venv/bin/python3"
 DIFFDOCK_DIR = f"{BASE}/DiffDock"
@@ -40,8 +63,18 @@ RMSD_PASS = 2.0
 SHORTLIST_N = 30
 MAX_PER_BACKBONE = 3
 
-FIXED_RES = [124, 260, 289]  # Asp124(nucleophile)/Asp260(H-bond acceptor)/His289(H-bond intermediary), DhlA, PDB 2HAD chain A
-CONTIG = "[10-40/A124-124/80-160/A260-260/15-40/A289-289/10-40]"
+# Catalytic triad (Asp124 nucleophile, Asp260 proton donor, His289 proton
+# acceptor) PLUS the two chloride/halide-binding tryptophans (Trp125, Trp175),
+# verified via UniProt P22643 and directly against the 2HAD structure file.
+# Fixing only the triad (an earlier attempt, see research/dhla_second_target.md)
+# came back 0/30 high-confidence DiffDock even for DhlA's own native substrate.
+# This 5-residue version was a real attempt to fix that; it didn't work either
+# (0/4 on a small check) -- kept as the more scientifically complete scaffold
+# despite that, since it's the more correct representation of DhlA's real
+# binding site regardless of whether this scaffolding method can use it well.
+# 124 and 125 are adjacent, scaffolded as one fixed block.
+FIXED_RES = [124, 125, 175, 260, 289]
+CONTIG = "[10-40/A124-125/30-70/A175-175/50-110/A260-260/15-40/A289-289/10-40]"
 INPUT_PDB = "2had.pdb"
 
 SUBSTRATES = {
