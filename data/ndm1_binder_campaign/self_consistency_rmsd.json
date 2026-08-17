@@ -1,0 +1,814 @@
+[
+  {
+    "name": "binder_0060_seq3_ipTM0.901.cif",
+    "iptm": 0.901,
+    "hotspot_contact_A": 4.53,
+    "binder_backbone_rmsd_A": 0.68,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0029_seq3_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 2.99,
+    "binder_backbone_rmsd_A": 0.82,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0098_seq0_ipTM0.875.cif",
+    "iptm": 0.875,
+    "hotspot_contact_A": 3.56,
+    "binder_backbone_rmsd_A": 0.89,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0135_seq1_ipTM0.882.cif",
+    "iptm": 0.882,
+    "hotspot_contact_A": 3.65,
+    "binder_backbone_rmsd_A": 0.93,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0055_seq2_ipTM0.834.cif",
+    "iptm": 0.834,
+    "hotspot_contact_A": 4.58,
+    "binder_backbone_rmsd_A": 1.01,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0045_seq3_ipTM0.705.cif",
+    "iptm": 0.705,
+    "hotspot_contact_A": 4.51,
+    "binder_backbone_rmsd_A": 1.06,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0146_seq2_ipTM0.655.cif",
+    "iptm": 0.655,
+    "hotspot_contact_A": 3.5,
+    "binder_backbone_rmsd_A": 1.07,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0025_seq1_ipTM0.763.cif",
+    "iptm": 0.763,
+    "hotspot_contact_A": 3.12,
+    "binder_backbone_rmsd_A": 1.13,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0057_seq0_ipTM0.796.cif",
+    "iptm": 0.796,
+    "hotspot_contact_A": 3.1,
+    "binder_backbone_rmsd_A": 1.17,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0021_seq2_ipTM0.862.cif",
+    "iptm": 0.862,
+    "hotspot_contact_A": 3.6,
+    "binder_backbone_rmsd_A": 1.2,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0098_seq1_ipTM0.877.cif",
+    "iptm": 0.877,
+    "hotspot_contact_A": 3.48,
+    "binder_backbone_rmsd_A": 1.22,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0115_seq3_ipTM0.657.cif",
+    "iptm": 0.657,
+    "hotspot_contact_A": 4.63,
+    "binder_backbone_rmsd_A": 1.22,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0034_seq0_ipTM0.734.cif",
+    "iptm": 0.734,
+    "hotspot_contact_A": 1.99,
+    "binder_backbone_rmsd_A": 1.24,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0087_seq0_ipTM0.724.cif",
+    "iptm": 0.724,
+    "hotspot_contact_A": 3.34,
+    "binder_backbone_rmsd_A": 1.25,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0055_seq1_ipTM0.778.cif",
+    "iptm": 0.778,
+    "hotspot_contact_A": 4.96,
+    "binder_backbone_rmsd_A": 1.29,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0135_seq0_ipTM0.865.cif",
+    "iptm": 0.865,
+    "hotspot_contact_A": 2.78,
+    "binder_backbone_rmsd_A": 1.3,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0148_seq0_ipTM0.762.cif",
+    "iptm": 0.762,
+    "hotspot_contact_A": 4.43,
+    "binder_backbone_rmsd_A": 1.34,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0087_seq3_ipTM0.788.cif",
+    "iptm": 0.788,
+    "hotspot_contact_A": 2.53,
+    "binder_backbone_rmsd_A": 1.35,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0086_seq1_ipTM0.561.cif",
+    "iptm": 0.561,
+    "hotspot_contact_A": 3.18,
+    "binder_backbone_rmsd_A": 1.41,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0063_seq0_ipTM0.527.cif",
+    "iptm": 0.527,
+    "hotspot_contact_A": 4.73,
+    "binder_backbone_rmsd_A": 1.46,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0008_seq0_ipTM0.803.cif",
+    "iptm": 0.803,
+    "hotspot_contact_A": 4.49,
+    "binder_backbone_rmsd_A": 1.5,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0017_seq2_ipTM0.732.cif",
+    "iptm": 0.732,
+    "hotspot_contact_A": 4.73,
+    "binder_backbone_rmsd_A": 1.51,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0031_seq1_ipTM0.785.cif",
+    "iptm": 0.785,
+    "hotspot_contact_A": 4.12,
+    "binder_backbone_rmsd_A": 1.55,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0055_seq3_ipTM0.798.cif",
+    "iptm": 0.798,
+    "hotspot_contact_A": 4.86,
+    "binder_backbone_rmsd_A": 1.57,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0046_seq2_ipTM0.747.cif",
+    "iptm": 0.747,
+    "hotspot_contact_A": 4.19,
+    "binder_backbone_rmsd_A": 1.62,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0054_seq1_ipTM0.873.cif",
+    "iptm": 0.873,
+    "hotspot_contact_A": 4.88,
+    "binder_backbone_rmsd_A": 1.66,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0118_seq1_ipTM0.839.cif",
+    "iptm": 0.839,
+    "hotspot_contact_A": 4.06,
+    "binder_backbone_rmsd_A": 1.68,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0054_seq2_ipTM0.828.cif",
+    "iptm": 0.828,
+    "hotspot_contact_A": 3.15,
+    "binder_backbone_rmsd_A": 1.68,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0025_seq0_ipTM0.862.cif",
+    "iptm": 0.862,
+    "hotspot_contact_A": 2.54,
+    "binder_backbone_rmsd_A": 1.69,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0096_seq0_ipTM0.747.cif",
+    "iptm": 0.747,
+    "hotspot_contact_A": 3.16,
+    "binder_backbone_rmsd_A": 1.77,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0064_seq0_ipTM0.708.cif",
+    "iptm": 0.708,
+    "hotspot_contact_A": 3.43,
+    "binder_backbone_rmsd_A": 1.77,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0133_seq0_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 3.62,
+    "binder_backbone_rmsd_A": 1.8,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0075_seq3_ipTM0.853.cif",
+    "iptm": 0.853,
+    "hotspot_contact_A": 3.43,
+    "binder_backbone_rmsd_A": 1.81,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0073_seq2_ipTM0.711.cif",
+    "iptm": 0.711,
+    "hotspot_contact_A": 4.44,
+    "binder_backbone_rmsd_A": 1.82,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0086_seq2_ipTM0.647.cif",
+    "iptm": 0.647,
+    "hotspot_contact_A": 4.8,
+    "binder_backbone_rmsd_A": 1.82,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0021_seq3_ipTM0.645.cif",
+    "iptm": 0.645,
+    "hotspot_contact_A": 3.26,
+    "binder_backbone_rmsd_A": 1.83,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0055_seq0_ipTM0.803.cif",
+    "iptm": 0.803,
+    "hotspot_contact_A": 4.75,
+    "binder_backbone_rmsd_A": 1.84,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0075_seq2_ipTM0.824.cif",
+    "iptm": 0.824,
+    "hotspot_contact_A": 3.59,
+    "binder_backbone_rmsd_A": 1.85,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0096_seq1_ipTM0.773.cif",
+    "iptm": 0.773,
+    "hotspot_contact_A": 3.76,
+    "binder_backbone_rmsd_A": 1.86,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0065_seq2_ipTM0.830.cif",
+    "iptm": 0.83,
+    "hotspot_contact_A": 2.69,
+    "binder_backbone_rmsd_A": 1.9,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0062_seq3_ipTM0.652.cif",
+    "iptm": 0.652,
+    "hotspot_contact_A": 3.7,
+    "binder_backbone_rmsd_A": 1.9,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0088_seq2_ipTM0.612.cif",
+    "iptm": 0.612,
+    "hotspot_contact_A": 4.27,
+    "binder_backbone_rmsd_A": 1.91,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0127_seq3_ipTM0.833.cif",
+    "iptm": 0.833,
+    "hotspot_contact_A": 3.6,
+    "binder_backbone_rmsd_A": 1.95,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0100_seq3_ipTM0.801.cif",
+    "iptm": 0.801,
+    "hotspot_contact_A": 2.94,
+    "binder_backbone_rmsd_A": 1.97,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0131_seq2_ipTM0.796.cif",
+    "iptm": 0.796,
+    "hotspot_contact_A": 4.5,
+    "binder_backbone_rmsd_A": 1.97,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0004_seq1_ipTM0.516.cif",
+    "iptm": 0.516,
+    "hotspot_contact_A": 4.34,
+    "binder_backbone_rmsd_A": 1.97,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0075_seq1_ipTM0.842.cif",
+    "iptm": 0.842,
+    "hotspot_contact_A": 3.96,
+    "binder_backbone_rmsd_A": 1.98,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0148_seq1_ipTM0.831.cif",
+    "iptm": 0.831,
+    "hotspot_contact_A": 4.74,
+    "binder_backbone_rmsd_A": 1.99,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0013_seq3_ipTM0.786.cif",
+    "iptm": 0.786,
+    "hotspot_contact_A": 3.4,
+    "binder_backbone_rmsd_A": 2.0,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0029_seq2_ipTM0.806.cif",
+    "iptm": 0.806,
+    "hotspot_contact_A": 1.73,
+    "binder_backbone_rmsd_A": 2.06,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0046_seq3_ipTM0.765.cif",
+    "iptm": 0.765,
+    "hotspot_contact_A": 3.68,
+    "binder_backbone_rmsd_A": 2.06,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0065_seq1_ipTM0.825.cif",
+    "iptm": 0.825,
+    "hotspot_contact_A": 3.18,
+    "binder_backbone_rmsd_A": 2.08,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0058_seq0_ipTM0.756.cif",
+    "iptm": 0.756,
+    "hotspot_contact_A": 4.76,
+    "binder_backbone_rmsd_A": 2.14,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0046_seq0_ipTM0.771.cif",
+    "iptm": 0.771,
+    "hotspot_contact_A": 4.58,
+    "binder_backbone_rmsd_A": 2.22,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0123_seq3_ipTM0.649.cif",
+    "iptm": 0.649,
+    "hotspot_contact_A": 3.93,
+    "binder_backbone_rmsd_A": 2.23,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0114_seq0_ipTM0.670.cif",
+    "iptm": 0.67,
+    "hotspot_contact_A": 4.7,
+    "binder_backbone_rmsd_A": 2.26,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0065_seq3_ipTM0.800.cif",
+    "iptm": 0.8,
+    "hotspot_contact_A": 2.42,
+    "binder_backbone_rmsd_A": 2.34,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0025_seq3_ipTM0.843.cif",
+    "iptm": 0.843,
+    "hotspot_contact_A": 3.19,
+    "binder_backbone_rmsd_A": 2.39,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0017_seq1_ipTM0.739.cif",
+    "iptm": 0.739,
+    "hotspot_contact_A": 4.28,
+    "binder_backbone_rmsd_A": 2.46,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0062_seq0_ipTM0.820.cif",
+    "iptm": 0.82,
+    "hotspot_contact_A": 4.4,
+    "binder_backbone_rmsd_A": 2.47,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0129_seq0_ipTM0.733.cif",
+    "iptm": 0.733,
+    "hotspot_contact_A": 4.24,
+    "binder_backbone_rmsd_A": 2.48,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0069_seq1_ipTM0.587.cif",
+    "iptm": 0.587,
+    "hotspot_contact_A": 4.97,
+    "binder_backbone_rmsd_A": 2.49,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0087_seq1_ipTM0.698.cif",
+    "iptm": 0.698,
+    "hotspot_contact_A": 3.42,
+    "binder_backbone_rmsd_A": 2.54,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0121_seq3_ipTM0.802.cif",
+    "iptm": 0.802,
+    "hotspot_contact_A": 4.46,
+    "binder_backbone_rmsd_A": 2.55,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0007_seq0_ipTM0.610.cif",
+    "iptm": 0.61,
+    "hotspot_contact_A": 3.98,
+    "binder_backbone_rmsd_A": 2.63,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0058_seq2_ipTM0.622.cif",
+    "iptm": 0.622,
+    "hotspot_contact_A": 4.25,
+    "binder_backbone_rmsd_A": 2.64,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0023_seq2_ipTM0.664.cif",
+    "iptm": 0.664,
+    "hotspot_contact_A": 3.6,
+    "binder_backbone_rmsd_A": 2.67,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0025_seq2_ipTM0.751.cif",
+    "iptm": 0.751,
+    "hotspot_contact_A": 2.9,
+    "binder_backbone_rmsd_A": 2.72,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0023_seq0_ipTM0.580.cif",
+    "iptm": 0.58,
+    "hotspot_contact_A": 3.26,
+    "binder_backbone_rmsd_A": 2.75,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0135_seq2_ipTM0.763.cif",
+    "iptm": 0.763,
+    "hotspot_contact_A": 3.29,
+    "binder_backbone_rmsd_A": 2.76,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0013_seq0_ipTM0.743.cif",
+    "iptm": 0.743,
+    "hotspot_contact_A": 3.02,
+    "binder_backbone_rmsd_A": 2.79,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0134_seq0_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 4.49,
+    "binder_backbone_rmsd_A": 2.8,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0103_seq1_ipTM0.527.cif",
+    "iptm": 0.527,
+    "hotspot_contact_A": 4.13,
+    "binder_backbone_rmsd_A": 2.85,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0029_seq1_ipTM0.776.cif",
+    "iptm": 0.776,
+    "hotspot_contact_A": 3.37,
+    "binder_backbone_rmsd_A": 2.88,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0057_seq3_ipTM0.783.cif",
+    "iptm": 0.783,
+    "hotspot_contact_A": 3.31,
+    "binder_backbone_rmsd_A": 2.89,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0094_seq2_ipTM0.714.cif",
+    "iptm": 0.714,
+    "hotspot_contact_A": 4.47,
+    "binder_backbone_rmsd_A": 2.93,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0094_seq0_ipTM0.646.cif",
+    "iptm": 0.646,
+    "hotspot_contact_A": 3.3,
+    "binder_backbone_rmsd_A": 2.93,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0123_seq0_ipTM0.676.cif",
+    "iptm": 0.676,
+    "hotspot_contact_A": 4.04,
+    "binder_backbone_rmsd_A": 2.97,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0045_seq2_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 3.48,
+    "binder_backbone_rmsd_A": 3.0,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0100_seq0_ipTM0.819.cif",
+    "iptm": 0.819,
+    "hotspot_contact_A": 3.52,
+    "binder_backbone_rmsd_A": 3.03,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0117_seq2_ipTM0.734.cif",
+    "iptm": 0.734,
+    "hotspot_contact_A": 4.33,
+    "binder_backbone_rmsd_A": 3.1,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0117_seq3_ipTM0.551.cif",
+    "iptm": 0.551,
+    "hotspot_contact_A": 4.42,
+    "binder_backbone_rmsd_A": 3.11,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0048_seq0_ipTM0.632.cif",
+    "iptm": 0.632,
+    "hotspot_contact_A": 3.99,
+    "binder_backbone_rmsd_A": 3.17,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0094_seq3_ipTM0.772.cif",
+    "iptm": 0.772,
+    "hotspot_contact_A": 4.26,
+    "binder_backbone_rmsd_A": 3.18,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0064_seq2_ipTM0.693.cif",
+    "iptm": 0.693,
+    "hotspot_contact_A": 2.84,
+    "binder_backbone_rmsd_A": 3.23,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0036_seq2_ipTM0.628.cif",
+    "iptm": 0.628,
+    "hotspot_contact_A": 4.23,
+    "binder_backbone_rmsd_A": 3.41,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0013_seq1_ipTM0.708.cif",
+    "iptm": 0.708,
+    "hotspot_contact_A": 3.07,
+    "binder_backbone_rmsd_A": 3.54,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0135_seq3_ipTM0.658.cif",
+    "iptm": 0.658,
+    "hotspot_contact_A": 3.47,
+    "binder_backbone_rmsd_A": 3.54,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0022_seq1_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 4.72,
+    "binder_backbone_rmsd_A": 4.0,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0120_seq1_ipTM0.579.cif",
+    "iptm": 0.579,
+    "hotspot_contact_A": 4.53,
+    "binder_backbone_rmsd_A": 4.06,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0033_seq1_ipTM0.777.cif",
+    "iptm": 0.777,
+    "hotspot_contact_A": 4.96,
+    "binder_backbone_rmsd_A": 4.16,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0048_seq3_ipTM0.753.cif",
+    "iptm": 0.753,
+    "hotspot_contact_A": 3.94,
+    "binder_backbone_rmsd_A": 4.16,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0045_seq1_ipTM0.671.cif",
+    "iptm": 0.671,
+    "hotspot_contact_A": 4.78,
+    "binder_backbone_rmsd_A": 4.29,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0132_seq0_ipTM0.590.cif",
+    "iptm": 0.59,
+    "hotspot_contact_A": 3.6,
+    "binder_backbone_rmsd_A": 4.44,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0123_seq2_ipTM0.647.cif",
+    "iptm": 0.647,
+    "hotspot_contact_A": 2.69,
+    "binder_backbone_rmsd_A": 4.53,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0097_seq0_ipTM0.518.cif",
+    "iptm": 0.518,
+    "hotspot_contact_A": 4.52,
+    "binder_backbone_rmsd_A": 4.56,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0018_seq3_ipTM0.782.cif",
+    "iptm": 0.782,
+    "hotspot_contact_A": 3.11,
+    "binder_backbone_rmsd_A": 4.66,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0027_seq1_ipTM0.726.cif",
+    "iptm": 0.726,
+    "hotspot_contact_A": 3.85,
+    "binder_backbone_rmsd_A": 4.68,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0120_seq3_ipTM0.502.cif",
+    "iptm": 0.502,
+    "hotspot_contact_A": 3.55,
+    "binder_backbone_rmsd_A": 4.74,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0097_seq1_ipTM0.673.cif",
+    "iptm": 0.673,
+    "hotspot_contact_A": 3.71,
+    "binder_backbone_rmsd_A": 4.84,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0027_seq3_ipTM0.618.cif",
+    "iptm": 0.618,
+    "hotspot_contact_A": 4.76,
+    "binder_backbone_rmsd_A": 4.93,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0123_seq1_ipTM0.695.cif",
+    "iptm": 0.695,
+    "hotspot_contact_A": 3.02,
+    "binder_backbone_rmsd_A": 4.98,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0139_seq3_ipTM0.641.cif",
+    "iptm": 0.641,
+    "hotspot_contact_A": 3.32,
+    "binder_backbone_rmsd_A": 5.05,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0048_seq2_ipTM0.500.cif",
+    "iptm": 0.5,
+    "hotspot_contact_A": 4.92,
+    "binder_backbone_rmsd_A": 5.29,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0120_seq0_ipTM0.770.cif",
+    "iptm": 0.77,
+    "hotspot_contact_A": 3.38,
+    "binder_backbone_rmsd_A": 5.59,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0033_seq0_ipTM0.663.cif",
+    "iptm": 0.663,
+    "hotspot_contact_A": 4.18,
+    "binder_backbone_rmsd_A": 8.43,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0113_seq3_ipTM0.538.cif",
+    "iptm": 0.538,
+    "hotspot_contact_A": 3.73,
+    "binder_backbone_rmsd_A": 8.86,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0035_seq3_ipTM0.518.cif",
+    "iptm": 0.518,
+    "hotspot_contact_A": 3.51,
+    "binder_backbone_rmsd_A": 11.11,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0149_seq1_ipTM0.598.cif",
+    "iptm": 0.598,
+    "hotspot_contact_A": 4.5,
+    "binder_backbone_rmsd_A": 14.28,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0116_seq1_ipTM0.538.cif",
+    "iptm": 0.538,
+    "hotspot_contact_A": 2.67,
+    "binder_backbone_rmsd_A": 17.81,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0042_seq1_ipTM0.507.cif",
+    "iptm": 0.507,
+    "hotspot_contact_A": 3.66,
+    "binder_backbone_rmsd_A": 19.19,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0136_seq1_ipTM0.546.cif",
+    "iptm": 0.546,
+    "hotspot_contact_A": 3.13,
+    "binder_backbone_rmsd_A": 20.5,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0064_seq3_ipTM0.510.cif",
+    "iptm": 0.51,
+    "hotspot_contact_A": 2.81,
+    "binder_backbone_rmsd_A": 22.47,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0089_seq0_ipTM0.594.cif",
+    "iptm": 0.594,
+    "hotspot_contact_A": 4.07,
+    "binder_backbone_rmsd_A": 23.49,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0071_seq3_ipTM0.556.cif",
+    "iptm": 0.556,
+    "hotspot_contact_A": 3.59,
+    "binder_backbone_rmsd_A": 23.67,
+    "target_alignment_atoms": 231
+  },
+  {
+    "name": "binder_0011_seq2_ipTM0.672.cif",
+    "iptm": 0.672,
+    "hotspot_contact_A": 4.88,
+    "binder_backbone_rmsd_A": 33.59,
+    "target_alignment_atoms": 231
+  }
+]

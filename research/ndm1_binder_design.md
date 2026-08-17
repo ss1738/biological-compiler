@@ -67,8 +67,43 @@ Full 116-candidate list, structures, sequences, and raw scores in `data/ndm1_bin
 
 **What this is:** a real, complete, unattended overnight run of a legitimate de novo binder-design method (RFdiffusion PPI mode → ProteinMPNN → Chai-1 interface scoring) against a real, clinically important target, with two independent computational filters (interface confidence and geometric hotspot contact) instead of one, and an honest correction of my own first hypothesis when the full-data check didn't support it.
 
-**What this is not:** evidence that any of these 116 sequences actually bind NDM-1 in reality. Every caveat that applies to the rest of this repo applies here, more so — nothing has been synthesized, expressed, or tested against real protein. Two specific gaps beyond the usual ones:
-- **No backbone self-consistency check was run.** The enzyme-scaffolding pipeline elsewhere in this repo always checks whether an independent refold agrees with the *intended* designed geometry (ESMFold RMSD vs. the RFdiffusion backbone). This binder campaign has no equivalent — Chai-1's ipTM confirms the two chains are predicted to interact, and the hotspot-contact check confirms *where*, but neither confirms the binder's predicted fold matches what RFdiffusion actually designed rather than something Chai-1 independently converged on.
-- **The sequence composition problem is real and unresolved.** Even the 116-candidate verified shortlist is drawn from the same low-diversity, alanine-heavy sequence population as the rest of the campaign. A real next step, if pursued, would rerun generation with nonzero backbone noise as a controlled comparison before trusting these specific sequences over the discarded ones.
+**What this is not:** evidence that any of these sequences actually bind NDM-1 in reality. Every caveat that applies to the rest of this repo applies here, more so — nothing has been synthesized, expressed, or tested against real protein.
 
-The real next step, same as everywhere else in this repo: an actual binding assay (recombinant NDM-1 + a labeled or competitive binding assay against a shortlisted candidate), not more computation. Nothing here substitutes for that.
+## Closing the gap: does the binder actually match what RFdiffusion designed?
+
+The write-up above originally flagged a real missing check: ipTM confirms the two chains are predicted to interact, and the hotspot-contact check confirms *where*, but neither confirms the binder's predicted fold matches what RFdiffusion actually designed rather than something Chai-1 independently converged on. That's the same self-consistency question the enzyme-scaffolding pipeline elsewhere in this repo always asks (ESMFold RMSD vs. the RFdiffusion backbone) — so it was run here too, on all 116 hotspot-verified candidates: align the original RFdiffusion backbone and the Chai-1 predicted complex on the target chain, then measure CA RMSD of the binder chain in that shared frame.
+
+**First attempt at this hit the exact same residue-numbering bug this campaign had already been caught twice before** — the original RFdiffusion PDB keeps the real 42–272 numbering for the target chain, Chai-1's output renumbers it 1–231, and naively intersecting the two numbering schemes produced a garbage alignment (a suspiciously identical "190 aligned atoms" on every single comparison — the coincidental integer overlap between {42..272} and {1..231}, not real correspondence). That gave a nonsense result (mean RMSD 19.55 Å, 0/116 under 5 Å) that would have been a real false negative if reported. Caught before writing it up, by noticing the too-uniform atom count; fixed with the same −41 offset used earlier for the hotspot check; reran with a sanity assertion (`len(common_A) > 220`) to stop this class of bug from silently recurring.
+
+**Corrected result:**
+
+| | |
+|---|---|
+| n analyzed | 116 |
+| Mean RMSD | 4.00 Å |
+| Median RMSD | 2.42 Å |
+| n with RMSD < 2.0 Å | 48 |
+| n with RMSD < 5.0 Å | 102 |
+| n with RMSD < 10.0 Å | 107 |
+| n with RMSD > 15.0 Å | 7 |
+
+**The real, triple-verified result of this campaign is 48 candidates** — ipTM > 0.5 AND real hotspot contact < 5 Å AND backbone self-consistency RMSD < 2.0 Å (the same self-consistency bar used for the FAcD/DhlA enzyme campaigns elsewhere in this repo). Top 10, all three checks passed:
+
+| Candidate | ipTM | Hotspot contact (Å) | Backbone RMSD (Å) |
+|---|---|---|---|
+| binder_0060_seq3 | 0.901 | 4.53 | 0.68 |
+| binder_0135_seq1 | 0.882 | 3.65 | 0.93 |
+| binder_0098_seq1 | 0.877 | 3.48 | 1.22 |
+| binder_0098_seq0 | 0.875 | 3.56 | 0.89 |
+| binder_0054_seq1 | 0.873 | 4.88 | 1.66 |
+| binder_0135_seq0 | 0.865 | 2.78 | 1.30 |
+| binder_0021_seq2 | 0.862 | 3.60 | 1.20 |
+| binder_0025_seq0 | 0.862 | 2.54 | 1.69 |
+| binder_0075_seq3 | 0.853 | 3.43 | 1.81 |
+| binder_0075_seq1 | 0.842 | 3.96 | 1.98 |
+
+Full 48-candidate list and structures in `data/ndm1_binder_campaign/final_verified/`.
+
+**What's still real and unresolved:** the sequence composition problem. Even this 48-candidate final shortlist is drawn from the same low-diversity, alanine-heavy sequence population as the rest of the campaign (see the entropy/composition analysis above — that concern was about whether composition explains *which* candidates score well, which it doesn't; it says nothing about whether the composition itself is a real design-quality problem, which it still is). A real next step, if pursued, would rerun generation with nonzero backbone noise as a controlled comparison before trusting these specific sequences over the discarded ones.
+
+The real next step, same as everywhere else in this repo: an actual binding assay (recombinant NDM-1 + a labeled or competitive binding assay against a shortlisted candidate), not more computation. Nothing here substitutes for that. But this is now a meaningfully stronger computational result than the raw ipTM number alone suggested — three independent checks, not one, and the two mistakes made while getting here (the retracted composition hypothesis, the numbering bug in this exact section) are documented rather than quietly fixed and hidden.
