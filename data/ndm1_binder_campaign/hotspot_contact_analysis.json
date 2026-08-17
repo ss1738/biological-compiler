@@ -1,0 +1,1532 @@
+[
+  {
+    "name": "binder_0060_seq3_ipTM0.901.cif",
+    "iptm": 0.901,
+    "hotspot_contact_A": 4.53,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0074_seq1_ipTM0.899.cif",
+    "iptm": 0.899,
+    "hotspot_contact_A": 6.7,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0118_seq2_ipTM0.891.cif",
+    "iptm": 0.891,
+    "hotspot_contact_A": 6.11,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0135_seq1_ipTM0.882.cif",
+    "iptm": 0.882,
+    "hotspot_contact_A": 3.65,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0098_seq1_ipTM0.877.cif",
+    "iptm": 0.877,
+    "hotspot_contact_A": 3.48,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0047_seq2_ipTM0.876.cif",
+    "iptm": 0.876,
+    "hotspot_contact_A": 5.91,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0098_seq0_ipTM0.875.cif",
+    "iptm": 0.875,
+    "hotspot_contact_A": 3.56,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0090_seq0_ipTM0.874.cif",
+    "iptm": 0.874,
+    "hotspot_contact_A": 7.27,
+    "binder_len": 69
+  },
+  {
+    "name": "binder_0054_seq1_ipTM0.873.cif",
+    "iptm": 0.873,
+    "hotspot_contact_A": 4.88,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0090_seq2_ipTM0.873.cif",
+    "iptm": 0.873,
+    "hotspot_contact_A": 7.16,
+    "binder_len": 69
+  },
+  {
+    "name": "binder_0060_seq0_ipTM0.873.cif",
+    "iptm": 0.873,
+    "hotspot_contact_A": 5.89,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0118_seq3_ipTM0.869.cif",
+    "iptm": 0.869,
+    "hotspot_contact_A": 5.92,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0135_seq0_ipTM0.865.cif",
+    "iptm": 0.865,
+    "hotspot_contact_A": 2.78,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0090_seq3_ipTM0.864.cif",
+    "iptm": 0.864,
+    "hotspot_contact_A": 5.16,
+    "binder_len": 69
+  },
+  {
+    "name": "binder_0025_seq0_ipTM0.862.cif",
+    "iptm": 0.862,
+    "hotspot_contact_A": 2.54,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0021_seq2_ipTM0.862.cif",
+    "iptm": 0.862,
+    "hotspot_contact_A": 3.6,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0080_seq0_ipTM0.861.cif",
+    "iptm": 0.861,
+    "hotspot_contact_A": 6.7,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0060_seq2_ipTM0.859.cif",
+    "iptm": 0.859,
+    "hotspot_contact_A": 5.26,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0138_seq0_ipTM0.854.cif",
+    "iptm": 0.854,
+    "hotspot_contact_A": 6.37,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0075_seq3_ipTM0.853.cif",
+    "iptm": 0.853,
+    "hotspot_contact_A": 3.43,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0102_seq3_ipTM0.852.cif",
+    "iptm": 0.852,
+    "hotspot_contact_A": 6.3,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0047_seq3_ipTM0.849.cif",
+    "iptm": 0.849,
+    "hotspot_contact_A": 5.31,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0074_seq2_ipTM0.849.cif",
+    "iptm": 0.849,
+    "hotspot_contact_A": 6.11,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0102_seq2_ipTM0.849.cif",
+    "iptm": 0.849,
+    "hotspot_contact_A": 7.05,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0102_seq1_ipTM0.845.cif",
+    "iptm": 0.845,
+    "hotspot_contact_A": 6.49,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0049_seq3_ipTM0.843.cif",
+    "iptm": 0.843,
+    "hotspot_contact_A": 6.37,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0025_seq3_ipTM0.843.cif",
+    "iptm": 0.843,
+    "hotspot_contact_A": 3.19,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0110_seq3_ipTM0.842.cif",
+    "iptm": 0.842,
+    "hotspot_contact_A": 6.14,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0075_seq1_ipTM0.842.cif",
+    "iptm": 0.842,
+    "hotspot_contact_A": 3.96,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0085_seq0_ipTM0.840.cif",
+    "iptm": 0.84,
+    "hotspot_contact_A": 7.4,
+    "binder_len": 74
+  },
+  {
+    "name": "binder_0035_seq2_ipTM0.840.cif",
+    "iptm": 0.84,
+    "hotspot_contact_A": 6.86,
+    "binder_len": 63
+  },
+  {
+    "name": "binder_0118_seq1_ipTM0.839.cif",
+    "iptm": 0.839,
+    "hotspot_contact_A": 4.06,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0049_seq2_ipTM0.838.cif",
+    "iptm": 0.838,
+    "hotspot_contact_A": 5.98,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0055_seq2_ipTM0.834.cif",
+    "iptm": 0.834,
+    "hotspot_contact_A": 4.58,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0127_seq3_ipTM0.833.cif",
+    "iptm": 0.833,
+    "hotspot_contact_A": 3.6,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0148_seq1_ipTM0.831.cif",
+    "iptm": 0.831,
+    "hotspot_contact_A": 4.74,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0065_seq2_ipTM0.830.cif",
+    "iptm": 0.83,
+    "hotspot_contact_A": 2.69,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0054_seq2_ipTM0.828.cif",
+    "iptm": 0.828,
+    "hotspot_contact_A": 3.15,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0093_seq1_ipTM0.828.cif",
+    "iptm": 0.828,
+    "hotspot_contact_A": 5.64,
+    "binder_len": 84
+  },
+  {
+    "name": "binder_0127_seq2_ipTM0.827.cif",
+    "iptm": 0.827,
+    "hotspot_contact_A": 5.08,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0102_seq0_ipTM0.826.cif",
+    "iptm": 0.826,
+    "hotspot_contact_A": 5.46,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0065_seq1_ipTM0.825.cif",
+    "iptm": 0.825,
+    "hotspot_contact_A": 3.18,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0017_seq0_ipTM0.824.cif",
+    "iptm": 0.824,
+    "hotspot_contact_A": 5.33,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0075_seq2_ipTM0.824.cif",
+    "iptm": 0.824,
+    "hotspot_contact_A": 3.59,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0099_seq0_ipTM0.822.cif",
+    "iptm": 0.822,
+    "hotspot_contact_A": 6.03,
+    "binder_len": 92
+  },
+  {
+    "name": "binder_0022_seq1_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 4.72,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0110_seq2_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 5.39,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0134_seq0_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 4.49,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0127_seq0_ipTM0.821.cif",
+    "iptm": 0.821,
+    "hotspot_contact_A": 5.91,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0062_seq0_ipTM0.820.cif",
+    "iptm": 0.82,
+    "hotspot_contact_A": 4.4,
+    "binder_len": 84
+  },
+  {
+    "name": "binder_0080_seq1_ipTM0.820.cif",
+    "iptm": 0.82,
+    "hotspot_contact_A": 6.94,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0100_seq0_ipTM0.819.cif",
+    "iptm": 0.819,
+    "hotspot_contact_A": 3.52,
+    "binder_len": 65
+  },
+  {
+    "name": "binder_0147_seq3_ipTM0.815.cif",
+    "iptm": 0.815,
+    "hotspot_contact_A": 7.67,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0138_seq1_ipTM0.814.cif",
+    "iptm": 0.814,
+    "hotspot_contact_A": 7.47,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0150_seq3_ipTM0.813.cif",
+    "iptm": 0.813,
+    "hotspot_contact_A": 6.08,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0054_seq3_ipTM0.813.cif",
+    "iptm": 0.813,
+    "hotspot_contact_A": 6.16,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0016_seq1_ipTM0.809.cif",
+    "iptm": 0.809,
+    "hotspot_contact_A": 5.44,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0099_seq2_ipTM0.808.cif",
+    "iptm": 0.808,
+    "hotspot_contact_A": 6.34,
+    "binder_len": 92
+  },
+  {
+    "name": "binder_0076_seq0_ipTM0.807.cif",
+    "iptm": 0.807,
+    "hotspot_contact_A": 6.83,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0029_seq2_ipTM0.806.cif",
+    "iptm": 0.806,
+    "hotspot_contact_A": 1.73,
+    "binder_len": 75
+  },
+  {
+    "name": "binder_0099_seq1_ipTM0.804.cif",
+    "iptm": 0.804,
+    "hotspot_contact_A": 6.11,
+    "binder_len": 92
+  },
+  {
+    "name": "binder_0008_seq0_ipTM0.803.cif",
+    "iptm": 0.803,
+    "hotspot_contact_A": 4.49,
+    "binder_len": 92
+  },
+  {
+    "name": "binder_0055_seq0_ipTM0.803.cif",
+    "iptm": 0.803,
+    "hotspot_contact_A": 4.75,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0121_seq3_ipTM0.802.cif",
+    "iptm": 0.802,
+    "hotspot_contact_A": 4.46,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0100_seq3_ipTM0.801.cif",
+    "iptm": 0.801,
+    "hotspot_contact_A": 2.94,
+    "binder_len": 65
+  },
+  {
+    "name": "binder_0122_seq3_ipTM0.801.cif",
+    "iptm": 0.801,
+    "hotspot_contact_A": 5.61,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0065_seq3_ipTM0.800.cif",
+    "iptm": 0.8,
+    "hotspot_contact_A": 2.42,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0142_seq0_ipTM0.799.cif",
+    "iptm": 0.799,
+    "hotspot_contact_A": 5.21,
+    "binder_len": 74
+  },
+  {
+    "name": "binder_0055_seq3_ipTM0.798.cif",
+    "iptm": 0.798,
+    "hotspot_contact_A": 4.86,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0049_seq1_ipTM0.798.cif",
+    "iptm": 0.798,
+    "hotspot_contact_A": 6.09,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0057_seq0_ipTM0.796.cif",
+    "iptm": 0.796,
+    "hotspot_contact_A": 3.1,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0131_seq2_ipTM0.796.cif",
+    "iptm": 0.796,
+    "hotspot_contact_A": 4.5,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0063_seq3_ipTM0.792.cif",
+    "iptm": 0.792,
+    "hotspot_contact_A": 5.71,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0100_seq1_ipTM0.790.cif",
+    "iptm": 0.79,
+    "hotspot_contact_A": 6.04,
+    "binder_len": 65
+  },
+  {
+    "name": "binder_0097_seq2_ipTM0.788.cif",
+    "iptm": 0.788,
+    "hotspot_contact_A": 5.84,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0087_seq3_ipTM0.788.cif",
+    "iptm": 0.788,
+    "hotspot_contact_A": 2.53,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0038_seq2_ipTM0.787.cif",
+    "iptm": 0.787,
+    "hotspot_contact_A": 6.93,
+    "binder_len": 68
+  },
+  {
+    "name": "binder_0022_seq2_ipTM0.786.cif",
+    "iptm": 0.786,
+    "hotspot_contact_A": 5.85,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0013_seq3_ipTM0.786.cif",
+    "iptm": 0.786,
+    "hotspot_contact_A": 3.4,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0031_seq1_ipTM0.785.cif",
+    "iptm": 0.785,
+    "hotspot_contact_A": 4.12,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0110_seq0_ipTM0.785.cif",
+    "iptm": 0.785,
+    "hotspot_contact_A": 6.2,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0134_seq1_ipTM0.783.cif",
+    "iptm": 0.783,
+    "hotspot_contact_A": 5.72,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0057_seq3_ipTM0.783.cif",
+    "iptm": 0.783,
+    "hotspot_contact_A": 3.31,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0100_seq2_ipTM0.783.cif",
+    "iptm": 0.783,
+    "hotspot_contact_A": 6.67,
+    "binder_len": 65
+  },
+  {
+    "name": "binder_0018_seq3_ipTM0.782.cif",
+    "iptm": 0.782,
+    "hotspot_contact_A": 3.11,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0039_seq1_ipTM0.782.cif",
+    "iptm": 0.782,
+    "hotspot_contact_A": 6.91,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0074_seq3_ipTM0.781.cif",
+    "iptm": 0.781,
+    "hotspot_contact_A": 6.25,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0063_seq1_ipTM0.780.cif",
+    "iptm": 0.78,
+    "hotspot_contact_A": 5.53,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0077_seq2_ipTM0.780.cif",
+    "iptm": 0.78,
+    "hotspot_contact_A": 6.75,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0134_seq3_ipTM0.780.cif",
+    "iptm": 0.78,
+    "hotspot_contact_A": 5.56,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0121_seq1_ipTM0.780.cif",
+    "iptm": 0.78,
+    "hotspot_contact_A": 5.31,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0080_seq2_ipTM0.779.cif",
+    "iptm": 0.779,
+    "hotspot_contact_A": 7.15,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0055_seq1_ipTM0.778.cif",
+    "iptm": 0.778,
+    "hotspot_contact_A": 4.96,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0033_seq1_ipTM0.777.cif",
+    "iptm": 0.777,
+    "hotspot_contact_A": 4.96,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0134_seq2_ipTM0.777.cif",
+    "iptm": 0.777,
+    "hotspot_contact_A": 6.05,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0029_seq1_ipTM0.776.cif",
+    "iptm": 0.776,
+    "hotspot_contact_A": 3.37,
+    "binder_len": 75
+  },
+  {
+    "name": "binder_0047_seq0_ipTM0.776.cif",
+    "iptm": 0.776,
+    "hotspot_contact_A": 7.09,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0049_seq0_ipTM0.775.cif",
+    "iptm": 0.775,
+    "hotspot_contact_A": 7.14,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0127_seq1_ipTM0.775.cif",
+    "iptm": 0.775,
+    "hotspot_contact_A": 6.08,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0096_seq1_ipTM0.773.cif",
+    "iptm": 0.773,
+    "hotspot_contact_A": 3.76,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0142_seq3_ipTM0.772.cif",
+    "iptm": 0.772,
+    "hotspot_contact_A": 5.05,
+    "binder_len": 74
+  },
+  {
+    "name": "binder_0094_seq3_ipTM0.772.cif",
+    "iptm": 0.772,
+    "hotspot_contact_A": 4.26,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0046_seq0_ipTM0.771.cif",
+    "iptm": 0.771,
+    "hotspot_contact_A": 4.58,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0120_seq0_ipTM0.770.cif",
+    "iptm": 0.77,
+    "hotspot_contact_A": 3.38,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0092_seq3_ipTM0.770.cif",
+    "iptm": 0.77,
+    "hotspot_contact_A": 5.25,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0107_seq0_ipTM0.769.cif",
+    "iptm": 0.769,
+    "hotspot_contact_A": 6.2,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0110_seq1_ipTM0.768.cif",
+    "iptm": 0.768,
+    "hotspot_contact_A": 5.67,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0046_seq3_ipTM0.765.cif",
+    "iptm": 0.765,
+    "hotspot_contact_A": 3.68,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0135_seq2_ipTM0.763.cif",
+    "iptm": 0.763,
+    "hotspot_contact_A": 3.29,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0035_seq1_ipTM0.763.cif",
+    "iptm": 0.763,
+    "hotspot_contact_A": 6.53,
+    "binder_len": 63
+  },
+  {
+    "name": "binder_0025_seq1_ipTM0.763.cif",
+    "iptm": 0.763,
+    "hotspot_contact_A": 3.12,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0148_seq0_ipTM0.762.cif",
+    "iptm": 0.762,
+    "hotspot_contact_A": 4.43,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0058_seq0_ipTM0.756.cif",
+    "iptm": 0.756,
+    "hotspot_contact_A": 4.76,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0023_seq1_ipTM0.754.cif",
+    "iptm": 0.754,
+    "hotspot_contact_A": 5.76,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0048_seq3_ipTM0.753.cif",
+    "iptm": 0.753,
+    "hotspot_contact_A": 3.94,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0025_seq2_ipTM0.751.cif",
+    "iptm": 0.751,
+    "hotspot_contact_A": 2.9,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0077_seq3_ipTM0.749.cif",
+    "iptm": 0.749,
+    "hotspot_contact_A": 7.12,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0094_seq1_ipTM0.749.cif",
+    "iptm": 0.749,
+    "hotspot_contact_A": 5.4,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0118_seq0_ipTM0.749.cif",
+    "iptm": 0.749,
+    "hotspot_contact_A": 5.81,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0002_seq0_ipTM0.748.cif",
+    "iptm": 0.748,
+    "hotspot_contact_A": 7.27,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0143_seq3_ipTM0.748.cif",
+    "iptm": 0.748,
+    "hotspot_contact_A": 7.46,
+    "binder_len": 70
+  },
+  {
+    "name": "binder_0046_seq2_ipTM0.747.cif",
+    "iptm": 0.747,
+    "hotspot_contact_A": 4.19,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0096_seq0_ipTM0.747.cif",
+    "iptm": 0.747,
+    "hotspot_contact_A": 3.16,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0090_seq1_ipTM0.746.cif",
+    "iptm": 0.746,
+    "hotspot_contact_A": 6.01,
+    "binder_len": 69
+  },
+  {
+    "name": "binder_0013_seq0_ipTM0.743.cif",
+    "iptm": 0.743,
+    "hotspot_contact_A": 3.02,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0037_seq0_ipTM0.742.cif",
+    "iptm": 0.742,
+    "hotspot_contact_A": 5.98,
+    "binder_len": 87
+  },
+  {
+    "name": "binder_0016_seq3_ipTM0.740.cif",
+    "iptm": 0.74,
+    "hotspot_contact_A": 5.58,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0017_seq1_ipTM0.739.cif",
+    "iptm": 0.739,
+    "hotspot_contact_A": 4.28,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0130_seq0_ipTM0.738.cif",
+    "iptm": 0.738,
+    "hotspot_contact_A": 6.66,
+    "binder_len": 70
+  },
+  {
+    "name": "binder_0031_seq2_ipTM0.738.cif",
+    "iptm": 0.738,
+    "hotspot_contact_A": 5.02,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0072_seq3_ipTM0.738.cif",
+    "iptm": 0.738,
+    "hotspot_contact_A": 6.18,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0117_seq2_ipTM0.734.cif",
+    "iptm": 0.734,
+    "hotspot_contact_A": 4.33,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0034_seq0_ipTM0.734.cif",
+    "iptm": 0.734,
+    "hotspot_contact_A": 1.99,
+    "binder_len": 72
+  },
+  {
+    "name": "binder_0129_seq0_ipTM0.733.cif",
+    "iptm": 0.733,
+    "hotspot_contact_A": 4.24,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0017_seq2_ipTM0.732.cif",
+    "iptm": 0.732,
+    "hotspot_contact_A": 4.73,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0008_seq3_ipTM0.731.cif",
+    "iptm": 0.731,
+    "hotspot_contact_A": 6.87,
+    "binder_len": 92
+  },
+  {
+    "name": "binder_0148_seq3_ipTM0.730.cif",
+    "iptm": 0.73,
+    "hotspot_contact_A": 5.87,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0029_seq3_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 2.99,
+    "binder_len": 75
+  },
+  {
+    "name": "binder_0133_seq0_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 3.62,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0045_seq2_ipTM0.729.cif",
+    "iptm": 0.729,
+    "hotspot_contact_A": 3.48,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0122_seq2_ipTM0.726.cif",
+    "iptm": 0.726,
+    "hotspot_contact_A": 6.37,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0086_seq0_ipTM0.726.cif",
+    "iptm": 0.726,
+    "hotspot_contact_A": 5.54,
+    "binder_len": 60
+  },
+  {
+    "name": "binder_0033_seq3_ipTM0.726.cif",
+    "iptm": 0.726,
+    "hotspot_contact_A": 6.03,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0027_seq1_ipTM0.726.cif",
+    "iptm": 0.726,
+    "hotspot_contact_A": 3.85,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0087_seq0_ipTM0.724.cif",
+    "iptm": 0.724,
+    "hotspot_contact_A": 3.34,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0121_seq0_ipTM0.718.cif",
+    "iptm": 0.718,
+    "hotspot_contact_A": 6.34,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0020_seq2_ipTM0.716.cif",
+    "iptm": 0.716,
+    "hotspot_contact_A": 6.4,
+    "binder_len": 76
+  },
+  {
+    "name": "binder_0046_seq1_ipTM0.715.cif",
+    "iptm": 0.715,
+    "hotspot_contact_A": 6.29,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0144_seq0_ipTM0.715.cif",
+    "iptm": 0.715,
+    "hotspot_contact_A": 7.67,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0094_seq2_ipTM0.714.cif",
+    "iptm": 0.714,
+    "hotspot_contact_A": 4.47,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0047_seq1_ipTM0.714.cif",
+    "iptm": 0.714,
+    "hotspot_contact_A": 5.5,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0150_seq0_ipTM0.711.cif",
+    "iptm": 0.711,
+    "hotspot_contact_A": 6.69,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0073_seq2_ipTM0.711.cif",
+    "iptm": 0.711,
+    "hotspot_contact_A": 4.44,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0067_seq0_ipTM0.710.cif",
+    "iptm": 0.71,
+    "hotspot_contact_A": 6.25,
+    "binder_len": 75
+  },
+  {
+    "name": "binder_0085_seq3_ipTM0.710.cif",
+    "iptm": 0.71,
+    "hotspot_contact_A": 5.78,
+    "binder_len": 74
+  },
+  {
+    "name": "binder_0080_seq3_ipTM0.709.cif",
+    "iptm": 0.709,
+    "hotspot_contact_A": 7.58,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0064_seq0_ipTM0.708.cif",
+    "iptm": 0.708,
+    "hotspot_contact_A": 3.43,
+    "binder_len": 78
+  },
+  {
+    "name": "binder_0013_seq1_ipTM0.708.cif",
+    "iptm": 0.708,
+    "hotspot_contact_A": 3.07,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0117_seq1_ipTM0.706.cif",
+    "iptm": 0.706,
+    "hotspot_contact_A": 5.05,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0045_seq3_ipTM0.705.cif",
+    "iptm": 0.705,
+    "hotspot_contact_A": 4.51,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0020_seq1_ipTM0.703.cif",
+    "iptm": 0.703,
+    "hotspot_contact_A": 9.54,
+    "binder_len": 76
+  },
+  {
+    "name": "binder_0077_seq0_ipTM0.703.cif",
+    "iptm": 0.703,
+    "hotspot_contact_A": 7.71,
+    "binder_len": 99
+  },
+  {
+    "name": "binder_0108_seq2_ipTM0.699.cif",
+    "iptm": 0.699,
+    "hotspot_contact_A": 7.21,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0087_seq1_ipTM0.698.cif",
+    "iptm": 0.698,
+    "hotspot_contact_A": 3.42,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0001_seq0_ipTM0.698.cif",
+    "iptm": 0.698,
+    "hotspot_contact_A": 6.18,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0123_seq1_ipTM0.695.cif",
+    "iptm": 0.695,
+    "hotspot_contact_A": 3.02,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0079_seq0_ipTM0.693.cif",
+    "iptm": 0.693,
+    "hotspot_contact_A": 5.54,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0064_seq2_ipTM0.693.cif",
+    "iptm": 0.693,
+    "hotspot_contact_A": 2.84,
+    "binder_len": 78
+  },
+  {
+    "name": "binder_0104_seq1_ipTM0.688.cif",
+    "iptm": 0.688,
+    "hotspot_contact_A": 7.88,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0105_seq2_ipTM0.686.cif",
+    "iptm": 0.686,
+    "hotspot_contact_A": 5.86,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0045_seq0_ipTM0.685.cif",
+    "iptm": 0.685,
+    "hotspot_contact_A": 5.36,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0013_seq2_ipTM0.685.cif",
+    "iptm": 0.685,
+    "hotspot_contact_A": 5.27,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0115_seq2_ipTM0.684.cif",
+    "iptm": 0.684,
+    "hotspot_contact_A": 7.63,
+    "binder_len": 73
+  },
+  {
+    "name": "binder_0115_seq0_ipTM0.678.cif",
+    "iptm": 0.678,
+    "hotspot_contact_A": 7.12,
+    "binder_len": 73
+  },
+  {
+    "name": "binder_0123_seq0_ipTM0.676.cif",
+    "iptm": 0.676,
+    "hotspot_contact_A": 4.04,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0051_seq1_ipTM0.674.cif",
+    "iptm": 0.674,
+    "hotspot_contact_A": 6.26,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0097_seq1_ipTM0.673.cif",
+    "iptm": 0.673,
+    "hotspot_contact_A": 3.71,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0011_seq2_ipTM0.672.cif",
+    "iptm": 0.672,
+    "hotspot_contact_A": 4.88,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0045_seq1_ipTM0.671.cif",
+    "iptm": 0.671,
+    "hotspot_contact_A": 4.78,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0114_seq0_ipTM0.670.cif",
+    "iptm": 0.67,
+    "hotspot_contact_A": 4.7,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0089_seq2_ipTM0.666.cif",
+    "iptm": 0.666,
+    "hotspot_contact_A": 6.23,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0138_seq2_ipTM0.665.cif",
+    "iptm": 0.665,
+    "hotspot_contact_A": 6.69,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0001_seq2_ipTM0.665.cif",
+    "iptm": 0.665,
+    "hotspot_contact_A": 5.16,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0023_seq2_ipTM0.664.cif",
+    "iptm": 0.664,
+    "hotspot_contact_A": 3.6,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0033_seq0_ipTM0.663.cif",
+    "iptm": 0.663,
+    "hotspot_contact_A": 4.18,
+    "binder_len": 90
+  },
+  {
+    "name": "binder_0001_seq3_ipTM0.659.cif",
+    "iptm": 0.659,
+    "hotspot_contact_A": 5.6,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0135_seq3_ipTM0.658.cif",
+    "iptm": 0.658,
+    "hotspot_contact_A": 3.47,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0097_seq3_ipTM0.657.cif",
+    "iptm": 0.657,
+    "hotspot_contact_A": 5.59,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0115_seq3_ipTM0.657.cif",
+    "iptm": 0.657,
+    "hotspot_contact_A": 4.63,
+    "binder_len": 73
+  },
+  {
+    "name": "binder_0146_seq2_ipTM0.655.cif",
+    "iptm": 0.655,
+    "hotspot_contact_A": 3.5,
+    "binder_len": 77
+  },
+  {
+    "name": "binder_0041_seq3_ipTM0.653.cif",
+    "iptm": 0.653,
+    "hotspot_contact_A": 6.46,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0062_seq3_ipTM0.652.cif",
+    "iptm": 0.652,
+    "hotspot_contact_A": 3.7,
+    "binder_len": 84
+  },
+  {
+    "name": "binder_0122_seq1_ipTM0.651.cif",
+    "iptm": 0.651,
+    "hotspot_contact_A": 5.93,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0092_seq2_ipTM0.650.cif",
+    "iptm": 0.65,
+    "hotspot_contact_A": 5.77,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0144_seq3_ipTM0.650.cif",
+    "iptm": 0.65,
+    "hotspot_contact_A": 5.79,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0123_seq3_ipTM0.649.cif",
+    "iptm": 0.649,
+    "hotspot_contact_A": 3.93,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0086_seq2_ipTM0.647.cif",
+    "iptm": 0.647,
+    "hotspot_contact_A": 4.8,
+    "binder_len": 60
+  },
+  {
+    "name": "binder_0147_seq1_ipTM0.647.cif",
+    "iptm": 0.647,
+    "hotspot_contact_A": 5.96,
+    "binder_len": 62
+  },
+  {
+    "name": "binder_0123_seq2_ipTM0.647.cif",
+    "iptm": 0.647,
+    "hotspot_contact_A": 2.69,
+    "binder_len": 61
+  },
+  {
+    "name": "binder_0094_seq0_ipTM0.646.cif",
+    "iptm": 0.646,
+    "hotspot_contact_A": 3.3,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0021_seq3_ipTM0.645.cif",
+    "iptm": 0.645,
+    "hotspot_contact_A": 3.26,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0139_seq3_ipTM0.641.cif",
+    "iptm": 0.641,
+    "hotspot_contact_A": 3.32,
+    "binder_len": 71
+  },
+  {
+    "name": "binder_0130_seq3_ipTM0.638.cif",
+    "iptm": 0.638,
+    "hotspot_contact_A": 7.53,
+    "binder_len": 70
+  },
+  {
+    "name": "binder_0048_seq0_ipTM0.632.cif",
+    "iptm": 0.632,
+    "hotspot_contact_A": 3.99,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0036_seq2_ipTM0.628.cif",
+    "iptm": 0.628,
+    "hotspot_contact_A": 4.23,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0063_seq2_ipTM0.628.cif",
+    "iptm": 0.628,
+    "hotspot_contact_A": 5.99,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0058_seq2_ipTM0.622.cif",
+    "iptm": 0.622,
+    "hotspot_contact_A": 4.25,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0002_seq3_ipTM0.620.cif",
+    "iptm": 0.62,
+    "hotspot_contact_A": 7.42,
+    "binder_len": 83
+  },
+  {
+    "name": "binder_0027_seq3_ipTM0.618.cif",
+    "iptm": 0.618,
+    "hotspot_contact_A": 4.76,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0023_seq3_ipTM0.614.cif",
+    "iptm": 0.614,
+    "hotspot_contact_A": 7.55,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0001_seq1_ipTM0.614.cif",
+    "iptm": 0.614,
+    "hotspot_contact_A": 6.31,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0088_seq2_ipTM0.612.cif",
+    "iptm": 0.612,
+    "hotspot_contact_A": 4.27,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0121_seq2_ipTM0.612.cif",
+    "iptm": 0.612,
+    "hotspot_contact_A": 5.64,
+    "binder_len": 82
+  },
+  {
+    "name": "binder_0085_seq1_ipTM0.611.cif",
+    "iptm": 0.611,
+    "hotspot_contact_A": 6.62,
+    "binder_len": 74
+  },
+  {
+    "name": "binder_0007_seq0_ipTM0.610.cif",
+    "iptm": 0.61,
+    "hotspot_contact_A": 3.98,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0105_seq0_ipTM0.608.cif",
+    "iptm": 0.608,
+    "hotspot_contact_A": 6.97,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0104_seq3_ipTM0.607.cif",
+    "iptm": 0.607,
+    "hotspot_contact_A": 6.14,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0136_seq2_ipTM0.603.cif",
+    "iptm": 0.603,
+    "hotspot_contact_A": 6.62,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0149_seq1_ipTM0.598.cif",
+    "iptm": 0.598,
+    "hotspot_contact_A": 4.5,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0143_seq2_ipTM0.598.cif",
+    "iptm": 0.598,
+    "hotspot_contact_A": 7.16,
+    "binder_len": 70
+  },
+  {
+    "name": "binder_0011_seq1_ipTM0.596.cif",
+    "iptm": 0.596,
+    "hotspot_contact_A": 6.24,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0089_seq0_ipTM0.594.cif",
+    "iptm": 0.594,
+    "hotspot_contact_A": 4.07,
+    "binder_len": 100
+  },
+  {
+    "name": "binder_0114_seq1_ipTM0.593.cif",
+    "iptm": 0.593,
+    "hotspot_contact_A": 5.34,
+    "binder_len": 85
+  },
+  {
+    "name": "binder_0132_seq0_ipTM0.590.cif",
+    "iptm": 0.59,
+    "hotspot_contact_A": 3.6,
+    "binder_len": 63
+  },
+  {
+    "name": "binder_0069_seq1_ipTM0.587.cif",
+    "iptm": 0.587,
+    "hotspot_contact_A": 4.97,
+    "binder_len": 69
+  },
+  {
+    "name": "binder_0021_seq0_ipTM0.585.cif",
+    "iptm": 0.585,
+    "hotspot_contact_A": 5.37,
+    "binder_len": 79
+  },
+  {
+    "name": "binder_0115_seq1_ipTM0.585.cif",
+    "iptm": 0.585,
+    "hotspot_contact_A": 5.97,
+    "binder_len": 73
+  },
+  {
+    "name": "binder_0103_seq2_ipTM0.585.cif",
+    "iptm": 0.585,
+    "hotspot_contact_A": 7.93,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0041_seq2_ipTM0.582.cif",
+    "iptm": 0.582,
+    "hotspot_contact_A": 7.43,
+    "binder_len": 81
+  },
+  {
+    "name": "binder_0023_seq0_ipTM0.580.cif",
+    "iptm": 0.58,
+    "hotspot_contact_A": 3.26,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0120_seq1_ipTM0.579.cif",
+    "iptm": 0.579,
+    "hotspot_contact_A": 4.53,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0067_seq3_ipTM0.565.cif",
+    "iptm": 0.565,
+    "hotspot_contact_A": 5.3,
+    "binder_len": 75
+  },
+  {
+    "name": "binder_0050_seq1_ipTM0.563.cif",
+    "iptm": 0.563,
+    "hotspot_contact_A": 5.41,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0086_seq1_ipTM0.561.cif",
+    "iptm": 0.561,
+    "hotspot_contact_A": 3.18,
+    "binder_len": 60
+  },
+  {
+    "name": "binder_0071_seq3_ipTM0.556.cif",
+    "iptm": 0.556,
+    "hotspot_contact_A": 3.59,
+    "binder_len": 78
+  },
+  {
+    "name": "binder_0081_seq3_ipTM0.554.cif",
+    "iptm": 0.554,
+    "hotspot_contact_A": 18.52,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0117_seq3_ipTM0.551.cif",
+    "iptm": 0.551,
+    "hotspot_contact_A": 4.42,
+    "binder_len": 80
+  },
+  {
+    "name": "binder_0051_seq0_ipTM0.547.cif",
+    "iptm": 0.547,
+    "hotspot_contact_A": 6.02,
+    "binder_len": 88
+  },
+  {
+    "name": "binder_0136_seq1_ipTM0.546.cif",
+    "iptm": 0.546,
+    "hotspot_contact_A": 3.13,
+    "binder_len": 95
+  },
+  {
+    "name": "binder_0018_seq2_ipTM0.544.cif",
+    "iptm": 0.544,
+    "hotspot_contact_A": 5.79,
+    "binder_len": 86
+  },
+  {
+    "name": "binder_0113_seq3_ipTM0.538.cif",
+    "iptm": 0.538,
+    "hotspot_contact_A": 3.73,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0116_seq1_ipTM0.538.cif",
+    "iptm": 0.538,
+    "hotspot_contact_A": 2.67,
+    "binder_len": 64
+  },
+  {
+    "name": "binder_0027_seq2_ipTM0.537.cif",
+    "iptm": 0.537,
+    "hotspot_contact_A": 5.0,
+    "binder_len": 97
+  },
+  {
+    "name": "binder_0059_seq0_ipTM0.537.cif",
+    "iptm": 0.537,
+    "hotspot_contact_A": 6.56,
+    "binder_len": 89
+  },
+  {
+    "name": "binder_0063_seq0_ipTM0.527.cif",
+    "iptm": 0.527,
+    "hotspot_contact_A": 4.73,
+    "binder_len": 94
+  },
+  {
+    "name": "binder_0103_seq1_ipTM0.527.cif",
+    "iptm": 0.527,
+    "hotspot_contact_A": 4.13,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0122_seq0_ipTM0.526.cif",
+    "iptm": 0.526,
+    "hotspot_contact_A": 6.37,
+    "binder_len": 96
+  },
+  {
+    "name": "binder_0103_seq3_ipTM0.522.cif",
+    "iptm": 0.522,
+    "hotspot_contact_A": 6.53,
+    "binder_len": 66
+  },
+  {
+    "name": "binder_0097_seq0_ipTM0.518.cif",
+    "iptm": 0.518,
+    "hotspot_contact_A": 4.52,
+    "binder_len": 98
+  },
+  {
+    "name": "binder_0035_seq3_ipTM0.518.cif",
+    "iptm": 0.518,
+    "hotspot_contact_A": 3.51,
+    "binder_len": 63
+  },
+  {
+    "name": "binder_0004_seq1_ipTM0.516.cif",
+    "iptm": 0.516,
+    "hotspot_contact_A": 4.34,
+    "binder_len": 93
+  },
+  {
+    "name": "binder_0064_seq3_ipTM0.510.cif",
+    "iptm": 0.51,
+    "hotspot_contact_A": 2.81,
+    "binder_len": 78
+  },
+  {
+    "name": "binder_0042_seq1_ipTM0.507.cif",
+    "iptm": 0.507,
+    "hotspot_contact_A": 3.66,
+    "binder_len": 67
+  },
+  {
+    "name": "binder_0120_seq3_ipTM0.502.cif",
+    "iptm": 0.502,
+    "hotspot_contact_A": 3.55,
+    "binder_len": 91
+  },
+  {
+    "name": "binder_0048_seq2_ipTM0.500.cif",
+    "iptm": 0.5,
+    "hotspot_contact_A": 4.92,
+    "binder_len": 96
+  }
+]

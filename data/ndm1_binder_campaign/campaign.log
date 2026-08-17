@@ -1,0 +1,329 @@
+[15:22:14] [S1]   20/150 binders generated, 80 sequences so far
+[15:42:20] [S1]   40/150 binders generated, 160 sequences so far
+[16:04:25] [S1]   60/150 binders generated, 240 sequences so far
+[16:25:49] [S1]   80/150 binders generated, 320 sequences so far
+[16:46:42] [S1]   100/150 binders generated, 400 sequences so far
+[17:07:50] [S1]   120/150 binders generated, 480 sequences so far
+[17:28:55] [S1]   140/150 binders generated, 560 sequences so far
+[17:40:04] [S1]   150/150 binders generated, 600 sequences so far
+[17:40:04] [S1] COMPLETE: 150 binders attempted, 600 sequences generated
+[17:40:24] [S2] 600 binder sequences to fold as complexes
+[17:41:21] [S2]     *** CANDIDATE: binder_0001_seq0 ipTM=0.698 ***
+[17:42:17] [S2]     *** CANDIDATE: binder_0001_seq1 ipTM=0.614 ***
+[17:43:14] [S2]     *** CANDIDATE: binder_0001_seq2 ipTM=0.665 ***
+[17:44:11] [S2]     *** CANDIDATE: binder_0001_seq3 ipTM=0.659 ***
+[17:45:08] [S2]     *** CANDIDATE: binder_0002_seq0 ipTM=0.748 ***
+[17:47:58] [S2]     *** CANDIDATE: binder_0002_seq3 ipTM=0.620 ***
+[17:49:51] [S2]   [10/600] binder_0003_seq1: ipTM=0.114 ptm=0.740
+[17:53:39] [S2]     *** CANDIDATE: binder_0004_seq1 ipTM=0.516 ***
+[17:59:20] [S2]   [20/600] binder_0005_seq3: ipTM=0.371 ptm=0.828
+[18:04:03] [S2]     *** CANDIDATE: binder_0007_seq0 ipTM=0.610 ***
+[18:07:51] [S2]     *** CANDIDATE: binder_0008_seq0 ipTM=0.803 ***
+[18:08:48] [S2]   [30/600] binder_0008_seq1: ipTM=0.201 ptm=0.753
+[18:10:42] [S2]     *** CANDIDATE: binder_0008_seq3 ipTM=0.731 ***
+[18:18:17] [S2]   [40/600] binder_0010_seq3: ipTM=0.188 ptm=0.781
+[18:20:10] [S2]     *** CANDIDATE: binder_0011_seq1 ipTM=0.596 ***
+[18:21:07] [S2]     *** CANDIDATE: binder_0011_seq2 ipTM=0.672 ***
+[18:26:48] [S2]     *** CANDIDATE: binder_0013_seq0 ipTM=0.743 ***
+[18:27:45] [S2]   [50/600] binder_0013_seq1: ipTM=0.708 ptm=0.913
+[18:27:45] [S2]     *** CANDIDATE: binder_0013_seq1 ipTM=0.708 ***
+[18:28:42] [S2]     *** CANDIDATE: binder_0013_seq2 ipTM=0.685 ***
+[18:29:39] [S2]     *** CANDIDATE: binder_0013_seq3 ipTM=0.786 ***
+[18:37:12] [S2]   [60/600] binder_0015_seq3: ipTM=0.439 ptm=0.865
+[18:39:06] [S2]     *** CANDIDATE: binder_0016_seq1 ipTM=0.809 ***
+[18:41:00] [S2]     *** CANDIDATE: binder_0016_seq3 ipTM=0.740 ***
+[18:41:57] [S2]     *** CANDIDATE: binder_0017_seq0 ipTM=0.824 ***
+[18:42:54] [S2]     *** CANDIDATE: binder_0017_seq1 ipTM=0.739 ***
+[18:43:51] [S2]     *** CANDIDATE: binder_0017_seq2 ipTM=0.732 ***
+[18:46:41] [S2]   [70/600] binder_0018_seq1: ipTM=0.183 ptm=0.763
+[18:47:38] [S2]     *** CANDIDATE: binder_0018_seq2 ipTM=0.544 ***
+[18:48:35] [S2]     *** CANDIDATE: binder_0018_seq3 ipTM=0.782 ***
+[18:54:16] [S2]     *** CANDIDATE: binder_0020_seq1 ipTM=0.703 ***
+[18:55:13] [S2]     *** CANDIDATE: binder_0020_seq2 ipTM=0.716 ***
+[18:56:09] [S2]   [80/600] binder_0020_seq3: ipTM=0.326 ptm=0.816
+[18:57:06] [S2]     *** CANDIDATE: binder_0021_seq0 ipTM=0.585 ***
+[18:59:00] [S2]     *** CANDIDATE: binder_0021_seq2 ipTM=0.862 ***
+[18:59:57] [S2]     *** CANDIDATE: binder_0021_seq3 ipTM=0.645 ***
+[19:01:50] [S2]     *** CANDIDATE: binder_0022_seq1 ipTM=0.821 ***
+[19:02:47] [S2]     *** CANDIDATE: binder_0022_seq2 ipTM=0.786 ***
+[19:04:41] [S2]     *** CANDIDATE: binder_0023_seq0 ipTM=0.580 ***
+[19:05:38] [S2]   [90/600] binder_0023_seq1: ipTM=0.754 ptm=0.925
+[19:05:38] [S2]     *** CANDIDATE: binder_0023_seq1 ipTM=0.754 ***
+[19:06:35] [S2]     *** CANDIDATE: binder_0023_seq2 ipTM=0.664 ***
+[19:07:31] [S2]     *** CANDIDATE: binder_0023_seq3 ipTM=0.614 ***
+[19:12:15] [S2]     *** CANDIDATE: binder_0025_seq0 ipTM=0.862 ***
+[19:13:12] [S2]     *** CANDIDATE: binder_0025_seq1 ipTM=0.763 ***
+[19:14:09] [S2]     *** CANDIDATE: binder_0025_seq2 ipTM=0.751 ***
+[19:15:06] [S2]   [100/600] binder_0025_seq3: ipTM=0.843 ptm=0.939
+[19:15:06] [S2]     *** CANDIDATE: binder_0025_seq3 ipTM=0.843 ***
+[19:20:47] [S2]     *** CANDIDATE: binder_0027_seq1 ipTM=0.726 ***
+[19:21:44] [S2]     *** CANDIDATE: binder_0027_seq2 ipTM=0.537 ***
+[19:22:41] [S2]     *** CANDIDATE: binder_0027_seq3 ipTM=0.618 ***
+[19:24:34] [S2]   [110/600] binder_0028_seq1: ipTM=0.171 ptm=0.810
+[19:28:21] [S2]     *** CANDIDATE: binder_0029_seq1 ipTM=0.776 ***
+[19:29:18] [S2]     *** CANDIDATE: binder_0029_seq2 ipTM=0.806 ***
+[19:30:15] [S2]     *** CANDIDATE: binder_0029_seq3 ipTM=0.729 ***
+[19:34:02] [S2]   [120/600] binder_0030_seq3: ipTM=0.167 ptm=0.776
+[19:35:56] [S2]     *** CANDIDATE: binder_0031_seq1 ipTM=0.785 ***
+[19:36:53] [S2]     *** CANDIDATE: binder_0031_seq2 ipTM=0.738 ***
+[19:42:34] [S2]     *** CANDIDATE: binder_0033_seq0 ipTM=0.663 ***
+[19:43:31] [S2]   [130/600] binder_0033_seq1: ipTM=0.777 ptm=0.928
+[19:43:31] [S2]     *** CANDIDATE: binder_0033_seq1 ipTM=0.777 ***
+[19:45:24] [S2]     *** CANDIDATE: binder_0033_seq3 ipTM=0.726 ***
+[19:46:21] [S2]     *** CANDIDATE: binder_0034_seq0 ipTM=0.734 ***
+[19:51:05] [S2]     *** CANDIDATE: binder_0035_seq1 ipTM=0.763 ***
+[19:52:02] [S2]     *** CANDIDATE: binder_0035_seq2 ipTM=0.840 ***
+[19:52:59] [S2]   [140/600] binder_0035_seq3: ipTM=0.518 ptm=0.889
+[19:52:59] [S2]     *** CANDIDATE: binder_0035_seq3 ipTM=0.518 ***
+[19:55:49] [S2]     *** CANDIDATE: binder_0036_seq2 ipTM=0.628 ***
+[19:57:43] [S2]     *** CANDIDATE: binder_0037_seq0 ipTM=0.742 ***
+[20:02:27] [S2]   [150/600] binder_0038_seq1: ipTM=0.211 ptm=0.782
+[20:03:24] [S2]     *** CANDIDATE: binder_0038_seq2 ipTM=0.787 ***
+[20:06:14] [S2]     *** CANDIDATE: binder_0039_seq1 ipTM=0.782 ***
+[20:11:55] [S2]   [160/600] binder_0040_seq3: ipTM=0.245 ptm=0.826
+[20:14:46] [S2]     *** CANDIDATE: binder_0041_seq2 ipTM=0.582 ***
+[20:15:43] [S2]     *** CANDIDATE: binder_0041_seq3 ipTM=0.653 ***
+[20:17:36] [S2]     *** CANDIDATE: binder_0042_seq1 ipTM=0.507 ***
+[20:21:23] [S2]   [170/600] binder_0043_seq1: ipTM=0.165 ptm=0.779
+[20:28:01] [S2]     *** CANDIDATE: binder_0045_seq0 ipTM=0.685 ***
+[20:28:58] [S2]     *** CANDIDATE: binder_0045_seq1 ipTM=0.671 ***
+[20:29:55] [S2]     *** CANDIDATE: binder_0045_seq2 ipTM=0.729 ***
+[20:30:52] [S2]   [180/600] binder_0045_seq3: ipTM=0.705 ptm=0.902
+[20:30:52] [S2]     *** CANDIDATE: binder_0045_seq3 ipTM=0.705 ***
+[20:31:49] [S2]     *** CANDIDATE: binder_0046_seq0 ipTM=0.771 ***
+[20:32:46] [S2]     *** CANDIDATE: binder_0046_seq1 ipTM=0.715 ***
+[20:33:43] [S2]     *** CANDIDATE: binder_0046_seq2 ipTM=0.747 ***
+[20:34:39] [S2]     *** CANDIDATE: binder_0046_seq3 ipTM=0.765 ***
+[20:35:36] [S2]     *** CANDIDATE: binder_0047_seq0 ipTM=0.776 ***
+[20:36:33] [S2]     *** CANDIDATE: binder_0047_seq1 ipTM=0.714 ***
+[20:37:30] [S2]     *** CANDIDATE: binder_0047_seq2 ipTM=0.876 ***
+[20:38:27] [S2]     *** CANDIDATE: binder_0047_seq3 ipTM=0.849 ***
+[20:39:24] [S2]     *** CANDIDATE: binder_0048_seq0 ipTM=0.632 ***
+[20:40:21] [S2]   [190/600] binder_0048_seq1: ipTM=0.138 ptm=0.744
+[20:41:17] [S2]     *** CANDIDATE: binder_0048_seq2 ipTM=0.500 ***
+[20:42:14] [S2]     *** CANDIDATE: binder_0048_seq3 ipTM=0.753 ***
+[20:43:11] [S2]     *** CANDIDATE: binder_0049_seq0 ipTM=0.775 ***
+[20:44:08] [S2]     *** CANDIDATE: binder_0049_seq1 ipTM=0.798 ***
+[20:45:05] [S2]     *** CANDIDATE: binder_0049_seq2 ipTM=0.838 ***
+[20:46:02] [S2]     *** CANDIDATE: binder_0049_seq3 ipTM=0.843 ***
+[20:47:55] [S2]     *** CANDIDATE: binder_0050_seq1 ipTM=0.563 ***
+[20:49:49] [S2]   [200/600] binder_0050_seq3: ipTM=0.488 ptm=0.838
+[20:50:46] [S2]     *** CANDIDATE: binder_0051_seq0 ipTM=0.547 ***
+[20:51:43] [S2]     *** CANDIDATE: binder_0051_seq1 ipTM=0.674 ***
+[20:59:18] [S2]   [210/600] binder_0053_seq1: ipTM=0.128 ptm=0.768
+[21:03:06] [S2]     *** CANDIDATE: binder_0054_seq1 ipTM=0.873 ***
+[21:04:03] [S2]     *** CANDIDATE: binder_0054_seq2 ipTM=0.828 ***
+[21:05:00] [S2]     *** CANDIDATE: binder_0054_seq3 ipTM=0.813 ***
+[21:05:57] [S2]     *** CANDIDATE: binder_0055_seq0 ipTM=0.803 ***
+[21:06:54] [S2]     *** CANDIDATE: binder_0055_seq1 ipTM=0.778 ***
+[21:07:50] [S2]     *** CANDIDATE: binder_0055_seq2 ipTM=0.834 ***
+[21:08:47] [S2]   [220/600] binder_0055_seq3: ipTM=0.798 ptm=0.930
+[21:08:47] [S2]     *** CANDIDATE: binder_0055_seq3 ipTM=0.798 ***
+[21:13:32] [S2]     *** CANDIDATE: binder_0057_seq0 ipTM=0.796 ***
+[21:16:22] [S2]     *** CANDIDATE: binder_0057_seq3 ipTM=0.783 ***
+[21:17:19] [S2]     *** CANDIDATE: binder_0058_seq0 ipTM=0.756 ***
+[21:18:16] [S2]   [230/600] binder_0058_seq1: ipTM=0.359 ptm=0.809
+[21:19:13] [S2]     *** CANDIDATE: binder_0058_seq2 ipTM=0.622 ***
+[21:21:07] [S2]     *** CANDIDATE: binder_0059_seq0 ipTM=0.537 ***
+[21:24:54] [S2]     *** CANDIDATE: binder_0060_seq0 ipTM=0.873 ***
+[21:26:47] [S2]     *** CANDIDATE: binder_0060_seq2 ipTM=0.859 ***
+[21:27:44] [S2]   [240/600] binder_0060_seq3: ipTM=0.901 ptm=0.953
+[21:27:44] [S2]     *** CANDIDATE: binder_0060_seq3 ipTM=0.901 ***
+[21:32:28] [S2]     *** CANDIDATE: binder_0062_seq0 ipTM=0.820 ***
+[21:35:19] [S2]     *** CANDIDATE: binder_0062_seq3 ipTM=0.652 ***
+[21:36:16] [S2]     *** CANDIDATE: binder_0063_seq0 ipTM=0.527 ***
+[21:37:13] [S2]   [250/600] binder_0063_seq1: ipTM=0.780 ptm=0.928
+[21:37:13] [S2]     *** CANDIDATE: binder_0063_seq1 ipTM=0.780 ***
+[21:38:10] [S2]     *** CANDIDATE: binder_0063_seq2 ipTM=0.628 ***
+[21:39:07] [S2]     *** CANDIDATE: binder_0063_seq3 ipTM=0.792 ***
+[21:40:04] [S2]     *** CANDIDATE: binder_0064_seq0 ipTM=0.708 ***
+[21:41:57] [S2]     *** CANDIDATE: binder_0064_seq2 ipTM=0.693 ***
+[21:42:54] [S2]     *** CANDIDATE: binder_0064_seq3 ipTM=0.510 ***
+[21:44:48] [S2]     *** CANDIDATE: binder_0065_seq1 ipTM=0.825 ***
+[21:45:45] [S2]     *** CANDIDATE: binder_0065_seq2 ipTM=0.830 ***
+[21:46:41] [S2]   [260/600] binder_0065_seq3: ipTM=0.800 ptm=0.938
+[21:46:41] [S2]     *** CANDIDATE: binder_0065_seq3 ipTM=0.800 ***
+[21:51:26] [S2]     *** CANDIDATE: binder_0067_seq0 ipTM=0.710 ***
+[21:54:16] [S2]     *** CANDIDATE: binder_0067_seq3 ipTM=0.565 ***
+[21:56:10] [S2]   [270/600] binder_0068_seq1: ipTM=0.168 ptm=0.798
+[21:59:57] [S2]     *** CANDIDATE: binder_0069_seq1 ipTM=0.587 ***
+[22:05:39] [S2]   [280/600] binder_0070_seq3: ipTM=0.311 ptm=0.776
+[22:09:26] [S2]     *** CANDIDATE: binder_0071_seq3 ipTM=0.556 ***
+[22:13:14] [S2]     *** CANDIDATE: binder_0072_seq3 ipTM=0.738 ***
+[22:15:08] [S2]   [290/600] binder_0073_seq1: ipTM=0.191 ptm=0.760
+[22:16:04] [S2]     *** CANDIDATE: binder_0073_seq2 ipTM=0.711 ***
+[22:18:55] [S2]     *** CANDIDATE: binder_0074_seq1 ipTM=0.899 ***
+[22:19:52] [S2]     *** CANDIDATE: binder_0074_seq2 ipTM=0.849 ***
+[22:20:49] [S2]     *** CANDIDATE: binder_0074_seq3 ipTM=0.781 ***
+[22:22:42] [S2]     *** CANDIDATE: binder_0075_seq1 ipTM=0.842 ***
+[22:23:39] [S2]     *** CANDIDATE: binder_0075_seq2 ipTM=0.824 ***
+[22:24:36] [S2]   [300/600] binder_0075_seq3: ipTM=0.853 ptm=0.944
+[22:24:36] [S2]     *** CANDIDATE: binder_0075_seq3 ipTM=0.853 ***
+[22:25:33] [S2]     *** CANDIDATE: binder_0076_seq0 ipTM=0.807 ***
+[22:29:21] [S2]     *** CANDIDATE: binder_0077_seq0 ipTM=0.703 ***
+[22:31:15] [S2]     *** CANDIDATE: binder_0077_seq2 ipTM=0.780 ***
+[22:32:12] [S2]     *** CANDIDATE: binder_0077_seq3 ipTM=0.749 ***
+[22:34:05] [S2]   [310/600] binder_0078_seq1: ipTM=0.152 ptm=0.790
+[22:36:56] [S2]     *** CANDIDATE: binder_0079_seq0 ipTM=0.693 ***
+[22:40:43] [S2]     *** CANDIDATE: binder_0080_seq0 ipTM=0.861 ***
+[22:41:40] [S2]     *** CANDIDATE: binder_0080_seq1 ipTM=0.820 ***
+[22:42:37] [S2]     *** CANDIDATE: binder_0080_seq2 ipTM=0.779 ***
+[22:43:34] [S2]   [320/600] binder_0080_seq3: ipTM=0.709 ptm=0.911
+[22:43:34] [S2]     *** CANDIDATE: binder_0080_seq3 ipTM=0.709 ***
+[22:47:22] [S2]     *** CANDIDATE: binder_0081_seq3 ipTM=0.554 ***
+[22:53:02] [S2]   [330/600] binder_0083_seq1: ipTM=0.425 ptm=0.832
+[22:59:41] [S2]     *** CANDIDATE: binder_0085_seq0 ipTM=0.840 ***
+[23:00:37] [S2]     *** CANDIDATE: binder_0085_seq1 ipTM=0.611 ***
+[23:02:31] [S2]   [340/600] binder_0085_seq3: ipTM=0.710 ptm=0.925
+[23:02:31] [S2]     *** CANDIDATE: binder_0085_seq3 ipTM=0.710 ***
+[23:03:28] [S2]     *** CANDIDATE: binder_0086_seq0 ipTM=0.726 ***
+[23:04:25] [S2]     *** CANDIDATE: binder_0086_seq1 ipTM=0.561 ***
+[23:05:22] [S2]     *** CANDIDATE: binder_0086_seq2 ipTM=0.647 ***
+[23:07:16] [S2]     *** CANDIDATE: binder_0087_seq0 ipTM=0.724 ***
+[23:08:13] [S2]     *** CANDIDATE: binder_0087_seq1 ipTM=0.698 ***
+[23:10:06] [S2]     *** CANDIDATE: binder_0087_seq3 ipTM=0.788 ***
+[23:12:01] [S2]   [350/600] binder_0088_seq1: ipTM=0.485 ptm=0.848
+[23:12:58] [S2]     *** CANDIDATE: binder_0088_seq2 ipTM=0.612 ***
+[23:14:51] [S2]     *** CANDIDATE: binder_0089_seq0 ipTM=0.594 ***
+[23:16:45] [S2]     *** CANDIDATE: binder_0089_seq2 ipTM=0.666 ***
+[23:18:39] [S2]     *** CANDIDATE: binder_0090_seq0 ipTM=0.874 ***
+[23:19:36] [S2]     *** CANDIDATE: binder_0090_seq1 ipTM=0.746 ***
+[23:20:33] [S2]     *** CANDIDATE: binder_0090_seq2 ipTM=0.873 ***
+[23:21:30] [S2]   [360/600] binder_0090_seq3: ipTM=0.864 ptm=0.945
+[23:21:30] [S2]     *** CANDIDATE: binder_0090_seq3 ipTM=0.864 ***
+[23:28:09] [S2]     *** CANDIDATE: binder_0092_seq2 ipTM=0.650 ***
+[23:29:06] [S2]     *** CANDIDATE: binder_0092_seq3 ipTM=0.770 ***
+[23:31:00] [S2]   [370/600] binder_0093_seq1: ipTM=0.828 ptm=0.935
+[23:31:00] [S2]     *** CANDIDATE: binder_0093_seq1 ipTM=0.828 ***
+[23:33:51] [S2]     *** CANDIDATE: binder_0094_seq0 ipTM=0.646 ***
+[23:34:48] [S2]     *** CANDIDATE: binder_0094_seq1 ipTM=0.749 ***
+[23:35:45] [S2]     *** CANDIDATE: binder_0094_seq2 ipTM=0.714 ***
+[23:36:42] [S2]     *** CANDIDATE: binder_0094_seq3 ipTM=0.772 ***
+[23:40:30] [S2]   [380/600] binder_0095_seq3: ipTM=0.251 ptm=0.779
+[23:41:27] [S2]     *** CANDIDATE: binder_0096_seq0 ipTM=0.747 ***
+[23:42:24] [S2]     *** CANDIDATE: binder_0096_seq1 ipTM=0.773 ***
+[23:45:15] [S2]     *** CANDIDATE: binder_0097_seq0 ipTM=0.518 ***
+[23:46:12] [S2]     *** CANDIDATE: binder_0097_seq1 ipTM=0.673 ***
+[23:47:09] [S2]     *** CANDIDATE: binder_0097_seq2 ipTM=0.788 ***
+[23:48:06] [S2]     *** CANDIDATE: binder_0097_seq3 ipTM=0.657 ***
+[23:49:03] [S2]     *** CANDIDATE: binder_0098_seq0 ipTM=0.875 ***
+[23:50:00] [S2]   [390/600] binder_0098_seq1: ipTM=0.877 ptm=0.942
+[23:50:00] [S2]     *** CANDIDATE: binder_0098_seq1 ipTM=0.877 ***
+[23:52:51] [S2]     *** CANDIDATE: binder_0099_seq0 ipTM=0.822 ***
+[23:53:48] [S2]     *** CANDIDATE: binder_0099_seq1 ipTM=0.804 ***
+[23:54:45] [S2]     *** CANDIDATE: binder_0099_seq2 ipTM=0.808 ***
+[23:56:39] [S2]     *** CANDIDATE: binder_0100_seq0 ipTM=0.819 ***
+[23:57:36] [S2]     *** CANDIDATE: binder_0100_seq1 ipTM=0.790 ***
+[23:58:32] [S2]     *** CANDIDATE: binder_0100_seq2 ipTM=0.783 ***
+[23:59:29] [S2]   [400/600] binder_0100_seq3: ipTM=0.801 ptm=0.940
+[23:59:29] [S2]     *** CANDIDATE: binder_0100_seq3 ipTM=0.801 ***
+[00:04:15] [S2]     *** CANDIDATE: binder_0102_seq0 ipTM=0.826 ***
+[00:05:12] [S2]     *** CANDIDATE: binder_0102_seq1 ipTM=0.845 ***
+[00:06:09] [S2]     *** CANDIDATE: binder_0102_seq2 ipTM=0.849 ***
+[00:07:06] [S2]     *** CANDIDATE: binder_0102_seq3 ipTM=0.852 ***
+[00:08:59] [S2]   [410/600] binder_0103_seq1: ipTM=0.527 ptm=0.879
+[00:08:59] [S2]     *** CANDIDATE: binder_0103_seq1 ipTM=0.527 ***
+[00:09:56] [S2]     *** CANDIDATE: binder_0103_seq2 ipTM=0.585 ***
+[00:10:53] [S2]     *** CANDIDATE: binder_0103_seq3 ipTM=0.522 ***
+[00:12:47] [S2]     *** CANDIDATE: binder_0104_seq1 ipTM=0.688 ***
+[00:14:42] [S2]     *** CANDIDATE: binder_0104_seq3 ipTM=0.607 ***
+[00:15:39] [S2]     *** CANDIDATE: binder_0105_seq0 ipTM=0.608 ***
+[00:17:33] [S2]     *** CANDIDATE: binder_0105_seq2 ipTM=0.686 ***
+[00:18:30] [S2]   [420/600] binder_0105_seq3: ipTM=0.318 ptm=0.787
+[00:23:15] [S2]     *** CANDIDATE: binder_0107_seq0 ipTM=0.769 ***
+[00:28:00] [S2]   [430/600] binder_0108_seq1: ipTM=0.190 ptm=0.743
+[00:28:57] [S2]     *** CANDIDATE: binder_0108_seq2 ipTM=0.699 ***
+[00:34:39] [S2]     *** CANDIDATE: binder_0110_seq0 ipTM=0.785 ***
+[00:35:36] [S2]     *** CANDIDATE: binder_0110_seq1 ipTM=0.768 ***
+[00:36:33] [S2]     *** CANDIDATE: binder_0110_seq2 ipTM=0.821 ***
+[00:37:30] [S2]   [440/600] binder_0110_seq3: ipTM=0.842 ptm=0.931
+[00:37:30] [S2]     *** CANDIDATE: binder_0110_seq3 ipTM=0.842 ***
+[00:47:00] [S2]   [450/600] binder_0113_seq1: ipTM=0.258 ptm=0.796
+[00:48:54] [S2]     *** CANDIDATE: binder_0113_seq3 ipTM=0.538 ***
+[00:49:51] [S2]     *** CANDIDATE: binder_0114_seq0 ipTM=0.670 ***
+[00:50:48] [S2]     *** CANDIDATE: binder_0114_seq1 ipTM=0.593 ***
+[00:53:39] [S2]     *** CANDIDATE: binder_0115_seq0 ipTM=0.678 ***
+[00:54:36] [S2]     *** CANDIDATE: binder_0115_seq1 ipTM=0.585 ***
+[00:55:33] [S2]     *** CANDIDATE: binder_0115_seq2 ipTM=0.684 ***
+[00:56:30] [S2]   [460/600] binder_0115_seq3: ipTM=0.657 ptm=0.913
+[00:56:30] [S2]     *** CANDIDATE: binder_0115_seq3 ipTM=0.657 ***
+[00:58:24] [S2]     *** CANDIDATE: binder_0116_seq1 ipTM=0.538 ***
+[01:02:12] [S2]     *** CANDIDATE: binder_0117_seq1 ipTM=0.706 ***
+[01:03:09] [S2]     *** CANDIDATE: binder_0117_seq2 ipTM=0.734 ***
+[01:04:06] [S2]     *** CANDIDATE: binder_0117_seq3 ipTM=0.551 ***
+[01:05:03] [S2]     *** CANDIDATE: binder_0118_seq0 ipTM=0.749 ***
+[01:06:00] [S2]   [470/600] binder_0118_seq1: ipTM=0.839 ptm=0.936
+[01:06:00] [S2]     *** CANDIDATE: binder_0118_seq1 ipTM=0.839 ***
+[01:06:57] [S2]     *** CANDIDATE: binder_0118_seq2 ipTM=0.891 ***
+[01:07:54] [S2]     *** CANDIDATE: binder_0118_seq3 ipTM=0.869 ***
+[01:12:39] [S2]     *** CANDIDATE: binder_0120_seq0 ipTM=0.770 ***
+[01:13:36] [S2]     *** CANDIDATE: binder_0120_seq1 ipTM=0.579 ***
+[01:15:30] [S2]   [480/600] binder_0120_seq3: ipTM=0.502 ptm=0.855
+[01:15:30] [S2]     *** CANDIDATE: binder_0120_seq3 ipTM=0.502 ***
+[01:16:27] [S2]     *** CANDIDATE: binder_0121_seq0 ipTM=0.718 ***
+[01:17:24] [S2]     *** CANDIDATE: binder_0121_seq1 ipTM=0.780 ***
+[01:18:21] [S2]     *** CANDIDATE: binder_0121_seq2 ipTM=0.612 ***
+[01:19:18] [S2]     *** CANDIDATE: binder_0121_seq3 ipTM=0.802 ***
+[01:20:15] [S2]     *** CANDIDATE: binder_0122_seq0 ipTM=0.526 ***
+[01:21:12] [S2]     *** CANDIDATE: binder_0122_seq1 ipTM=0.651 ***
+[01:22:09] [S2]     *** CANDIDATE: binder_0122_seq2 ipTM=0.726 ***
+[01:23:06] [S2]     *** CANDIDATE: binder_0122_seq3 ipTM=0.801 ***
+[01:24:03] [S2]     *** CANDIDATE: binder_0123_seq0 ipTM=0.676 ***
+[01:25:00] [S2]   [490/600] binder_0123_seq1: ipTM=0.695 ptm=0.904
+[01:25:00] [S2]     *** CANDIDATE: binder_0123_seq1 ipTM=0.695 ***
+[01:25:57] [S2]     *** CANDIDATE: binder_0123_seq2 ipTM=0.647 ***
+[01:26:54] [S2]     *** CANDIDATE: binder_0123_seq3 ipTM=0.649 ***
+[01:34:30] [S2]   [500/600] binder_0125_seq3: ipTM=0.142 ptm=0.782
+[01:39:14] [S2]     *** CANDIDATE: binder_0127_seq0 ipTM=0.821 ***
+[01:40:11] [S2]     *** CANDIDATE: binder_0127_seq1 ipTM=0.775 ***
+[01:41:08] [S2]     *** CANDIDATE: binder_0127_seq2 ipTM=0.827 ***
+[01:42:05] [S2]     *** CANDIDATE: binder_0127_seq3 ipTM=0.833 ***
+[01:43:59] [S2]   [510/600] binder_0128_seq1: ipTM=0.126 ptm=0.768
+[01:46:50] [S2]     *** CANDIDATE: binder_0129_seq0 ipTM=0.733 ***
+[01:50:38] [S2]     *** CANDIDATE: binder_0130_seq0 ipTM=0.738 ***
+[01:53:30] [S2]   [520/600] binder_0130_seq3: ipTM=0.638 ptm=0.910
+[01:53:30] [S2]     *** CANDIDATE: binder_0130_seq3 ipTM=0.638 ***
+[01:56:21] [S2]     *** CANDIDATE: binder_0131_seq2 ipTM=0.796 ***
+[01:58:15] [S2]     *** CANDIDATE: binder_0132_seq0 ipTM=0.590 ***
+[02:02:03] [S2]     *** CANDIDATE: binder_0133_seq0 ipTM=0.729 ***
+[02:03:00] [S2]   [530/600] binder_0133_seq1: ipTM=0.158 ptm=0.747
+[02:05:51] [S2]     *** CANDIDATE: binder_0134_seq0 ipTM=0.821 ***
+[02:06:48] [S2]     *** CANDIDATE: binder_0134_seq1 ipTM=0.783 ***
+[02:07:45] [S2]     *** CANDIDATE: binder_0134_seq2 ipTM=0.777 ***
+[02:08:42] [S2]     *** CANDIDATE: binder_0134_seq3 ipTM=0.780 ***
+[02:09:39] [S2]     *** CANDIDATE: binder_0135_seq0 ipTM=0.865 ***
+[02:10:36] [S2]     *** CANDIDATE: binder_0135_seq1 ipTM=0.882 ***
+[02:11:33] [S2]     *** CANDIDATE: binder_0135_seq2 ipTM=0.763 ***
+[02:12:30] [S2]   [540/600] binder_0135_seq3: ipTM=0.658 ptm=0.902
+[02:12:30] [S2]     *** CANDIDATE: binder_0135_seq3 ipTM=0.658 ***
+[02:14:25] [S2]     *** CANDIDATE: binder_0136_seq1 ipTM=0.546 ***
+[02:15:22] [S2]     *** CANDIDATE: binder_0136_seq2 ipTM=0.603 ***
+[02:21:04] [S2]     *** CANDIDATE: binder_0138_seq0 ipTM=0.854 ***
+[02:22:01] [S2]   [550/600] binder_0138_seq1: ipTM=0.814 ptm=0.935
+[02:22:01] [S2]     *** CANDIDATE: binder_0138_seq1 ipTM=0.814 ***
+[02:22:58] [S2]     *** CANDIDATE: binder_0138_seq2 ipTM=0.665 ***
+[02:27:44] [S2]     *** CANDIDATE: binder_0139_seq3 ipTM=0.641 ***
+[02:31:32] [S2]   [560/600] binder_0140_seq3: ipTM=0.373 ptm=0.833
+[02:36:18] [S2]     *** CANDIDATE: binder_0142_seq0 ipTM=0.799 ***
+[02:39:09] [S2]     *** CANDIDATE: binder_0142_seq3 ipTM=0.772 ***
+[02:41:03] [S2]   [570/600] binder_0143_seq1: ipTM=0.208 ptm=0.800
+[02:42:00] [S2]     *** CANDIDATE: binder_0143_seq2 ipTM=0.598 ***
+[02:42:57] [S2]     *** CANDIDATE: binder_0143_seq3 ipTM=0.748 ***
+[02:43:54] [S2]     *** CANDIDATE: binder_0144_seq0 ipTM=0.715 ***
+[02:46:45] [S2]     *** CANDIDATE: binder_0144_seq3 ipTM=0.650 ***
+[02:50:33] [S2]   [580/600] binder_0145_seq3: ipTM=0.186 ptm=0.802
+[02:53:24] [S2]     *** CANDIDATE: binder_0146_seq2 ipTM=0.655 ***
+[02:56:16] [S2]     *** CANDIDATE: binder_0147_seq1 ipTM=0.647 ***
+[02:58:10] [S2]     *** CANDIDATE: binder_0147_seq3 ipTM=0.815 ***
+[02:59:07] [S2]     *** CANDIDATE: binder_0148_seq0 ipTM=0.762 ***
+[03:00:04] [S2]   [590/600] binder_0148_seq1: ipTM=0.831 ptm=0.927
+[03:00:04] [S2]     *** CANDIDATE: binder_0148_seq1 ipTM=0.831 ***
+[03:01:58] [S2]     *** CANDIDATE: binder_0148_seq3 ipTM=0.730 ***
+[03:03:52] [S2]     *** CANDIDATE: binder_0149_seq1 ipTM=0.598 ***
+[03:06:44] [S2]     *** CANDIDATE: binder_0150_seq0 ipTM=0.711 ***
+[03:09:35] [S2]   [600/600] binder_0150_seq3: ipTM=0.813 ptm=0.929
+[03:09:35] [S2]     *** CANDIDATE: binder_0150_seq3 ipTM=0.813 ***
+[03:09:35] [S2] === FINAL: 600/600 folded successfully ===
+[03:09:35] [S2] ipTM: mean=0.446 max=0.901 min=0.114
+[03:09:35] [S2] n with ipTM>0.5: 255
+[03:09:35] [S2] n with ipTM>0.8: 66
