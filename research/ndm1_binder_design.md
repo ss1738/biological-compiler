@@ -38,7 +38,9 @@ The first candidates back had a real, visible problem: the designed sequences ar
 
 Pearson r (ipTM vs. entropy) = **+0.20**. Pearson r (ipTM vs. alanine fraction) = **−0.14**. Both weak, and both in the *opposite* direction from what the low-complexity-artifact hypothesis predicted — if anything, the higher-scoring sequences are very slightly *more* diverse, not less. **The hypothesis is not supported by the full data.** It looked right from an 8-sequence sample; it doesn't hold at n=600. That's worth stating plainly rather than quietly dropping — this is the same standard applied to every other claim in this repo.
 
-What *is* still real and worth flagging: composition across the **entire population**, regardless of score, is unusually low-diversity compared to natural proteins (mean entropy ~2.8 bits vs. roughly 4.0–4.2 for typical natural sequences; mean alanine content ~43% vs. a natural background of roughly 8% — *INFERRED baseline, not verified via a source this session, this session's web search budget was exhausted*). That's a real, uniform design-quality concern, most likely caused by `denoiser.noise_scale_ca=0 denoiser.noise_scale_frame=0` in the generation script — settings inherited from the enzyme-scaffolding pipeline, where zero noise is correct for precisely preserving fixed catalytic-residue geometry, but likely over-idealizes backbones for de novo binder generation. That's INFERRED, not proven — no controlled ablation was run. It just doesn't explain the score distribution the way I first thought.
+What *is* still real and worth flagging: composition across the **entire population**, regardless of score, is unusually low-diversity compared to natural proteins (mean entropy ~2.8 bits vs. roughly 4.0–4.2 for typical natural sequences; mean alanine content ~43% vs. a natural background of roughly 8% — *INFERRED baseline, not verified via a source this session, this session's web search budget was exhausted*). That's a real, uniform design-quality concern.
+
+**Correction:** the first version of this writeup blamed `denoiser.noise_scale_ca=0 denoiser.noise_scale_frame=0` (in the generation script) as a likely mistake inherited from the enzyme-scaffolding pipeline. That was checked against RFdiffusion's own real, official example script for binder design (`RFdiffusion/examples/design_ppi.sh`) and found to be wrong: that script explicitly sets both to 0, with the comment "reduce the noise added during inference to 0, to improve the quality of the designs." Zero noise is the RFdiffusion team's own recommended setting for PPI/binder mode, not an oversight. Flagging and correcting this rather than leaving the wrong inference standing — the more likely real lever is ProteinMPNN's sampling temperature (0.2 here, fairly conservative), tested below.
 
 ## A real, independent structural check: does the binder actually reach the hotspot?
 
@@ -105,5 +107,35 @@ The write-up above originally flagged a real missing check: ipTM confirms the tw
 Full 48-candidate list and structures in `data/ndm1_binder_campaign/final_verified/`.
 
 **What's still real and unresolved:** the sequence composition problem. Even this 48-candidate final shortlist is drawn from the same low-diversity, alanine-heavy sequence population as the rest of the campaign (see the entropy/composition analysis above — that concern was about whether composition explains *which* candidates score well, which it doesn't; it says nothing about whether the composition itself is a real design-quality problem, which it still is). A real next step, if pursued, would rerun generation with nonzero backbone noise as a controlled comparison before trusting these specific sequences over the discarded ones.
+
+## Follow-up: does raising ProteinMPNN's sampling temperature fix the composition problem?
+
+The real, controlled test named above was run. Reused the same 150 RFdiffusion backbones already generated (no new RFdiffusion GPU time), reran ProteinMPNN at two higher sampling temperatures (0.5 and 1.0, vs. the original 0.2), and folded all 1,200 new sequences with Chai-1 exactly as before -- unattended, auto-chained through all four stages (gen 0.5 → fold 0.5 → gen 1.0 → fold 1.0).
+
+**It works -- composition genuinely improves with temperature, cleanly and monotonically:**
+
+| Temp | Mean sequence entropy (bits) | Mean alanine fraction |
+|---|---|---|
+| 0.2 (original) | 2.76-2.90 | 42.7-45.5% |
+| 0.5 | 3.18 | 35.3% |
+| 1.0 | 3.72 | 21.1% |
+
+For reference, typical natural protein sequences run roughly 4.0-4.2 bits entropy and ~8% alanine (*INFERRED baseline, not verified via a source this session*). Temperature 1.0 gets meaningfully closer to natural-looking composition than the original 0.2 setting did.
+
+**But it costs real binding confidence, and the cost is steep:**
+
+| Temp | Mean ipTM | n / 600 with ipTM > 0.5 |
+|---|---|---|
+| 0.2 (original) | 0.446 | 255 (42.5%) |
+| 0.5 | 0.386 | 182 (30.3%) |
+| 1.0 | 0.208 | 30 (5.0%) |
+
+Going from temp 0.2 to 1.0 drops the ipTM>0.5 hit rate by a factor of 8.5, not a small tradeoff.
+
+**A more precise finding: entropy doesn't predict ipTM *within* a temperature batch.** Correlating per-sequence entropy against ipTM inside each condition gives r=-0.004 (temp 0.5) and r=-0.135 (temp 1.0) -- both near zero. That refines the picture from the original campaign's composition analysis: it was never true that more-diverse individual sequences score worse than less-diverse ones. What actually happens is that the temperature knob shifts the *entire* population's confidence distribution down uniformly as it's raised, not that diversity itself is penalized sequence-by-sequence.
+
+**Honest conclusion:** there is a real, measured composition-vs-confidence tradeoff, not a free fix. Temperature 0.2 -- the setting the original 150-binder campaign actually used -- produces the best raw ipTM and hit rate, at the cost of unnatural, low-complexity sequences that may carry real (if currently unmeasured) risk for expression, solubility, or aggregation in an actual wet-lab context. Temperature 1.0 produces much more natural-looking sequences at a steep, measured cost to computational binding confidence. Neither is proven better in reality -- both are still unvalidated computational predictions. This is a real, quantified design tradeoff now available for whoever takes this further, not a resolved question.
+
+Full data: `data/ndm1_temp_ablation/` (both conditions' raw Chai-1 results and sequences).
 
 The real next step, same as everywhere else in this repo: an actual binding assay (recombinant NDM-1 + a labeled or competitive binding assay against a shortlisted candidate), not more computation. Nothing here substitutes for that. But this is now a meaningfully stronger computational result than the raw ipTM number alone suggested — three independent checks, not one, and the two mistakes made while getting here (the retracted composition hypothesis, the numbering bug in this exact section) are documented rather than quietly fixed and hidden.

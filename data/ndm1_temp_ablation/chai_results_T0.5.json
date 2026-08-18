@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "binder_0001_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6246160268783569,
+    "ptm": 0.8897806406021118,
+    "binder_id": "binder_0001",
+    "seq_idx": 0,
+    "seq": "AAAFQATLNANYDAAIAALKAGDTDAAAAELNAAAAAVRATAHPSIAAQAASGAKKVTEAAKAGRLGLAIQMAKEMKQAFAAMAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0001_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4830901324748993,
+    "ptm": 0.8545100688934326,
+    "binder_id": "binder_0001",
+    "seq_idx": 1,
+    "seq": "SDAFKQKLTELLDAAIAALKAGDVAKAKAALDEAAALVAEKSSPSIAATAAGGAARITKLAEEGKLGLAIAVAEEMKEAFEEMAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0001_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6341447830200195,
+    "ptm": 0.8862693905830383,
+    "binder_id": "binder_0001",
+    "seq_idx": 2,
+    "seq": "SEAFRDRLTSEYTAAIAALEAGNVDEAAAHLNAAAELVAQHGHPSTANGAAGGAERITSLAKAGRTELAIAMARNMLEAHTLAAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0001_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7101321220397949,
+    "ptm": 0.9170629382133484,
+    "binder_id": "binder_0001",
+    "seq_idx": 3,
+    "seq": "AEDTRKKLDELFDTAIRALEAGDVAQAAAALEAAAQLVAQTGPPSVGAEWAAGATKIQRAAQEGRTGLAIAMAQDMRDAAALMCG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0002_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.756710946559906,
+    "ptm": 0.9197113513946533,
+    "binder_id": "binder_0002",
+    "seq_idx": 0,
+    "seq": "DVKKLAAVAVAALTRVAKAGTPASAKLCANAAKAVELYAKMGSADGVLETANGTLADVATAGNHEVAELAHREAAAVNAAYSA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0002_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.20829841494560242,
+    "ptm": 0.775434136390686,
+    "binder_id": "binder_0002",
+    "seq_idx": 1,
+    "seq": "FVAELAAKAVEALEEVAKAGNEASARLAAGAAAAVRLEAALGDAEGVLETAAGTLADIATAGNAAVAKLANEKAAEVEALYKE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0002_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15276512503623962,
+    "ptm": 0.7777584195137024,
+    "binder_id": "binder_0002",
+    "seq_idx": 2,
+    "seq": "NVEVLAATAVGALKAVAAAGNAAIAAKCNGAAKAVTLYCAVGDAEGVLATAEGTLAEAATAGDAAVAKLAAAQAATVRAVYNA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0002_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8062411546707153,
+    "ptm": 0.9310855865478516,
+    "binder_id": "binder_0002",
+    "seq_idx": 3,
+    "seq": "RVADLAARARAALDAVAAASPPAGAALAEGARRAVALYEAVGSADGVLDTALGTLAEIATLGDAEVAALANRQAADVRAAYEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0003_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.25022605061531067,
+    "ptm": 0.7754913568496704,
+    "binder_id": "binder_0003",
+    "seq_idx": 0,
+    "seq": "GRDELEARAAELGRAALAGLAADPAAAAFLAAELLAGLASEASGLLLGGYSRAVAEAASPEVAEAFGTAMEAALDNPEQAAEILDGAAAYLADRIAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0003_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4780113101005554,
+    "ptm": 0.8170225024223328,
+    "binder_id": "binder_0003",
+    "seq_idx": 1,
+    "seq": "GRDALEAGAREAGVAAVRALAADPAAAADLSALCLAALAAEAAGLRLGGMARGVRAELSPEAAEAFGVACGAAEDDPERAADILAGAAEHLAREIAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0003_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1372358649969101,
+    "ptm": 0.7475982904434204,
+    "binder_id": "binder_0003",
+    "seq_idx": 2,
+    "seq": "GLAALREQAEAEGRAKLAALAADPSAAADLAAACNHFLASSASGARLGGMARGVKAEASPTVGEAFKVAMGGAMNNPEDGAQILAGAARHLYDQLRG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0003_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.138584703207016,
+    "ptm": 0.7480174899101257,
+    "binder_id": "binder_0003",
+    "seq_idx": 3,
+    "seq": "GREALAAAARDQARAAMAALAADPAAAAELARLLLAFLESEAAGLRLGGAVAGVREAASPEQGAFFGTAVEGAEENPERAAEILAGAAEALARAIAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0004_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3853829503059387,
+    "ptm": 0.8115086555480957,
+    "binder_id": "binder_0004",
+    "seq_idx": 0,
+    "seq": "MAAAMADLAKVTKAVAAHIDRSYQAYLDHGKKGLEKGRKEGNIKETLDKILALLTGEAQEYTDIGDTAGANAMKAAYTELKEYGEKLIEEDQK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0004_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.21467149257659912,
+    "ptm": 0.7526282668113708,
+    "binder_id": "binder_0004",
+    "seq_idx": 1,
+    "seq": "EQRAAEDRERMARAVKREIDRHAEALLRRAREGLEQGAAQGTLATTAEAWLALLRGEAEQQRQDGDTAGAKATLDTAKQVREYAEKLAAEKRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0004_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6658766865730286,
+    "ptm": 0.8868464827537537,
+    "binder_id": "binder_0004",
+    "seq_idx": 2,
+    "seq": "AAQAAADRERVRAAYTRQITRAKEAYMARAKKGLDRAAAEGNIEAALAAALELLKGESEELQDIGDTLGAKAMEEARAQVEEYGQKLIAELQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0004_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.21521781384944916,
+    "ptm": 0.7497553825378418,
+    "binder_id": "binder_0004",
+    "seq_idx": 3,
+    "seq": "SAASAADRARLAASVRAENEAAGRHYLAQARAGIDAAAATGSIREAAAAALALIAGEAAELLEEGDTYGAAVFEATGAEVAAYAAGVAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0005_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.33321478962898254,
+    "ptm": 0.8231373429298401,
+    "binder_id": "binder_0005",
+    "seq_idx": 0,
+    "seq": "TVALGDGADEAALEIARRTGDGEFALEARHKLGGAIELGNRDAARGAEALAEALDEIEEEDPEAGEIAREKLAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0005_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2685506343841553,
+    "ptm": 0.7970089316368103,
+    "binder_id": "binder_0005",
+    "seq_idx": 1,
+    "seq": "AQALADAADLAALEVAKETGDGALARAARHRVGAAINLGEVDAKAGAEALAAALAALAAEDAAAGAITARHLAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0005_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.23975428938865662,
+    "ptm": 0.8086825609207153,
+    "binder_id": "binder_0005",
+    "seq_idx": 2,
+    "seq": "TEKLADAAEQAALEIAELTGDGEFAKAALHAVGSAIDEGAMDAEAGERALKAALASITAKNPEAGAIMAQKLEAAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0005_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15404224395751953,
+    "ptm": 0.7779456377029419,
+    "binder_id": "binder_0005",
+    "seq_idx": 3,
+    "seq": "MSALGNAAGLAALACARDTGDGALAREAGRALGRAIDVGERDGEAGQAELRAALAALRARDERCGAVAAAALAAAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0006_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.23489689826965332,
+    "ptm": 0.8121625781059265,
+    "binder_id": "binder_0006",
+    "seq_idx": 0,
+    "seq": "SPTDLAQNLTNAARAAGYHLLEGHKGAPLAELEELARRCGQAVAQASGNADVGAAAFAELAAHGADIHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0006_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15069913864135742,
+    "ptm": 0.795698881149292,
+    "binder_id": "binder_0006",
+    "seq_idx": 1,
+    "seq": "SLERLAENLAQEALAGARELLYGHRTEDLATRLEAAAAAGAAIADALGDKAAGDAAAAALAAYGVAVHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0006_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.24325545132160187,
+    "ptm": 0.8144776821136475,
+    "binder_id": "binder_0006",
+    "seq_idx": 2,
+    "seq": "SQELLAENTANAARAGASQLIDGRAGEALEKLKQAAARAGASVAAATGNEDEGKKAAAELTAYAEERHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0006_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.14828245341777802,
+    "ptm": 0.7922303676605225,
+    "binder_id": "binder_0006",
+    "seq_idx": 3,
+    "seq": "SQEELARNIANHSRAGAWELARGRRTAPLASLEAAAARSGSAVAGATGDSAVGAAAEAELAAFARAVHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0007_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.43706223368644714,
+    "ptm": 0.8226434588432312,
+    "binder_id": "binder_0007",
+    "seq_idx": 0,
+    "seq": "AGLAGLKQLALRLKQAEDLAVKAAAKVPEVYADVKAAAAKARDQAEAQLKAAQAASAKDPVEATATTAVASKAIKAALQAATATLKAVQALAAAKE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0007_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.29560431838035583,
+    "ptm": 0.7784675359725952,
+    "binder_id": "binder_0007",
+    "seq_idx": 1,
+    "seq": "TLRGGLRLLEARLRAAAAEAVAAAAQLPAVQAAVQEAAAGALARAAEAVAAAEEAAARDPVTASVAGEEAARTLLELERQMRARRDEVVALVQQAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0007_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.24451977014541626,
+    "ptm": 0.7599012851715088,
+    "binder_id": "binder_0007",
+    "seq_idx": 2,
+    "seq": "VGLGGVQVRALELQDAGDRAVAAAAKVPEVSAAVKAQVDAASTKSEAAVQKAKDAAAKDPTTATWTIYQASKAIQKALDDLQALLAEVEALAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0007_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.18227937817573547,
+    "ptm": 0.7355873584747314,
+    "binder_id": "binder_0007",
+    "seq_idx": 3,
+    "seq": "VGLAGLQANVLALQKAADAAIAAAAKVPEVAASVKAECEAAVSNAKDQLAKAKEASKKDPVTAEYAEYQASKAIQENRDRLTALLKEVQALAEKRQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0008_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.14937153458595276,
+    "ptm": 0.7500894665718079,
+    "binder_id": "binder_0008",
+    "seq_idx": 0,
+    "seq": "ADAFNSAVAELKERMDALATEMLRAAIAGTPAEAARAAERFGAAAKELGEAAKRRAEAAGDVVGAASLEESTLGIAAERAARAARQFAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0008_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4057047665119171,
+    "ptm": 0.8396093845367432,
+    "binder_id": "binder_0008",
+    "seq_idx": 1,
+    "seq": "ADIFDERVAEARERVKDLAAKAEARMKAGDPAEADEALAEFGRECVALGEEFEAFFRELGAEVEGESARDTTLGQGAEEAWRAWKAYTRHHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0008_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7825366854667664,
+    "ptm": 0.9189609289169312,
+    "binder_id": "binder_0008",
+    "seq_idx": 2,
+    "seq": "MEQFKRKVEEAKEAVDRLADEVELRAVAGTPEEAGREMAEFGRRCAELGRQLAAEMEAEGDEIGAASLEESTRGIGAQRAWNAQRRFRAAHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0008_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6041045784950256,
+    "ptm": 0.8740478157997131,
+    "binder_id": "binder_0008",
+    "seq_idx": 3,
+    "seq": "MDEVDALFREARDRVADASAATLARAIAGTPEVAAAELAAFGAQAEELGAEMRTLFIARGDEIAGESAYESTLAIAAQEAARAMRRYSAHHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0009_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2249693125486374,
+    "ptm": 0.7718494534492493,
+    "binder_id": "binder_0009",
+    "seq_idx": 0,
+    "seq": "SMDEAQTQEQMTKEENALAAENFERGLRALARSEEGRALARAIAEAKALASEGLAPLAARLALAAQRRLQDIGGSDAGKKLDD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0009_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1750319004058838,
+    "ptm": 0.7658252120018005,
+    "binder_id": "binder_0009",
+    "seq_idx": 1,
+    "seq": "TQQEQEEVAKTSAELDALRKEYTAKYREAHAASAEGAATRAAIRRARELAAEGKAAAANTLTTALDKRALSIGGDSAGADLDA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0009_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.31473326683044434,
+    "ptm": 0.7826358675956726,
+    "binder_id": "binder_0009",
+    "seq_idx": 2,
+    "seq": "MESEQAAMAANRSQEDSLAARYTAKYLAAEAASEAGKEIAAKIASKQAAAGQGKGAEGQKAAEARNKRAADVGGAAAGAELDR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0009_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.14825546741485596,
+    "ptm": 0.7635163068771362,
+    "binder_id": "binder_0009",
+    "seq_idx": 3,
+    "seq": "DKLEQEAMAAARRKEAKLAEILEKRGLAAEAASAAGQATRAAIATAKAEAALGKGPEAARLAAARDNRSRAIGGDDAGSILNK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0010_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18592225015163422,
+    "ptm": 0.772233247756958,
+    "binder_id": "binder_0010",
+    "seq_idx": 0,
+    "seq": "VDAAARDAGRAAAAAISQAQPEMTERGLHFTEQTAEGLFRQAARGGAAAGARAAIAAMRDADAEGGGGVYDLLLEGVEAWAAEAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0010_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15440675616264343,
+    "ptm": 0.7618968486785889,
+    "binder_id": "binder_0010",
+    "seq_idx": 1,
+    "seq": "VEERARAWGEAAARRAAAAVPQMDLAGLALIGRMAAGAARRAADASTAEGAIDAVTYLADLDAEAGGEVYAILRDDIEAYAAEARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0010_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15265263617038727,
+    "ptm": 0.7695862650871277,
+    "binder_id": "binder_0010",
+    "seq_idx": 2,
+    "seq": "PEERAAEEGRRTAEEVKAAVPAMDERGLRLFEQMATGLHKKAADHRTAKGALEEIETLRAEEAEGGGLVYDIMYESVTRYAALEIS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0010_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2910032868385315,
+    "ptm": 0.7954608201980591,
+    "binder_id": "binder_0010",
+    "seq_idx": 3,
+    "seq": "LEEMAAAAGAACAAAIKAAAPEMTADGIAYVNNVAKGLFRRAADHRTALGALKAVSHMRELDAEGGGLVWDILGVFVAIYAALALW",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0011_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.17766165733337402,
+    "ptm": 0.7758483290672302,
+    "binder_id": "binder_0011",
+    "seq_idx": 0,
+    "seq": "ARYAAHVRAAKRSAIGAIREALLLSPRLGAIVGALGGVALAALEADPVAALAWAAVLRRLGDWHPEIRGSAEDMAAEVFRAAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0011_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3382966220378876,
+    "ptm": 0.8121111392974854,
+    "binder_id": "binder_0011",
+    "seq_idx": 1,
+    "seq": "AEFDAQVRMAVKHAQGLVLEARLRSEKLAEKMGEMCKKALEALGTNPEEAKKVANKVYALGSENPEIKGTAEAFALAVFRAAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0011_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19689799845218658,
+    "ptm": 0.7759481072425842,
+    "binder_id": "binder_0011",
+    "seq_idx": 2,
+    "seq": "ALYAAELRDAKNHGKGAVREAALVDKALAKEVADLAAAALAALEANPTKAAQIAESLYKLGEETPEIAGTARAFAEEVFKAVAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0011_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.18775305151939392,
+    "ptm": 0.7720670700073242,
+    "binder_id": "binder_0011",
+    "seq_idx": 3,
+    "seq": "ADYEAQLKKARNHGAGLKRLAALTGKGLALLVDQLTTEALNALETDPEQALAIAEQIRALGAAVPTVAGSAEAFALSLASAAAAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0012_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.32076025009155273,
+    "ptm": 0.8304734826087952,
+    "binder_id": "binder_0012",
+    "seq_idx": 0,
+    "seq": "STRQRCQKVQDAMTQAQAAYDAGQLEKGAQILANQFVQCLLDGDTNGAQGILDFAASLGKELLDLTRRAADEILLQLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0012_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2227049320936203,
+    "ptm": 0.7931159138679504,
+    "binder_id": "binder_0012",
+    "seq_idx": 1,
+    "seq": "DVSRNAAETGKAMAEAEALYKAGKLDEAAEVLGRQAYKAKKDGDENTRRGILEYAKSLGEELYKKTKEYMERLALEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0012_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.22458237409591675,
+    "ptm": 0.7937964797019958,
+    "binder_id": "binder_0012",
+    "seq_idx": 2,
+    "seq": "TTGKLAARTRAAMAEAEALVRAGDVDAAAMVLAQRRWECERAGDEAGARGVDEFAARLGPELLERTLAAYRRLALLER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0012_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2264532744884491,
+    "ptm": 0.8017038702964783,
+    "binder_id": "binder_0012",
+    "seq_idx": 3,
+    "seq": "STRRINGRVAAATALAEQLFAEGKVEEAALVLGTTAFEADKAGDENAATGIFERAKALGNELYALTKQYYEKLKLGAG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0013_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7832856178283691,
+    "ptm": 0.93407142162323,
+    "binder_id": "binder_0013",
+    "seq_idx": 0,
+    "seq": "SAQAAAAEAAAAAAIALAAADPARCASVAGALCDAGAAQGIDPALIAAALAAVADAVPACKAVFDAAAAGAQKQAKVEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0013_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.5828915238380432,
+    "ptm": 0.881900429725647,
+    "binder_id": "binder_0013",
+    "seq_idx": 1,
+    "seq": "SALEQAAAAAAAAAIAAARADPSAGASVAAAFGDSMAQLGGTEELAARAFESVASAVPANARVFRAAAAGARKQARVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0013_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5682064294815063,
+    "ptm": 0.8870420455932617,
+    "binder_id": "binder_0013",
+    "seq_idx": 2,
+    "seq": "DALQAAADAAARAAIAEAKANPAACASVATAMSDSLDQAGGPAELAARAHRAVAEAVPACREVFLAEAAGEEKQAKVER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0013_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7524460554122925,
+    "ptm": 0.9247355461120605,
+    "binder_id": "binder_0013",
+    "seq_idx": 3,
+    "seq": "SAQAAQAAAGAAAAIAAARADPARCPSVAAALCDAMDQAGIPPALAAAALAAVAAAVPACKAVFEAAARGMEKEALVTA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0014_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.22091177105903625,
+    "ptm": 0.7930251955986023,
+    "binder_id": "binder_0014",
+    "seq_idx": 0,
+    "seq": "GDLRALEILQKAGAEIAKKVPAVAAQIEAETRAANQAIGDGDLGAAEAHIKSMEETAIKGGLDAAEARATARAVIDAIRRL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0014_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1987953931093216,
+    "ptm": 0.7845043540000916,
+    "binder_id": "binder_0014",
+    "seq_idx": 1,
+    "seq": "GVAAALVFLRDTAAALAARAPAAKDEILKEGDAAAAALGAGDLAEAEKHIDAMAATAEKAGVAKDEADAARAAVLDQIRRK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0014_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.16004180908203125,
+    "ptm": 0.7788801193237305,
+    "binder_id": "binder_0014",
+    "seq_idx": 2,
+    "seq": "GVGAAMAFIRDVTARLAARAPAVAEQLKQLGEAAIAALGEGDTERCDLEIAAMAAVAIQGGIDAGEAAAEAAAARAAIRSL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0014_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2149072289466858,
+    "ptm": 0.7911055684089661,
+    "binder_id": "binder_0014",
+    "seq_idx": 3,
+    "seq": "GLAAALAHVAAETARLAELVPGAASVLRAEGDAANAALGAGDLAAAEQHLDALAAAATAGGLDAAEAAARAEAARRAIRTR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0015_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2997707724571228,
+    "ptm": 0.831406831741333,
+    "binder_id": "binder_0015",
+    "seq_idx": 0,
+    "seq": "TASVLATVTACGGGAAGDVGGSTRMAAALQAALEAAGLTELGTDAAAALKAATTSAAALAVAAAYTAAVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0015_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.36272674798965454,
+    "ptm": 0.822891354560852,
+    "binder_id": "binder_0015",
+    "seq_idx": 1,
+    "seq": "VAAVLTTTGACAGGAAGDVGSAERQAARLRAALDAAGLSALGEECAAQLRAATTPDAAYAVGQQCQAAVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0015_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.16977283358573914,
+    "ptm": 0.7987597584724426,
+    "binder_id": "binder_0015",
+    "seq_idx": 2,
+    "seq": "LQETIAQAEQCFGGAAGDIGSANEMAAKLEAALAAAGCTELGAAAAAALRAATTPEEAEAEGARYVAAIRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0015_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22006581723690033,
+    "ptm": 0.8010311126708984,
+    "binder_id": "binder_0015",
+    "seq_idx": 3,
+    "seq": "RDAVIATARECCGGAAGDVGASGIMAARLEEALAAAGLDDLGTAAAAALVAATTPEEALAIGKEIVAQVSA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0016_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.675621509552002,
+    "ptm": 0.8778667449951172,
+    "binder_id": "binder_0016",
+    "seq_idx": 0,
+    "seq": "SVAEETQERKEAANTLEASAAATQADAAAELARAEAELAAATAALARAGALSPAEVAAARARRDAAKARAARARADRAKAEALSAKAKNLAEAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0016_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.772266149520874,
+    "ptm": 0.9069129824638367,
+    "binder_id": "binder_0016",
+    "seq_idx": 1,
+    "seq": "AEVAQREEKREAALALAASAQETIAHAQGVMAMAQAAADAAQQLLDQEESLSPEDRVAARAALAAAEARLARAQAQLAQAQALLAEAQALAKAEE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0016_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.13512589037418365,
+    "ptm": 0.7234430313110352,
+    "binder_id": "binder_0016",
+    "seq_idx": 2,
+    "seq": "EQAASLEDLKAAAAALEASAAATQADQRAVQARSDAAAAQATALLARAADLSPAAVAAAKAELEAQQARRQKAAADLADAEARAALAAAQRKAVE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0016_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7712404727935791,
+    "ptm": 0.9121221899986267,
+    "binder_id": "binder_0016",
+    "seq_idx": 3,
+    "seq": "DEAAANAARLEAAAALEASAEETIADQNAVYAASRAAAARAEAALARAGALAPDDVAAARAALAAQRAREARARERMERAKKAQRAAREIAREMA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0017_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.27379363775253296,
+    "ptm": 0.7724153399467468,
+    "binder_id": "binder_0017",
+    "seq_idx": 0,
+    "seq": "MDAQAQWAIAAAQAAKRAANNALHLGRRLRASSRESALAGAGACASAATQVGATLERAKQQAAKATAEQQKKAQEAIKEAEEAREALTAEGEAAAAFAG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0017_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8450281620025635,
+    "ptm": 0.9363695979118347,
+    "binder_id": "binder_0017",
+    "seq_idx": 1,
+    "seq": "AQAAAERALAAAKAATDRATRAIEVARALRAASRDYAAAGAENARYAAAEVYATLERARRLAAQSTPEEQAEVDEEIARARARLRELEKLGEEAAKYAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0017_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6301466226577759,
+    "ptm": 0.8880029916763306,
+    "binder_id": "binder_0017",
+    "seq_idx": 2,
+    "seq": "PDEQAARALAAARQARIGAERALEEATKLAASGKRLAAAGADAAAAQATDVGARLARARELAAKATPTDRERAAAEIAVAEAARAQLVALGAAAAEKSA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0017_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.387651652097702,
+    "ptm": 0.8135338425636292,
+    "binder_id": "binder_0017",
+    "seq_idx": 3,
+    "seq": "ARAAADAALAAAKRAQEILNRQLAVAQKLAASGKEGALAAAEAAFQGATVGQAILARAKRTAAGATPDDKAKVDAAIAAAQAAMRELQNQGLAAAKAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0018_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18831467628479004,
+    "ptm": 0.7602019906044006,
+    "binder_id": "binder_0018",
+    "seq_idx": 0,
+    "seq": "EAARSRAVADAGAHVAGDKGDEEAGEIAEMNELLGAKVREFARDREREYKARVRDAGWTPAEAAALAAEVLKEVEKEAKEARKKAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0018_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.14326071739196777,
+    "ptm": 0.7561903595924377,
+    "binder_id": "binder_0018",
+    "seq_idx": 1,
+    "seq": "QGLRSRATADAGAAAVGSAGDAQAGEISDIDEKLGAEVADYATGAVRALKDFVRARGISPDEAAALAAAVLAAVAAKCDAAKAQAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0018_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.29319822788238525,
+    "ptm": 0.7811183929443359,
+    "binder_id": "binder_0018",
+    "seq_idx": 2,
+    "seq": "ATARSRAVADAGAHAVGDAGDELAGEIMELDARLGAELRDFARAQARLLLAVVQALGISPEAAAALGAATLAAVKAQAEALLAKAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0018_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1711878627538681,
+    "ptm": 0.7677775621414185,
+    "binder_id": "binder_0018",
+    "seq_idx": 3,
+    "seq": "ERLRSLAAADAGAHQAGDYGDELAGEIDEIDQKLGAEVREAAREQCRALRAEVRAQGWSPAQAIARAAAVRAKIRELAEKARALAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0019_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18388722836971283,
+    "ptm": 0.7550429701805115,
+    "binder_id": "binder_0019",
+    "seq_idx": 0,
+    "seq": "MEESLRRGIANPEIHALAEKAQEILAAQKEIDTLVAANRERAVALGARRGDERKWRADADAAREVGGTLVAEDVAAGKEAARAATESVEAAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0019_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.14620274305343628,
+    "ptm": 0.7423587441444397,
+    "binder_id": "binder_0019",
+    "seq_idx": 1,
+    "seq": "NLEQLLRGMENPEIKEEAEKALSILLAQKKIEARTEENRALLGDLGAAEGNERAWDAMADAMEDAAGEAVSKDTELGLKQLEEADKAVRALAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0019_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3042449355125427,
+    "ptm": 0.7786407470703125,
+    "binder_id": "binder_0019",
+    "seq_idx": 2,
+    "seq": "SLERAKAGMLNPQLKEEAERALRVLLAQEKIDATAAAMRELLVARGRADGSERAYAAEANAIDEQGGLLAALDVEAGLAAAAAAEAAVRAMAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0019_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7806975245475769,
+    "ptm": 0.9008737206459045,
+    "binder_id": "binder_0019",
+    "seq_idx": 3,
+    "seq": "DRERAERGMKDPTLREVAQNQLAILDAIAAIDAAAEAMKAKLLAAGEKAGNARKSLKMANAARVAGGTLASEDVAKGREAAAAAQAYFDALYAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0020_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19475123286247253,
+    "ptm": 0.7742701172828674,
+    "binder_id": "binder_0020",
+    "seq_idx": 0,
+    "seq": "ERARAAEADRLLAESRRAAAEAGEHRAHADQLQEEFTAKGGDAAAAAAAREHSRRSKELEDEAMRARRLAAQLRAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0020_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.34849631786346436,
+    "ptm": 0.8269420862197876,
+    "binder_id": "binder_0020",
+    "seq_idx": 1,
+    "seq": "KEDAAATAEQLDQEAADYAAQAGKCLRESMELQKKAEELNGDATAAELAKQKSREAKRLFDTAIRAQRKAAEIRAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0020_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5481046438217163,
+    "ptm": 0.8691778779029846,
+    "binder_id": "binder_0020",
+    "seq_idx": 2,
+    "seq": "SAARAAEAAKLAADADAAAAAAGAAGATANAYAEAAWQANGDPAKAKAAIAASAASKALMNAARRCARAARALTAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0020_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2750263214111328,
+    "ptm": 0.7926405668258667,
+    "binder_id": "binder_0020",
+    "seq_idx": 3,
+    "seq": "EAFRAAAAAALLARAAQADAEAGAQNKTARKFQQRWYEADGDAEAANQAKQASAVAKALRDEAMRARADAKALAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0021_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7832161784172058,
+    "ptm": 0.9287901520729065,
+    "binder_id": "binder_0021",
+    "seq_idx": 0,
+    "seq": "DKAKELAAKTKEKIEEYAKKGLEGTAEIAEAMAEAIEATGTDTAAEILKLDPASEPVAKEVLEYAKQKAAEAREAAKEM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0021_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.14702807366847992,
+    "ptm": 0.7744849324226379,
+    "binder_id": "binder_0021",
+    "seq_idx": 1,
+    "seq": "ATAAARATTAFDSIQELRDVGMSSTPEMAIAMAESISASGMAAAGDITALDPSAAPTAAKLSAEAKDFADDAKDKAEQL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0021_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1809760183095932,
+    "ptm": 0.7912188172340393,
+    "binder_id": "binder_0021",
+    "seq_idx": 2,
+    "seq": "QAAAELAERAKGKIAELRDLGKSSTPEIAEAMAISITATGTASAASISKLDPAAAAVAAELLAFAKAESQDAMEWAEEM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0021_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.16486458480358124,
+    "ptm": 0.7753638029098511,
+    "binder_id": "binder_0021",
+    "seq_idx": 3,
+    "seq": "DPARGLAARKAAAIAALAARGLASTPDIAVSMAESILETGQHAAAEILALDPDAAPVAADLAATATAQAQRAFAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0022_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1538531631231308,
+    "ptm": 0.7419382333755493,
+    "binder_id": "binder_0022",
+    "seq_idx": 0,
+    "seq": "EEKALAEAVAAARKAGQEALALIKKIQDGSAARRAARGLAALDENTLTALLRAAGCFDTAANHCNRQPELAEAAKKAAAAAALADQAAELAEK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0022_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15186765789985657,
+    "ptm": 0.750779926776886,
+    "binder_id": "binder_0022",
+    "seq_idx": 1,
+    "seq": "ASERLQQLVDKSKELLTAALQETKHVKSDTASELLAKGLAANEENTLVSLERSAGYSEDAADYCWAKPELAAAMVLAAAASRHSRLASILATK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0022_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.741887092590332,
+    "ptm": 0.9133366942405701,
+    "binder_id": "binder_0022",
+    "seq_idx": 2,
+    "seq": "NQEELDRWVAEALQLGTEALEVAEKVRQDTATAKLQEGIAALNKNTLVALERAEGRFDDAAHYCARHPELAQAAALAAKAAQAAAEAAQLAVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0022_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.37753260135650635,
+    "ptm": 0.8201760053634644,
+    "binder_id": "binder_0022",
+    "seq_idx": 3,
+    "seq": "AEADRAACRAQALELGRAALAAVEAARRGYAAELLARAIEYAEADSLVALERAAGCAHKAAERCRREPALAEAARLAGAAEAALEKAAALASE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0023_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3814581334590912,
+    "ptm": 0.8371525406837463,
+    "binder_id": "binder_0023",
+    "seq_idx": 0,
+    "seq": "EALPALAGALAEGVEGAGAEAMFACARGNRAAAEHWAARLRRLIERAEEAAELAAAKPEAKEAAELAREAARRGAELLDEVERLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0023_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7983250021934509,
+    "ptm": 0.932300329208374,
+    "binder_id": "binder_0023",
+    "seq_idx": 1,
+    "seq": "TALETLAGSLYEGINDQGANALAACARGNKDAAKHHLAKLKTLTAQADATAAAAKKDPAAVEAAKIAEQGAALGKALAAEVEARLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0023_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.17436936497688293,
+    "ptm": 0.7672027945518494,
+    "binder_id": "binder_0023",
+    "seq_idx": 2,
+    "seq": "EALETQAVSLLEGVRGEGAQGRAAVARGNTAAAQHELGELQDTVTAAEAVAAQCAAREEAAEAAKIAKDGAALGKREAARISAELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0023_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.3643651604652405,
+    "ptm": 0.8095852732658386,
+    "binder_id": "binder_0023",
+    "seq_idx": 3,
+    "seq": "DALLSLSESLYESAKSEGAQAAYAVDRGNDEAARHEARELRETIELLKEVAEKAQEDPRASKAAKIAKEGAERGERELAVVEARLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0024_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.15851068496704102,
+    "ptm": 0.7954866886138916,
+    "binder_id": "binder_0024",
+    "seq_idx": 0,
+    "seq": "LQALRDAARQAGEEATDYSDKANEVADDVKMQAANEAAAGTLEDQAFRLERAAAAAAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0024_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.20024237036705017,
+    "ptm": 0.8049860000610352,
+    "binder_id": "binder_0024",
+    "seq_idx": 1,
+    "seq": "AQALADAARQYYELAAAYRKKAAETAADPKEKAAYEAAAGKYEDEAVRQAKARAAAEAKAAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0024_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.25569725036621094,
+    "ptm": 0.819994330406189,
+    "binder_id": "binder_0024",
+    "seq_idx": 2,
+    "seq": "VTELEARARELGAAAEAHRDLALATRDDPAKMAAHLAEAGRLQHQAVLAAKAAARARAEEERL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0024_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17385004460811615,
+    "ptm": 0.7988306879997253,
+    "binder_id": "binder_0024",
+    "seq_idx": 3,
+    "seq": "VSRLEAQAREKGEQAAQHEALAAQTAGDPALQGHYLAQAGVLEAEAYKFWKQAKEAAAAKAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0025_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7158948183059692,
+    "ptm": 0.9041714668273926,
+    "binder_id": "binder_0025",
+    "seq_idx": 0,
+    "seq": "ALEAAKAACEKAAEAAKLEKKMGADVATANATAAEDLTSAYARATYAASADPAKQAAIAQVVAAAAAAVGAAAAAGDADAILDATASAMQAIARILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0025_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.48643842339515686,
+    "ptm": 0.8449934720993042,
+    "binder_id": "binder_0025",
+    "seq_idx": 1,
+    "seq": "ERAAAARHARRAAAGMKAEKAAGADIATANEAAAVSLLTDRALARAAARADPAAVAAIDATVARAADEIGAAVAKGDAQAALDACARAMEDVAQILE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0025_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7816436290740967,
+    "ptm": 0.9282174110412598,
+    "binder_id": "binder_0025",
+    "seq_idx": 2,
+    "seq": "DRAAAEARARRSARAFELEARMGASIEEANEAAAEALTTNRAAATAALAENPAAVEAVAQVVADGAAAIKAAADAGDARAALNAGAAAMAAIAEILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0025_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8718977570533752,
+    "ptm": 0.9460792541503906,
+    "binder_id": "binder_0025",
+    "seq_idx": 3,
+    "seq": "EKAEVAERALRAAEGAKLEREMGADVAEANVAAAEGLLDIRNFARRAFAADPAAVAAIDATIATAAARCGEAAAAGDATAILRAAEEACKAIARIAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0026_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.17555676400661469,
+    "ptm": 0.7539874315261841,
+    "binder_id": "binder_0026",
+    "seq_idx": 0,
+    "seq": "SAAARATQVAGLAHATAASDQMAKYGGTAEAMVDLTFAMLAWLKDPASAPQFQKTADGAVTSGKAFALEASAADAAAAGASAAAQAKGARDALQKAVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0026_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.28802359104156494,
+    "ptm": 0.7649876475334167,
+    "binder_id": "binder_0026",
+    "seq_idx": 1,
+    "seq": "EAAATAAAAALLDEAAAKMAELAKNGAEASTVIAVHFATAAALRDSAAAPRALRVMEGAVRGGAEHAYFASADEAKAAGKAANAQAAASVAAMAGALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0026_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.42204397916793823,
+    "ptm": 0.8264241218566895,
+    "binder_id": "binder_0026",
+    "seq_idx": 2,
+    "seq": "NEESKKKREEGLKFVRERGEEAADLGAETTSIAGLAGSMLAFIRNVDSFERLKAVAEGVVEGGREYARLASPEEAEEAGRAAKEQVEGATKMLEEQIK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0026_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1432153731584549,
+    "ptm": 0.7418480515480042,
+    "binder_id": "binder_0026",
+    "seq_idx": 3,
+    "seq": "EQEAEQLRVEMLNFVAEALDRAAQLGAEDGTIAAVAYAALACIRNPESRAYAERVAAGAVLGGFAHALFATPEEAAAAGAAAAAQARGAVAYLRRQIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0027_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.28370875120162964,
+    "ptm": 0.7843117117881775,
+    "binder_id": "binder_0027",
+    "seq_idx": 0,
+    "seq": "RFEALYAEVEAAAKATEAGTRTALAAAGKLTPAEALRAIGAAHDAASHRLGDGASAAIVEGDHRAAALALEARARSEAALRAARDAARRRAAEAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0027_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.5700162649154663,
+    "ptm": 0.8566875457763672,
+    "binder_id": "binder_0027",
+    "seq_idx": 1,
+    "seq": "SMEKLRDEIKRACAEAQAGVDAALAKAASLSSEDAIRMVGAADDAADSITGGAASAAINAGDLAAAQLARDARAALQQRLDAAAADARAQKAEAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0027_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5773690938949585,
+    "ptm": 0.8650695085525513,
+    "binder_id": "binder_0027",
+    "seq_idx": 2,
+    "seq": "SFADLRDRGEKEAERTRAGVEAAIAAAAGMSPEDAIRALGAARDAADFLLGGGASEAVNAGDRETADEMESARTEARTALDAATARFAAEAAALRAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0027_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.328107088804245,
+    "ptm": 0.7860385775566101,
+    "binder_id": "binder_0027",
+    "seq_idx": 3,
+    "seq": "DFAELLAKTKARGEQTKTGVDAAIAAAAALSPEQAIRALGAARDQADYETGGCASEAINAGDLASAQYATEQRAALKARLDAAQQAARQQAALAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0028_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1758989691734314,
+    "ptm": 0.8119969367980957,
+    "binder_id": "binder_0028",
+    "seq_idx": 0,
+    "seq": "KENEAAKAAAEQGKRDINAAEKTLAELNAQGAKATPLEGNAWRSMGGTILGDAVGKAILE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0028_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1562705785036087,
+    "ptm": 0.8143912553787231,
+    "binder_id": "binder_0028",
+    "seq_idx": 1,
+    "seq": "AAAVRALAALAAGAAAVAAALAAAAAMQAAGAAATPLDGNAWRDQGGTRYGEAVGALILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0028_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2057068645954132,
+    "ptm": 0.8216588497161865,
+    "binder_id": "binder_0028",
+    "seq_idx": 2,
+    "seq": "EATLEADKAAKEAAAMLAEGKGVLAAYRALGAGATPLEGDAWRDMGGGALGAAGGEGLRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0028_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.4584660530090332,
+    "ptm": 0.8536824584007263,
+    "binder_id": "binder_0028",
+    "seq_idx": 3,
+    "seq": "EEERKRAEAERAGKEKIAAAKATLAELKAKGAAATPLDGNRWKDIGGGILGDAMGDHILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0029_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7060118317604065,
+    "ptm": 0.8972970247268677,
+    "binder_id": "binder_0029",
+    "seq_idx": 0,
+    "seq": "TQPLLDAAAAAFAAAAAKQAAAAEWAAAARKAAAEGPDAARGAEEGAANARSGAEALAARGAALLAAARAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0029_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2156991809606552,
+    "ptm": 0.7847068905830383,
+    "binder_id": "binder_0029",
+    "seq_idx": 1,
+    "seq": "IEELLAKAAAAAAAAAEHQARADVRRANAADAALAGPDAAYGAQEGAADAAHAAKALEAKAKALRARAEEIAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0029_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6787983179092407,
+    "ptm": 0.9040294289588928,
+    "binder_id": "binder_0029",
+    "seq_idx": 2,
+    "seq": "TQALLEQAAQAEALAAQKAAEAQRRASEMEEAKKIGEDEARGAAEGAADEAAGAAALAARAEELHARARELRAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0029_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6869984269142151,
+    "ptm": 0.9016360640525818,
+    "binder_id": "binder_0029",
+    "seq_idx": 3,
+    "seq": "IEALRAAAEAARAAAAEHQAKAAEYRAKYAAAKASGPDDAAGAAEGAANAAASAAAQQAKADELAAAAAALAEAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0030_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1359119415283203,
+    "ptm": 0.7539843916893005,
+    "binder_id": "binder_0030",
+    "seq_idx": 0,
+    "seq": "GILLWLSVLLAAAAGGGFGVLAALRVADAPNSARRAAAASAGSAGVTLFGLAPALALLVGLLGLALAPAAWLTLALRLAKELLAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0030_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1493915319442749,
+    "ptm": 0.7647734880447388,
+    "binder_id": "binder_0030",
+    "seq_idx": 1,
+    "seq": "LSNLLINAALAAFGGGGAGTIAYLVVADQPNSARDFAASIAADAGVEAFKKNPLITLIIGIIGFAINTTRFLSLAVKQFLELLAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0030_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1360938549041748,
+    "ptm": 0.768356204032898,
+    "binder_id": "binder_0030",
+    "seq_idx": 2,
+    "seq": "SDVVRAAAALAALGGGGLGVLKALEVADQPQSARNTAASIGADAGVILFGLDPLGALALGLLGLGLRPAEWAALAEAELRELLAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0030_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.14356620609760284,
+    "ptm": 0.7702919840812683,
+    "binder_id": "binder_0030",
+    "seq_idx": 3,
+    "seq": "LAEALLAAALAAFGGGGMGTLAEEKVAGLPQSARNQAAALAAAAGVAAFAADPSVTVAVGAAGLAKNPAFTADLALKMFLQLLAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0031_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1777505725622177,
+    "ptm": 0.7560590505599976,
+    "binder_id": "binder_0031",
+    "seq_idx": 0,
+    "seq": "DAALAEKRRQAEAAAATAEAAGRALAQAEAAGSPGCARQAERARSGMEAKPLPTAAAGAASTLADPAVGPEGLATLEVGQRALAELLAAEVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0031_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.20942892134189606,
+    "ptm": 0.7548843622207642,
+    "binder_id": "binder_0031",
+    "seq_idx": 1,
+    "seq": "AARRAAMAAEAAEAARLAAETQARLEAAKAAGPPGVAREADTHAAGMALKSPVMAAHCADEALAAAAQGPGTLATIHVGARARADLLSTRREA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0031_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1383138746023178,
+    "ptm": 0.7418338060379028,
+    "binder_id": "binder_0031",
+    "seq_idx": 2,
+    "seq": "EEEKKQLLERALEAGRLAAEAGARLDAAIAAGGAGVAAEAKRSRAGMEAKPLELAAEGALQALADKAQGPGALATLLVGLEALEELLRSRVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0031_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1419830620288849,
+    "ptm": 0.7395461201667786,
+    "binder_id": "binder_0031",
+    "seq_idx": 3,
+    "seq": "DLATALLEKQRAEAKRRAEEAGARLAAAVAAGSIGVARQAARSAAGTRAKPAKTAAAMGTSALDDSAFGPGGLATLEVGLKARADLLDAQVAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0032_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3734475374221802,
+    "ptm": 0.8623973727226257,
+    "binder_id": "binder_0032",
+    "seq_idx": 0,
+    "seq": "RDFGAARMAAMAAAAGAARAAAAGATEEERLAAANAAAAAAYAAANPTKGEGARRGAELERKLLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0032_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17730814218521118,
+    "ptm": 0.8123369812965393,
+    "binder_id": "binder_0032",
+    "seq_idx": 1,
+    "seq": "RAFGEALHQAMAAAAGAARAKFAGATPAEVRAAAAAAAAEAQAAYRPQYGEGALKGAELLRKLLL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0032_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15311962366104126,
+    "ptm": 0.8015873432159424,
+    "binder_id": "binder_0032",
+    "seq_idx": 2,
+    "seq": "MARGRAKMAASAAAAGAARAAAAAGTPDEIEAAAYAASAAAVAKVVPSRGAGALRGAALHEKELL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0032_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.16665826737880707,
+    "ptm": 0.8024325966835022,
+    "binder_id": "binder_0032",
+    "seq_idx": 3,
+    "seq": "MEFGRDLMAAAAAAAGAAAAEAAGLTPDEIAAAAAEAAARAVAARVPGRGEGALQGAELERKLLL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0033_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.16824226081371307,
+    "ptm": 0.7500752210617065,
+    "binder_id": "binder_0033",
+    "seq_idx": 0,
+    "seq": "TAKEAADAAQAAALAAACGAQTGSAGTVKAYTGMTLEGASGAAIFDAVAFSASSDAAALAAAGETARAATLRAIRDAAGAARAAAWAALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0033_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.773511528968811,
+    "ptm": 0.9175959825515747,
+    "binder_id": "binder_0033",
+    "seq_idx": 1,
+    "seq": "KAAERADLECAEKLATETLAKCGDSRTKRALDGGKLLGASGTEIFNSVGESAIASANRLAAQGETELAATLEKLLQEAGLERQARRQAIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0033_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.22829872369766235,
+    "ptm": 0.762388288974762,
+    "binder_id": "binder_0033",
+    "seq_idx": 2,
+    "seq": "KKIDAVSRQQAAALADETYKAVGSERTKKAYEGGLKEGAPGQIIFNLVSESAHEDANRLEAAGETEKAQTLKGLRQAANEARAAAWAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0033_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.4417230784893036,
+    "ptm": 0.8232142925262451,
+    "binder_id": "binder_0033",
+    "seq_idx": 3,
+    "seq": "GGKEDADRAEAAELAERALKRVGAEGVKKAYEGEKIEGGPGGSIFNAVASSAATEANRLEAAGETEKAAELKAILQEAGERNQKIRQELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0034_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19400696456432343,
+    "ptm": 0.797206461429596,
+    "binder_id": "binder_0034",
+    "seq_idx": 0,
+    "seq": "AKEAALASLRDVARRVDPERADSFAQYAAIFSAEHQAEAAADVGMTDERNAEGGRRLAAGCHAALAKYALGR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0034_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.16239875555038452,
+    "ptm": 0.7956758737564087,
+    "binder_id": "binder_0034",
+    "seq_idx": 1,
+    "seq": "DAEAALAELRRAARQVDPALADAAAAAAALLSAEGKREAAANVAATAARNAEGGRKLFRNQYSLLTRYALGR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0034_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.24103379249572754,
+    "ptm": 0.8052771687507629,
+    "binder_id": "binder_0034",
+    "seq_idx": 2,
+    "seq": "AHEAALAALLSAATAVDPASAVEFADAAALFSAEHQLETAAEIAATAARNPEGGKQSAQKALAKMRAIRLGR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0034_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.20640820264816284,
+    "ptm": 0.8025463819503784,
+    "binder_id": "binder_0034",
+    "seq_idx": 3,
+    "seq": "AQEAALAALAAAAAAVDPADADDFTAAAALFSAEGQLDTASAVGAQAARNAAGAQRRLRRALAIARRIALGL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0035_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7599595785140991,
+    "ptm": 0.9293627738952637,
+    "binder_id": "binder_0035",
+    "seq_idx": 0,
+    "seq": "EARRAQAAAGRLASAARYERGAARMAEAARLASPEDREAFLADLQASRDAAAAARARAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0035_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15009252727031708,
+    "ptm": 0.795474648475647,
+    "binder_id": "binder_0035",
+    "seq_idx": 1,
+    "seq": "AAARAARAAGMRAEAARDRAANARLTEMAARASPEDQEAFEKAADDSRDDAGIDRALAEAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0035_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3100968599319458,
+    "ptm": 0.8209968209266663,
+    "binder_id": "binder_0035",
+    "seq_idx": 2,
+    "seq": "SERARTRAQGCLREAERHRAGHERMKEYAKKASAEWKDSFLEAAAESEAAAGAAQARAQQAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0035_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.3138139545917511,
+    "ptm": 0.8388770818710327,
+    "binder_id": "binder_0035",
+    "seq_idx": 3,
+    "seq": "DQAAATRAEGRDARAKRYEAAHKALEASALRATPEDKEAFKAAAAASRDAATAAAALAAAARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0036_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.33841967582702637,
+    "ptm": 0.7847599983215332,
+    "binder_id": "binder_0036",
+    "seq_idx": 0,
+    "seq": "AEAAAQSAAADAAITQLATAREALVAAHDELGAVARQADALSPAETAAKAADCRARIAAAQAAGQEWLAKLEELARASTPEIAARCAAAIAYARS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0036_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.32108378410339355,
+    "ptm": 0.7884091138839722,
+    "binder_id": "binder_0036",
+    "seq_idx": 1,
+    "seq": "ARSEAQAAAAAAAIAQLAAAKAALAAAHDGLGKTARERESLSRADVENRTAEQRAAMEKAAANMNRAIAELEALAKAGTPEIAATANRAIAFAKS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0036_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.374676913022995,
+    "ptm": 0.7927627563476562,
+    "binder_id": "binder_0036",
+    "seq_idx": 2,
+    "seq": "AATAQAKAEAAANIRALAAAKYDLAAAHNELGKIALEAEELTPEEVAARKAAADAAAAAAKAALAAKIGALDALAAASTPAIAAEATAAINQAKS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0036_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.21667739748954773,
+    "ptm": 0.7509047985076904,
+    "binder_id": "binder_0036",
+    "seq_idx": 3,
+    "seq": "DEEAKMKAEAEKAIRELAKAAEDLVQAHNNLGRVAREADKLDPQTVAKRTSEARAAIDAAKSALAAKITALQALAASSTPTVAAKCNKAIALAKS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0037_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.11989504098892212,
+    "ptm": 0.7499439120292664,
+    "binder_id": "binder_0037",
+    "seq_idx": 0,
+    "seq": "AASAARREREMARWAAMGLREAIGGVINMSRASGDDAVRKKVWITFIMGLIIGILATAATDLLAGTLAGNSAYNIGMNEIQAEIILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0037_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17930570244789124,
+    "ptm": 0.764426589012146,
+    "binder_id": "binder_0037",
+    "seq_idx": 1,
+    "seq": "SAAADRRQRSMERIARDKLKEVIGGLGNLTRAAGDLSWRLAVVATFLLGLIVAALVSRATNPLAGLMAGAAAAAGGFNLIDAAMVLS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0037_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.28425925970077515,
+    "ptm": 0.7995277643203735,
+    "binder_id": "binder_0037",
+    "seq_idx": 2,
+    "seq": "AAAAAREAANRARAARDMERQVDGGLRNLTEAAGSEEIRQAVRAAGEEGRAVSRAVEAATNPLDGALAGGAVACAKFQEIDARIILA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0037_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1521768867969513,
+    "ptm": 0.7508870959281921,
+    "binder_id": "binder_0037",
+    "seq_idx": 3,
+    "seq": "AAAAAAAAQQRARLARSIVRGSLGGVRNLTAAAGMALIRVLVILAGVIGLLVAIAGAAKTNPLNGVNLGGYVFRLLCNLIDAFIVLK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0038_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.28264153003692627,
+    "ptm": 0.7956390976905823,
+    "binder_id": "binder_0038",
+    "seq_idx": 0,
+    "seq": "EVATLLQRAQGHKTDAAKDAAAAAKMSDWAAKSPEQKEAFEAAAAASAAAAAADAARAAAAESAAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0038_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8626644611358643,
+    "ptm": 0.9433791637420654,
+    "binder_id": "binder_0038",
+    "seq_idx": 1,
+    "seq": "AAAALAARAAGAQATAAKDEAAAEKLKDMAAKDPAIAEMCNAGAAASAQAAAIDRARAAAAAAQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0038_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1888708472251892,
+    "ptm": 0.7788786888122559,
+    "binder_id": "binder_0038",
+    "seq_idx": 2,
+    "seq": "TVARLQRRAAGAEADAADEAAAAERMREWAQRCPECREMFLASAAASESAARAEQARAAAARAQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0038_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22423498332500458,
+    "ptm": 0.7992307543754578,
+    "binder_id": "binder_0038",
+    "seq_idx": 3,
+    "seq": "DVAALNARAAGQAQEAARDAAAREKMEAWALKSPEIKEMCLAAAGESAAAAQAAQALAAAAAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0039_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.13556206226348877,
+    "ptm": 0.7247164249420166,
+    "binder_id": "binder_0039",
+    "seq_idx": 0,
+    "seq": "AADARRLVREAAAERAGAAANAEAAAAASPDLAAALLSSAQAAADAARAAAQAALALAEALGEAELVAEARAVLAQAAAEAARIAAVAGAVAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0039_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2894599735736847,
+    "ptm": 0.7835204005241394,
+    "binder_id": "binder_0039",
+    "seq_idx": 1,
+    "seq": "ATRAQRLTNVAASETRGAAANTNAAKAANPELGLALLESAERAIARATAAATTAKALANAIGDAATQAAADAVLAAAAAAAAEAAAVRAAILAKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0039_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3100753724575043,
+    "ptm": 0.7825819253921509,
+    "binder_id": "binder_0039",
+    "seq_idx": 2,
+    "seq": "TAEAERLAKAAEAETAGAQANAAAAAAAPPELARALLASARDSNALARAYATQALALANSKGDKDTADKAKAALAAADAAGADIAAVEAAVKAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0039_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1897975504398346,
+    "ptm": 0.7422105073928833,
+    "binder_id": "binder_0039",
+    "seq_idx": 3,
+    "seq": "VARAVSLANIAADETRDAEQNAKLAAKAPIELSLALLEAAREENAEARAAATAALALAEAAGDEAIAAKARAVLEAADAAAQRIAEIQAKAEMER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0040_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.15736140310764313,
+    "ptm": 0.8008882403373718,
+    "binder_id": "binder_0040",
+    "seq_idx": 0,
+    "seq": "EDIAAQCRRDIRAARAAGADAEAAAAAEAAARGDGVAGNAARDFASHNAAVAAGAALAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0040_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4572159945964813,
+    "ptm": 0.8513035774230957,
+    "binder_id": "binder_0040",
+    "seq_idx": 1,
+    "seq": "PAIREDCRAQIAKAAAAAAAAQAAAGAAAAAAGDARAGNAARVAASAAASAAAGAAIAAAEEAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0040_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2762273848056793,
+    "ptm": 0.8176655173301697,
+    "binder_id": "binder_0040",
+    "seq_idx": 2,
+    "seq": "EEILEECRRRIAEARERGARRRAEWKQRAAAQGDGAAGNAGRDAASDDAAEEQGEALNAAEEAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0040_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1929609626531601,
+    "ptm": 0.7970361709594727,
+    "binder_id": "binder_0040",
+    "seq_idx": 3,
+    "seq": "QALLDACRSRMAAARANAEAAQAAWAAAAAAAGDAAAGDARRDHASMTGSAAMGAALEEYEAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0041_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2190023511648178,
+    "ptm": 0.7731667757034302,
+    "binder_id": "binder_0041",
+    "seq_idx": 0,
+    "seq": "GAQAAAAAAAAKAAAAAALAKATAASAAADAAADAAGAALEAGDGAAAAAAVAACQAAKAQANAYLATAQAAAQKATEIAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0041_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7411897778511047,
+    "ptm": 0.918922483921051,
+    "binder_id": "binder_0041",
+    "seq_idx": 1,
+    "seq": "EEAAKAAVDALRAEAAKAEAQATEYQAKANAFAIKAGEALEAGDGEKAKEFIQQAKKAEQESRKARAQAQAYREQARAQAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0041_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6633598804473877,
+    "ptm": 0.8998779058456421,
+    "binder_id": "binder_0041",
+    "seq_idx": 2,
+    "seq": "AVARAADVARLRAAAAAAEAAAAAESAEAAKYSEKAGEYLKAGKAEEAKKYVAKCAAASKASAAYRAEAQAARAAAAALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0041_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22148117423057556,
+    "ptm": 0.7685027718544006,
+    "binder_id": "binder_0041",
+    "seq_idx": 3,
+    "seq": "DAARAAAAEAARAAADAELAAFTALVAKAQEAARAAGAALRAGRGKEAAAAVAECAAAQKAANEALAAARAARARADALAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0042_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.17357972264289856,
+    "ptm": 0.7938083410263062,
+    "binder_id": "binder_0042",
+    "seq_idx": 0,
+    "seq": "SDLDALRERAAALAAAAGALDTASGKAAAEPHRAAEAERAKAAAAAAAAARRAAGAEAAAAAAARAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0042_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17165760695934296,
+    "ptm": 0.7936164140701294,
+    "binder_id": "binder_0042",
+    "seq_idx": 1,
+    "seq": "SALDDLRAQIAAAEAASGAYSGASGEALANPQAAEEALKARAQAKAAEQARAELGQQAAAAMAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0042_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2931489050388336,
+    "ptm": 0.8234068155288696,
+    "binder_id": "binder_0042",
+    "seq_idx": 2,
+    "seq": "SEIERLRAEIARAAAEEGILSDAAGTAANSPQHAAEAAAYGAAAAAAAAKRAALGQQAGAARAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0042_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5940774083137512,
+    "ptm": 0.8917244076728821,
+    "binder_id": "binder_0042",
+    "seq_idx": 3,
+    "seq": "SRAAELRAAVTAAEQACHLYWDRAEAYRADPEHAAEAAQFREAAAAYKEERDRLGAEAAAVAAELAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0043_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18482699990272522,
+    "ptm": 0.7805679440498352,
+    "binder_id": "binder_0043",
+    "seq_idx": 0,
+    "seq": "ESARLAAEAAAHEAAASALNAEAHKAAEEAGKAAEEDYALAKELAAKNAALTAAKNQAAAAARALRQRL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0043_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1638561636209488,
+    "ptm": 0.7793976664543152,
+    "binder_id": "binder_0043",
+    "seq_idx": 1,
+    "seq": "AAAQLQAEAAAAKARADEYRAEAHKLAQEAGKAMEENYATAAEYAKKAAEATAKRNEFAARSRALAQAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0043_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2678138315677643,
+    "ptm": 0.805043637752533,
+    "binder_id": "binder_0043",
+    "seq_idx": 2,
+    "seq": "TSMRLAAAARQAQAEANRLFAKSELLAAQAAQAWAEDVALAKEYAEEMAAFEAARDAAAAEARALRDKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0043_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2230323851108551,
+    "ptm": 0.7992500066757202,
+    "binder_id": "binder_0043",
+    "seq_idx": 3,
+    "seq": "RKAAVAAEAAAAAAQAAAKLKAAQEAAQKSAEAFALDPQKAYEYAKQMAELQAERNAWAGRARALRAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0044_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.14192916452884674,
+    "ptm": 0.7755688428878784,
+    "binder_id": "binder_0044",
+    "seq_idx": 0,
+    "seq": "LQTAAALQAAEACRRTGDNCTAGIERARKLGEATGEEEGAKETMAADRTVAHRRAVEAAAHPLARDVALEVAARVEALSAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0044_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.47032245993614197,
+    "ptm": 0.854630172252655,
+    "binder_id": "binder_0044",
+    "seq_idx": 1,
+    "seq": "AAAAAAAAAAKAATIKADNAREGMARAKRYAEATGDSEGGREDREADFVDAATACARAAAYPQARATGEALLAECRALYEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0044_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.20292654633522034,
+    "ptm": 0.7773259878158569,
+    "binder_id": "binder_0044",
+    "seq_idx": 2,
+    "seq": "DEEERARQAREAAQAKAAGDLAGMAKAEALGRATGDEAGADEMREADFVDVGEAARRAALYPLSRKAAEALWQEAAAARAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0044_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17888188362121582,
+    "ptm": 0.7681081891059875,
+    "binder_id": "binder_0044",
+    "seq_idx": 3,
+    "seq": "AEAAAAAAAADAAKREAAAELAGLDRAKALGLATGDEDGAQENREADYRDALAAADKAAQHAAAAQVAAALAAEVEARMRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0045_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.700242817401886,
+    "ptm": 0.9032760858535767,
+    "binder_id": "binder_0045",
+    "seq_idx": 0,
+    "seq": "MLTVADEAAALAGAAAAAVKAAGGGFGAALAESLAGETANAGMAARRGRLEAARQVAKRGLEGLRRLGELATAADPSLAPATAQAIAAMEQVLTML",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0045_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7280694246292114,
+    "ptm": 0.910571813583374,
+    "binder_id": "binder_0045",
+    "seq_idx": 1,
+    "seq": "AEETADEAAERAGAAARAVKSASGGWGQALAESLEGGTAQAVAAARRGNLEAARAVLRRLLEGLTLLGRRITAADPSAAPHCDQAIEVAAETLAAF",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0045_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6114556789398193,
+    "ptm": 0.8847901821136475,
+    "binder_id": "binder_0045",
+    "seq_idx": 2,
+    "seq": "TDAAADAAAAAAGAAAAAVRAAGGGLGAALGDSLEGGTAQAVAAARRGRLDAARAVLARLLTGLRRVAAKAAAADASLKPAADAAVAVAEAALATF",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0045_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8411804437637329,
+    "ptm": 0.9361409544944763,
+    "binder_id": "binder_0045",
+    "seq_idx": 3,
+    "seq": "PLAAAARATALAGAAAQAVRAAGGSLGEDLAASIAGGTAQAAYAAKRGNLPAARATARRLLAGLRRLAAISTAADPSLAPAADAAIATMEEVLALL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0046_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7153871059417725,
+    "ptm": 0.9095925092697144,
+    "binder_id": "binder_0046",
+    "seq_idx": 0,
+    "seq": "MEKELKAAAQAWAATEDLATAGADQKEIRTALHAAGDIAVSAVDVETAKQIGEEAKEALAAIRDSAKDPAAANAKAAAACAAIKELIEKSI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0046_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3097850978374481,
+    "ptm": 0.7946709394454956,
+    "binder_id": "binder_0046",
+    "seq_idx": 1,
+    "seq": "TEEALKLAAEAFEKTAKMCEEGAAPAEMERSLAAADEIASEAVNIPTQRELGREASRARAAIRATAKNPNEARKAAADACRKMAEIVKSEI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0046_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19779904186725616,
+    "ptm": 0.7705187797546387,
+    "binder_id": "binder_0046",
+    "seq_idx": 2,
+    "seq": "DIDALQEAADAFATAAALAAAGAAPTDIRTALHAADEIAVEAVNIEVAKKLGAEAATAEAAIRATAKDRAAAYAAAQTALQKMQEIITAEI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0046_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5841105580329895,
+    "ptm": 0.8846288323402405,
+    "binder_id": "binder_0046",
+    "seq_idx": 3,
+    "seq": "SGAALQQAAAALETAQQMALAGAAPADIRTALDAAGTLACMAVDVRTQKELHAHFQAAAAAIRRTADDPRAANAAAAAALAAAQQLVKSAI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0047_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8627846837043762,
+    "ptm": 0.9463895559310913,
+    "binder_id": "binder_0047",
+    "seq_idx": 0,
+    "seq": "AAERRARYQRLLAEAAALAKAYGAEHPEFTDDDVQDIALGAAYRALRHGLPIEAAAAHAAEMGAKDRRAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0047_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7828952074050903,
+    "ptm": 0.9310537576675415,
+    "binder_id": "binder_0047",
+    "seq_idx": 1,
+    "seq": "AAARQARIAETLAACAELAKAYGAEHPEFTPEDVQDMAEGAADRSLREGLPVEEAAAKAREMADLDRAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0047_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8652772903442383,
+    "ptm": 0.9470935463905334,
+    "binder_id": "binder_0047",
+    "seq_idx": 2,
+    "seq": "SSARQARIEQILAECAALAREAKAAEPEFDDELVQEMAEGAADYSLRTGAPVEEAAAHALARTRLQWLAAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0047_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22724808752536774,
+    "ptm": 0.8027061820030212,
+    "binder_id": "binder_0047",
+    "seq_idx": 3,
+    "seq": "SAARRAHREALLAACASRAAAYREEDPSFDEKDAVDCALGGADRALDTGWPVDEAAAHAARMTRLERIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0048_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3644286096096039,
+    "ptm": 0.8121024370193481,
+    "binder_id": "binder_0048",
+    "seq_idx": 0,
+    "seq": "MMPHIMQGMAKLGRLLLEDPERARKCLAFSFQGELDAAKENKLVGKQYAAALKRGVAGGAEAMAADPTVAARADEFAAYCRRCAEAFNKLLTEALK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0048_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.16411733627319336,
+    "ptm": 0.7404038906097412,
+    "binder_id": "binder_0048",
+    "seq_idx": 1,
+    "seq": "MAPHIVDGLAALGRALRQDPAAARAKLGFAFGADIEAAMADAEAGRKIIAGLRAGAEGAAAWLAADPRMAARAAEIAADMRLAVEAFGELVAAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0048_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6748521327972412,
+    "ptm": 0.9029411673545837,
+    "binder_id": "binder_0048",
+    "seq_idx": 2,
+    "seq": "MAPHIVRGSARLGGLILSDPERGRAMLRYSVAGDIEEALADPEKGRQICAERHRGVEGAAEVLAADPRMAARASEIAARMRLCAEAFDTLLREAIS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0048_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1644584685564041,
+    "ptm": 0.7441088557243347,
+    "binder_id": "binder_0048",
+    "seq_idx": 3,
+    "seq": "MMPHIVRGRANLGKLLRADPARGEAVLAASRAGSLEAARADPAAGADLAAAEAAGTAGASEAIAADARMAAKADDIAAAMRLCSEAFARLLADALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0049_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.766579270362854,
+    "ptm": 0.9271793961524963,
+    "binder_id": "binder_0049",
+    "seq_idx": 0,
+    "seq": "ETARERLRYYCEAVRAVAAALGSPAAAHRAEECERALTLSEKVETAFGPEAGEETARSAAVDCGQRLHAAQEELAAAQRAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0049_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15874464809894562,
+    "ptm": 0.7718182802200317,
+    "binder_id": "binder_0049",
+    "seq_idx": 1,
+    "seq": "TEALEKLDAKTAAIGELAAKSGTAAAKHRLNEAKQARELSEKTKRAIGEEGGAETARSAAVDAGAHLAAARAALKAAEAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0049_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8311149477958679,
+    "ptm": 0.9378553628921509,
+    "binder_id": "binder_0049",
+    "seq_idx": 2,
+    "seq": "TAALDALKERTAAVKAVAKESGLEAEKHRADSCEKAAEGTLKTEKAVGPEGGLETAKSAHVDCMQKLAAAQKQLAATKARAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0049_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7684677243232727,
+    "ptm": 0.9310929775238037,
+    "binder_id": "binder_0049",
+    "seq_idx": 3,
+    "seq": "EAALTSLKARTAAVAKVAQESGTAAAKHRAASCQKGLAGTLKEEKAIGADGGAETAASTAAACGEKLAAAEEELAAAKAKAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0050_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2644452750682831,
+    "ptm": 0.7656859159469604,
+    "binder_id": "binder_0050",
+    "seq_idx": 0,
+    "seq": "AEARIAALVREGRYALINAEGYTKAAEGLLALYKEGADTETLNAGLEEANNAIAAATRARAAFQEATRLNPAAAPLLERAEATQDAAKQALQEIQKAG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0050_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3084157705307007,
+    "ptm": 0.7830147743225098,
+    "binder_id": "binder_0050",
+    "seq_idx": 1,
+    "seq": "AADRVARLTRNARFALDNAKGETLAARYLLEIARAGGDPTVLEAAIAEADSAIAYATTAIALAAEATALDPRVAGLLREAQATLEEAQATLREARALG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0050_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5431402921676636,
+    "ptm": 0.8452321887016296,
+    "binder_id": "binder_0050",
+    "seq_idx": 2,
+    "seq": "TEATLTALKTAARFSLKEATGHQKAAEFLNAIVRQGGSQEDLNAAQKEAEASIAAATAGAAKAAAAAALDPVAQPLLDALQDTQGAAKTTLDEAKKLG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0050_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.3694164752960205,
+    "ptm": 0.8027214407920837,
+    "binder_id": "binder_0050",
+    "seq_idx": 3,
+    "seq": "AKEELAALKRAATQALNDAEGYNKAAKFLLAKVKEGGTEADLVAGKEEAENAIKYAQLSTDLAAKAAALDPAVAPLLERSKDILANAKETLKQIKDAG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0051_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.25140148401260376,
+    "ptm": 0.7831286191940308,
+    "binder_id": "binder_0051",
+    "seq_idx": 0,
+    "seq": "QAEAEALATAARARLDALGEEAAKRAKTPEAAAAVRAATDGAAEGVGDALLSGSPGGVRSARGAAVHLARLDPEEGARLLRAVEDALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0051_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4624441862106323,
+    "ptm": 0.8452349305152893,
+    "binder_id": "binder_0051",
+    "seq_idx": 1,
+    "seq": "AAAAAAAATALSATVDTIGKEAGKKAKTPIAKAAVDAAASGAASGGTLYLIEGRPGGLRSAVGACKQLKKLDKESGEKLLDALRKATA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0051_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19968974590301514,
+    "ptm": 0.7637926340103149,
+    "binder_id": "binder_0051",
+    "seq_idx": 2,
+    "seq": "MEERARRARALRKTAAAIGARAAARAASEVAAEAVRAATAGAAGGGVRYLLEGSEGGRRTARGAAAVLARLDPASGAELAAALEQAFA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0051_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6657893657684326,
+    "ptm": 0.8998734354972839,
+    "binder_id": "binder_0051",
+    "seq_idx": 3,
+    "seq": "DEEAAAKAKELRKKVEEIGKEAAKKATDPAAKAAAKAAAEGAAEGGGVFLLEGSPGGRRRAEGAAKHLEKIDPEAGKKLREALEEFFK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0052_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3027949035167694,
+    "ptm": 0.7778521776199341,
+    "binder_id": "binder_0052",
+    "seq_idx": 0,
+    "seq": "AAAAADLARERARAAATGASLAKGAALAAKLAAADPSFQPGPFDASALKGALPGATDAAAIAAAAEKLTAALAAQVAALAAAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0052_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.27819737792015076,
+    "ptm": 0.7740764617919922,
+    "binder_id": "binder_0052",
+    "seq_idx": 1,
+    "seq": "AAEAAALERQLRRTAAFGNSMTTGLELTAKLTRAYPEYQPGALEQSLAKGALPDADTADKIAEAAKKVAAKVAEETGALKAQAEAAKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0052_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5606094598770142,
+    "ptm": 0.8600860834121704,
+    "binder_id": "binder_0052",
+    "seq_idx": 2,
+    "seq": "AEAAASARRRLAGLASYGNDLVKGALLSATLRRADPSFQPGPEVMSALKGVLPDADTADKVAAAAKALAAKVAEEVAKAAAEAAALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0052_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17328085005283356,
+    "ptm": 0.7629944682121277,
+    "binder_id": "binder_0052",
+    "seq_idx": 3,
+    "seq": "AAAAAAALRAAAGARAAGDATVASLRLTAKLMRADPSARPGPLEASLARAALPGAADADAVAEAAERVAAQTEALTAQLRAQAAALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0053_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1830091029405594,
+    "ptm": 0.784084677696228,
+    "binder_id": "binder_0053",
+    "seq_idx": 0,
+    "seq": "DLATEFSRLLAKGEEARAIVAKSNPAIAVLGDVIGAIIAAIMAAIYGLGPTGTARAAAAFGGLAGFALITWRRFTE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0053_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17543037235736847,
+    "ptm": 0.7851035594940186,
+    "binder_id": "binder_0053",
+    "seq_idx": 1,
+    "seq": "DIATEFAKMLRLGTECAFLVAQSAPLLAAAGAAIGAAVAAALGKRYGFGPAGLAAAAAAFGGIAGFVLIQAVRSLQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0053_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.34579652547836304,
+    "ptm": 0.8258910179138184,
+    "binder_id": "binder_0053",
+    "seq_idx": 2,
+    "seq": "CLYTDFTHVLKAGAAAAVVVAKGHPALAVLGAIIGALLAAAKGREYGMGPAGIVLAAFAFGGIAGGALIVAKRLLR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0053_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1503675878047943,
+    "ptm": 0.7715754508972168,
+    "binder_id": "binder_0053",
+    "seq_idx": 3,
+    "seq": "DVLTYFRRLARVGAAAAIIVATGNITHALIGAIIGAIVALAQGKAYGFGAAGVAALAAAGGGIAGAAIILATLVTA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0054_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.14681003987789154,
+    "ptm": 0.7411280274391174,
+    "binder_id": "binder_0054",
+    "seq_idx": 0,
+    "seq": "AITSTCDTIVALLQEARKAVDDAAKIIEKAKAADTAADAGAAAADRAQARALDAMAEEVSSLLSAAASATIEGEDGKEIAKKHCDQGIAGVNALRDAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0054_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.14183345437049866,
+    "ptm": 0.7396810054779053,
+    "binder_id": "binder_0054",
+    "seq_idx": 1,
+    "seq": "VVAATCDEMEARIQAAQAAAGDAKKIVEEAKALYAAADAGAAASDRATARALNAAGFIASDHLAHAAAASIAGGQGQATANQEAQAAHAGVAALRDAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0054_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7397739291191101,
+    "ptm": 0.913358211517334,
+    "binder_id": "binder_0054",
+    "seq_idx": 2,
+    "seq": "TVQAAADAIKAALEAARAAASDAARIAQQAQAAYATANAAAAAASPEVARALNAAAEYAGDQLSLAAAAVIDGKDGEAQAKAACDEAIAGVNALAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0054_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8431748747825623,
+    "ptm": 0.9411317110061646,
+    "binder_id": "binder_0054",
+    "seq_idx": 3,
+    "seq": "TIAKACDEVKKLLLEAKKEAKNAKKIVELAKKATAVAHQAAAAASREQARILNAVACEASAKMSRAAAAAIEGEDGEKVAKEECSKAIDGVNAVAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0055_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7943275570869446,
+    "ptm": 0.9301437735557556,
+    "binder_id": "binder_0055",
+    "seq_idx": 0,
+    "seq": "TSPEAQRLVTEARAVADACVKAAEAAAGDAAECIALAHEAGAACRAAAAACRQLGDRTAAQTAQAIGGMASARIAAIAMDAIDLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0055_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8408384323120117,
+    "ptm": 0.9421011805534363,
+    "binder_id": "binder_0055",
+    "seq_idx": 1,
+    "seq": "MSEASRALVEEARRIVEAYVAAAKALAGNPAACIALAHAAGDVCRAAAAACYALGDRRAAHEVSAMGHVGSAEIAEIAAQAIDLL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0055_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7989175319671631,
+    "ptm": 0.9324360489845276,
+    "binder_id": "binder_0055",
+    "seq_idx": 2,
+    "seq": "MSDAARFILEAARTKVRELVAQARAERANAARCIELSRECGAICRLAAAICYSLGDRVAAMECAAAGDVGSSEICTIAMEAIDLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0055_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8305268883705139,
+    "ptm": 0.9344213604927063,
+    "binder_id": "binder_0055",
+    "seq_idx": 3,
+    "seq": "MSPSSAELLRRAERECARLVDLAKANAKNPKLCIELAHRAGELCRTAAAECWRLGDREAARRCSACGDVASTEICEIAMEAIELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0056_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.21439030766487122,
+    "ptm": 0.7556136846542358,
+    "binder_id": "binder_0056",
+    "seq_idx": 0,
+    "seq": "DQAEAALRAAEAALARLAEGAARPELSDEALDEALAVLRGLAESGLYAEGARAGIAATQAAREAGDTDEALHNASFALQSAAAVLAEKI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0056_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.22423021495342255,
+    "ptm": 0.7787596583366394,
+    "binder_id": "binder_0056",
+    "seq_idx": 1,
+    "seq": "DRVEAALRAAEAALEELAVGAARPELLPEALARGLRVLAQVAEDGLAAEGGKAAAERVTAERAAGNLNAALDVAAGGLESLALTLRQKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0056_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6882457137107849,
+    "ptm": 0.9039583802223206,
+    "binder_id": "binder_0056",
+    "seq_idx": 2,
+    "seq": "SLVSEMKARAEAALAELERGAARPELLPAALESALAVMDEASASGLFAEGGAATASATRARWAAGDLRGALNTAAWGLESLIIRLDEAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0056_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1475740373134613,
+    "ptm": 0.7495769262313843,
+    "binder_id": "binder_0056",
+    "seq_idx": 3,
+    "seq": "SKAEAALKQAQEALQLLAAGAARPELREAALDAALEVLAAVAADGLAAEGGARAAALTQEERAAGEWDGALDAAQTGLESVISVLEAKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0057_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.34144169092178345,
+    "ptm": 0.85064297914505,
+    "binder_id": "binder_0057",
+    "seq_idx": 0,
+    "seq": "EEERKARARAAVDAAAALKARYAAHPGVCRAAEEGMANDAMGGKDAAQIDATVAGVDKLYKLELAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0057_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1381349116563797,
+    "ptm": 0.7914754152297974,
+    "binder_id": "binder_0057",
+    "seq_idx": 1,
+    "seq": "ADDAAALRAEAVALAAELAARCAAFPATVAGAQQGFAGDAMGGRDRAALEATAAGVLKEEEVERLAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0057_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5090785026550293,
+    "ptm": 0.8909164667129517,
+    "binder_id": "binder_0057",
+    "seq_idx": 2,
+    "seq": "AAERAALRRLAAREAAELSAEYADFPGVVRACEIGFADRALGGRDEAQLEKTRTGCRKEAKVAAAEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0057_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6052812337875366,
+    "ptm": 0.9032925963401794,
+    "binder_id": "binder_0057",
+    "seq_idx": 3,
+    "seq": "EEERAALRAKAVAAAAELRKKNAKYPGVVASAEEGFADAAAGGRGAAWIAKVVEGTLKEAKLEELLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0058_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.16987335681915283,
+    "ptm": 0.7474075555801392,
+    "binder_id": "binder_0058",
+    "seq_idx": 0,
+    "seq": "GTAFAAQHFRDAFNLATAAAAALRAGDLAAARRHLEMALQTAEALADGGSEEGATLLAACKEARAALDQDRAQAAVVLEETAALARAAHAAATA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0058_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1854810118675232,
+    "ptm": 0.7655249238014221,
+    "binder_id": "binder_0058",
+    "seq_idx": 1,
+    "seq": "NRVAAESTFAAFAYLWQQAADALEAGDEALARRYLAGARQTAAEWAQGGSAAGAVLLDMATKAEAALAEDPEAAAAIARAAAAYAQALAEQVRQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0058_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.4072132408618927,
+    "ptm": 0.8224011063575745,
+    "binder_id": "binder_0058",
+    "seq_idx": 2,
+    "seq": "GDVYALSYWNNAYNLAKRAAKALKEGDEKTAKRYLQALLDTCEGGAAGGSKDAKDALKQATQAEKALKKDKAEAAKELEKLAEECKKKAAEVKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0058_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.225772887468338,
+    "ptm": 0.7641268968582153,
+    "binder_id": "binder_0058",
+    "seq_idx": 3,
+    "seq": "GRVFAYQHHKNAARLARDAAAALRAGDIAAAARALEGLRQTFADLAEGGSADARAGLALADQAAAALAADPAEAAAILDELAARAERLAAQFRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0059_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.824598491191864,
+    "ptm": 0.9320842027664185,
+    "binder_id": "binder_0059",
+    "seq_idx": 0,
+    "seq": "GLARTNAAADALAAAAAATDLTTACDAVAAANGAALNSTYAATNLRALAATDPARAAAAAADTLDFFAEISTGNKDTCTAASANIRALT",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0059_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2499389499425888,
+    "ptm": 0.8007206916809082,
+    "binder_id": "binder_0059",
+    "seq_idx": 1,
+    "seq": "DDERTARAAEALAAGAAAAELREAVRELARAEGAREGSARAAEQLEALADRNPAQGAAAAVESAIFYAAASNGNRELWQALAEKLRSLS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0059_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.23779618740081787,
+    "ptm": 0.7746225595474243,
+    "binder_id": "binder_0059",
+    "seq_idx": 2,
+    "seq": "DDERTASVRAHLREGAAAADLAEACRHVALAVGEWEGSQDAADRLIALTAADPAVGAAAAIETLSFLSGASTALAEECADARRNLEALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0059_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1160639077425003,
+    "ptm": 0.7363901734352112,
+    "binder_id": "binder_0059",
+    "seq_idx": 3,
+    "seq": "DALRTDAAGAALAQAAAASELVEAIKHVAAAVGAAEGSARAADRLAALAARDPARGAAAAEETLRHLAAASTALQDTCAEAARNIRALR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0060_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8594121336936951,
+    "ptm": 0.9489993453025818,
+    "binder_id": "binder_0060",
+    "seq_idx": 0,
+    "seq": "AEELEIAEALRHARDSTWAEYGAQAAWAADRGNAAAAANNAARGAAGAARLSELEQRALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0060_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.18512895703315735,
+    "ptm": 0.800102174282074,
+    "binder_id": "binder_0060",
+    "seq_idx": 1,
+    "seq": "MEKQEIAEGIEDARDATWQSEGAEAAWARQRGNEAAAANEEAEGKAGYAKLKAAAAAAKAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0060_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.809806764125824,
+    "ptm": 0.9405387043952942,
+    "binder_id": "binder_0060",
+    "seq_idx": 2,
+    "seq": "EENAEDAAAILAARDATEADLGAQAAAAKAAGRDSAAANNLAKGNAGAARLAALAARALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0060_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2091614454984665,
+    "ptm": 0.8086684346199036,
+    "binder_id": "binder_0060",
+    "seq_idx": 3,
+    "seq": "TKYDEIAEAIDQARAETEQHEGAEAAYANRKGKAEAAKHNADKGARGAERLQQLAEAARQR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0061_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.25792020559310913,
+    "ptm": 0.7932555675506592,
+    "binder_id": "binder_0061",
+    "seq_idx": 0,
+    "seq": "SATAQITEETDAAIAATDEAIARLDDLPEALAARELGRQIGALARLASRAEANPAAEEAGRRAAAAAERARSALREYLSA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0061_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3504451513290405,
+    "ptm": 0.8203972578048706,
+    "binder_id": "binder_0061",
+    "seq_idx": 1,
+    "seq": "STADAIAAAVAAAEADAAAIIEKLPEMPIEAAARAGGAAIGKLEKLAQQAAANPAAAAAGAAAAAAAQKVRQALEAYAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0061_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3323218822479248,
+    "ptm": 0.8153794407844543,
+    "binder_id": "binder_0061",
+    "seq_idx": 2,
+    "seq": "TEAAAIAAETSAASAAAAAAIDAAAGLSPAEAARVLGRQAGTLTRVATRARALPEAAAAGAAAGAAREAAVKALEEYMAV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0061_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.3400057554244995,
+    "ptm": 0.8174749612808228,
+    "binder_id": "binder_0061",
+    "seq_idx": 3,
+    "seq": "SLAAEIAADTAAAVAEAADAIAQLPKLPAAEAARVGGTAIGRLERLVRRAAAHPEAAASGAEAGRAAQAVRDALSAYMAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0062_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.15791110694408417,
+    "ptm": 0.7509094476699829,
+    "binder_id": "binder_0062",
+    "seq_idx": 0,
+    "seq": "MTAEALRQQAARDLEAQLEGMRREAKIGPEAAEAQAAGTAEGAAEVAMSAAKQDAAIGATLAAELKARVAEMEAQIKEYAKIQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0062_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7222412824630737,
+    "ptm": 0.9079511761665344,
+    "binder_id": "binder_0062",
+    "seq_idx": 1,
+    "seq": "MTRAQFTARATGQLAANTTGARRMAEIGADAAAAQCDGFREGAGELAGAARKQDAATGAELATALTAAAAAAAAAIAAYAKAKE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0062_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.12895257771015167,
+    "ptm": 0.7535785436630249,
+    "binder_id": "binder_0062",
+    "seq_idx": 2,
+    "seq": "PTFDALRARADARLAANTKGILAAAAIGRDACIAECEGFREGVGEVAGAARKGDPATGEELARAGKAAADDATAKALAYADLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0062_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2256908416748047,
+    "ptm": 0.7854897379875183,
+    "binder_id": "binder_0062",
+    "seq_idx": 3,
+    "seq": "MSLADALARADEDLAAQREGMLKAAKIGPEAAEATCAGAREGAGEMALAAARQDQQAGAELAARLVAAVAEMAEEVRAYAAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0063_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.514430582523346,
+    "ptm": 0.8678708672523499,
+    "binder_id": "binder_0063",
+    "seq_idx": 0,
+    "seq": "EPVDAAVERLREAAELLKTTAAGDHWARAAENAARGVEVAAAVGPDAAAEALRGAAMTLLNHAIGCRRDPQAAEAAEFMEEAAAAVGACAAAVS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0063_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.6997425556182861,
+    "ptm": 0.9086838364601135,
+    "binder_id": "binder_0063",
+    "seq_idx": 1,
+    "seq": "DPVAQAVATLETAADLLATTSAGEHWSRAAKRQAWYVEEAARIGPEAAAEALEGAALTLLDHARGCSRNPDEAAVAAACRAAAAAVGAAAKQVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0063_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.4917905628681183,
+    "ptm": 0.851651132106781,
+    "binder_id": "binder_0063",
+    "seq_idx": 2,
+    "seq": "AAVQEAVAALDEAAAAAAATAAGDHHSQALRNQSAYIKEAAKQGSEAAAEALTGAGLTLAQIARAAEADPAEAAVAAQMRAAAAQCGAAAQALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0063_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6975731253623962,
+    "ptm": 0.9061029553413391,
+    "binder_id": "binder_0063",
+    "seq_idx": 3,
+    "seq": "SPVEEAEAVLAAAAKAAAATTAGDHWTTALERQREGVRVAAAEGAEAAAIALQGAALTLHDIARGAARNPAEAATAAQMRAAAAAVGACAAAVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0064_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.23587383329868317,
+    "ptm": 0.8006225228309631,
+    "binder_id": "binder_0064",
+    "seq_idx": 0,
+    "seq": "MASSAEHRARTSATARGLREAAEEGSPEEAARAREALEKATREAMADAKAEGVESGAAVAVALRDVVTEEEARALLAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0064_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3069455027580261,
+    "ptm": 0.8215057849884033,
+    "binder_id": "binder_0064",
+    "seq_idx": 1,
+    "seq": "VKSSAEFYAAMLAEATRLREAALAGNPAEAAAAATELRRATAEFMREAKAEGVHAAEAVYRALRRAVGEDEAAALFAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0064_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5079693794250488,
+    "ptm": 0.8665910959243774,
+    "binder_id": "binder_0064",
+    "seq_idx": 2,
+    "seq": "SLSAAELRARAHTVATELRAKAEAGTPEEAARAREQLREETRRLLALGQAEGVHAVAAVYTALRAATGDAEAAELGAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0064_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.25811058282852173,
+    "ptm": 0.8139893412590027,
+    "binder_id": "binder_0064",
+    "seq_idx": 3,
+    "seq": "MMSSAEMYQRTYEEMTRLKSNALRGDPEERALALERAREATGAYLAQARAVGVEAGAAVARALRSAIGEELADALLAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0065_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.21828661859035492,
+    "ptm": 0.8207154870033264,
+    "binder_id": "binder_0065",
+    "seq_idx": 0,
+    "seq": "TANVAEAGAANAAELARANPARAPAQLAAVDQVAKDEGAAGAAAAEAARAAIAAYAAAHAQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0065_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.6232688426971436,
+    "ptm": 0.8891286253929138,
+    "binder_id": "binder_0065",
+    "seq_idx": 1,
+    "seq": "SLNVAKAGAAEAAITAAANPAKAAAQERAVAINAQAEGEAGREEAARAEARIAEALAAHAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0065_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7887940406799316,
+    "ptm": 0.9413703680038452,
+    "binder_id": "binder_0065",
+    "seq_idx": 2,
+    "seq": "SENVAGAGAAEAYMRAAANPEKAPACLESVDRMAEAEGAAGKAYAAKAHALIAQALAAHAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0065_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17913387715816498,
+    "ptm": 0.8180821537971497,
+    "binder_id": "binder_0065",
+    "seq_idx": 3,
+    "seq": "TPNIARSGAAEAAERARANPARADRELASVDLIASEEGAIGKKEAEKAHAAIRAARAAHDAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0066_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.164139524102211,
+    "ptm": 0.7748395204544067,
+    "binder_id": "binder_0066",
+    "seq_idx": 0,
+    "seq": "DAAYRQALRDQASAAASYEAARTGAEGKALLQEVSAEARQGMADPAYFQRNKPRFEALAAKGSAERAAEEAAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0066_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.5639686584472656,
+    "ptm": 0.8704653978347778,
+    "binder_id": "binder_0066",
+    "seq_idx": 1,
+    "seq": "SAAERAVMASEASAAADYLAAATGAEGKEMLDLVAQLCAAGKADPALFEQKREELTAYAAQGSKEKAEERAEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0066_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.18020428717136383,
+    "ptm": 0.7935040593147278,
+    "binder_id": "binder_0066",
+    "seq_idx": 2,
+    "seq": "SASERDALCSMATAAADYEAAATGERGFELLKAVAALCKAGKADPALFLRHRPYLLGLAAAGSAEYAANRAAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0066_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15006083250045776,
+    "ptm": 0.7890241146087646,
+    "binder_id": "binder_0066",
+    "seq_idx": 3,
+    "seq": "SAAYRSALRDESTAAAAAIAAETGALGKKLLDIVADLATRGWADPAFFEEHLPLFLGLARLGSELRAAERAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0067_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.836181640625,
+    "ptm": 0.9367026090621948,
+    "binder_id": "binder_0067",
+    "seq_idx": 0,
+    "seq": "ALAKERAEVEELLAQLREEAVANRAAAEAAKAYAAAAAASDPRAARLAEAVARECEKAAERNEELAERAAAKLAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0067_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.18090727925300598,
+    "ptm": 0.763794481754303,
+    "binder_id": "binder_0067",
+    "seq_idx": 1,
+    "seq": "FVARALAETKELAAQLKKARDAAAAAAAAARAAAAAAAAADAAAARRAAAAAHEEDRAAAKHKELLAKADAKAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0067_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5067359209060669,
+    "ptm": 0.8578672409057617,
+    "binder_id": "binder_0067",
+    "seq_idx": 2,
+    "seq": "TELAELEEARELLAELKALADRNRANANAARAYAAAAAAADAASARRAEGLAREQTRSAARHAAEAARAQALIEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0067_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8382250666618347,
+    "ptm": 0.9392836093902588,
+    "binder_id": "binder_0067",
+    "seq_idx": 3,
+    "seq": "SAARELQEAKELLAQLKAERDKAEANAKAAEAAAAAAAASDAAAARLWKAIAIEEKRSAVRHRELAERAQARIEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0068_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.16666507720947266,
+    "ptm": 0.7895278334617615,
+    "binder_id": "binder_0068",
+    "seq_idx": 0,
+    "seq": "SSTKAEAAYEEGAAIEAKYVAEGMRSHSACVLAGAAAAADARAAGKDGVAARARAEECRALAAPQLEAGAAANA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0068_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17374387383460999,
+    "ptm": 0.7867395877838135,
+    "binder_id": "binder_0068",
+    "seq_idx": 1,
+    "seq": "IGEGSLEAYEQGAARFAELSARGTRSDSGAVLAAAADAYEARAKGSAGKEAAEKAAALKAKAAPDIAAGAALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0068_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2731708586215973,
+    "ptm": 0.8204711079597473,
+    "binder_id": "binder_0068",
+    "seq_idx": 2,
+    "seq": "GGQKSLEAYEEGAEILAERTREGTRSETGSVLAAAAEAARKAAAGAEGETAAAIAAAFEAKIAPELAAGRAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0068_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.20925864577293396,
+    "ptm": 0.8012869358062744,
+    "binder_id": "binder_0068",
+    "seq_idx": 3,
+    "seq": "TGERSAAAYEAGAAVAAGYVRAGVRSFTQSVLRAQADAYRQLSQGTQGAEAAAKAAEAEAKAAPGIEAGLAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0069_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3112167418003082,
+    "ptm": 0.8269511461257935,
+    "binder_id": "binder_0069",
+    "seq_idx": 0,
+    "seq": "LRARALGRRLSELAHFLGGLVADALGVEAGARLMGEALREAGRGLRALGHENEGRALELEGDEVEKEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0069_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17213304340839386,
+    "ptm": 0.7972483038902283,
+    "binder_id": "binder_0069",
+    "seq_idx": 1,
+    "seq": "LAARALGSRLARVAGAVGGAVARSLGAKVGAKVEAALRWLAGALLRAMGWGNQGRGLQLGGAEILKEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0069_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19068054854869843,
+    "ptm": 0.7927564382553101,
+    "binder_id": "binder_0069",
+    "seq_idx": 2,
+    "seq": "LAASALGYQLALAALTLGGRVAEALGALLGALVEAAALVLAGLALIAAGYTNQGRGLIQYGLELAKEAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0069_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7660790681838989,
+    "ptm": 0.925726056098938,
+    "binder_id": "binder_0069",
+    "seq_idx": 3,
+    "seq": "LDAQALGDRLSGAAHALGGAVAAAVNTFIGALVEAVLLYLAGRAMRALGYDNVGKGLILEGAEIAKEAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0070_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19147327542304993,
+    "ptm": 0.7463250756263733,
+    "binder_id": "binder_0070",
+    "seq_idx": 0,
+    "seq": "AVLSGVAGAAEDLRKAQELRDKGSALAAQDKAAGAKVYQEAAEVAKGAEQSAKAAQAAADAASPADAPAAAKAAQLAGQAAALAANAAANATALTAIAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0070_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17857202887535095,
+    "ptm": 0.7445293664932251,
+    "binder_id": "binder_0070",
+    "seq_idx": 1,
+    "seq": "DVESGVAGAGEDLRSGQRLLEAAEAAAGADAARGAELYAQAHRRFDSAAQSAKLARDAAEASDPSAAPLAEQAAALESQCAQASARAQALTAQLQSLAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0070_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19712723791599274,
+    "ptm": 0.7382637858390808,
+    "binder_id": "binder_0070",
+    "seq_idx": 2,
+    "seq": "DVAEGLAGAKEDLARGNALQAAGQAAAAANKAAGATLFDAAKDTYDGAARSANLAEGAALASQPSYAPYAAAAADVKAQADAAAAQAAANAAALKTAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0070_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2657846212387085,
+    "ptm": 0.7686827182769775,
+    "binder_id": "binder_0070",
+    "seq_idx": 3,
+    "seq": "DELAGLAGAGQNLERARRLFAEADALAAQDALAGAEKFEKAEAVAEAAAKSAKETAKAAEASSPAAQPVADQAKALEKEAERLAEEARAKRDELKLQAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0071_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.40246060490608215,
+    "ptm": 0.8353691101074219,
+    "binder_id": "binder_0071",
+    "seq_idx": 0,
+    "seq": "AASRNVALAGAAGEAHRIRARCDRGVALAAAGDEAEAAALLAEARARAAAMAQDPRLAQGAAAGSAALAAAEAAIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0071_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3328084647655487,
+    "ptm": 0.83433997631073,
+    "binder_id": "binder_0071",
+    "seq_idx": 1,
+    "seq": "SASDQVALHAAAQAAERAKALTNKALALARQGKAAEATALVAAAEARAAAMAADEALAAGGAATKAAIAATKAAIAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0071_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.4233238697052002,
+    "ptm": 0.8495584726333618,
+    "binder_id": "binder_0071",
+    "seq_idx": 2,
+    "seq": "SPSAQVALHGAAEEAHQAGQLITAGVAAAKAGDQATAAALLAQAAARGASMAASPETADGAAATAAALAAAQAQIAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0071_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.41405391693115234,
+    "ptm": 0.8572307825088501,
+    "binder_id": "binder_0071",
+    "seq_idx": 3,
+    "seq": "TASENVALAGAAGEAMDADKMVKKGVELAKAGDKAEADQLLQKAEDKAAQMLASPELAQGGKYITKQIDDAKKKIAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0072_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.4478488564491272,
+    "ptm": 0.818072497844696,
+    "binder_id": "binder_0072",
+    "seq_idx": 0,
+    "seq": "AKFEEGRRLAAEAAEQLAALGAIGAEAAGALRAAVEAATAGKTGEARAAWGYTGTLLQEAVAEYGEEAAEIAQKAAEALARILGEERGGESQRRDIRVMT",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0072_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1945270448923111,
+    "ptm": 0.751813530921936,
+    "binder_id": "binder_0072",
+    "seq_idx": 1,
+    "seq": "STQTAGRITAEEAAEKLAALGPVGAAAAGAIRLTVRYLEAGQLGAARASFGHAAGLLEEAVATYGAEAAEIAKAAAKALSLLLGNAKGGENQIKGIIVTV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0072_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.20286625623703003,
+    "ptm": 0.7545648813247681,
+    "binder_id": "binder_0072",
+    "seq_idx": 2,
+    "seq": "DTFAAGKEKAEEAAAALAALGPVGAAAAGAIRAAVAAAERGDAGAARAAADVAYELLGRAVAAHGAEAAEICKRAAEALGDILGKPEGARNAIRDIDVTV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0072_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5768101215362549,
+    "ptm": 0.872518002986908,
+    "binder_id": "binder_0072",
+    "seq_idx": 3,
+    "seq": "AAAAAGRADAEAAAKELAATGPTGAAAAGAIRAAVAAAEAGQRGAARAAFGAALNLLQDAVAEYGKEAAEVACRAAEALAALLGRPEGGRNNRADILVTV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0073_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6335279941558838,
+    "ptm": 0.883029043674469,
+    "binder_id": "binder_0073",
+    "seq_idx": 0,
+    "seq": "MTPEEQAQAALLAAMAALERAAAAFPACLPVVTAAAELIREYVDQLTADECTGLQEGAADAYAALARGAADAALHEANQLLRAAEQLKKRALV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0073_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2254967987537384,
+    "ptm": 0.7481912970542908,
+    "binder_id": "binder_0073",
+    "seq_idx": 1,
+    "seq": "ATPKEAAAAALAAAMDRLRALAARFPEVLPTVEAAAALARAHLDALTAEQCRGLQEAAADTAYALQRGNKAAALHEAEDLLRCVELLAKEALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0073_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6550348997116089,
+    "ptm": 0.8914960622787476,
+    "binder_id": "binder_0073",
+    "seq_idx": 2,
+    "seq": "ATPKARAQAALRAAMAATLEAAARFPEVLPIVEEATKLAFAFLDALTSDQCVGLQEGAADVYFALERGNKDAALYEAENLLRSVKLLQKEALV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0073_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15983106195926666,
+    "ptm": 0.7520424127578735,
+    "binder_id": "binder_0073",
+    "seq_idx": 3,
+    "seq": "MTAKEQAQAALLDAMDRLEDAAAAFPACLPTVREAARLIRQHADQLTADQARGLQEQAAEVYNALERGNEAAAEHQAKALLQSAKDLAKLAAV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0074_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8797346353530884,
+    "ptm": 0.9502033591270447,
+    "binder_id": "binder_0074",
+    "seq_idx": 0,
+    "seq": "AAQAKARLAALAAANRRHAAAEDAIAARLAAAAAADPEYAGLADGARQGAAGDAALAAHAAAQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0074_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8830597400665283,
+    "ptm": 0.9493094086647034,
+    "binder_id": "binder_0074",
+    "seq_idx": 1,
+    "seq": "AAARRARLKAAAAHHKKAAAANAAIAEKLAAAAARDPSYAGQAEGAKAAAARNKALAAYAQQQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0074_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8689476847648621,
+    "ptm": 0.94892418384552,
+    "binder_id": "binder_0074",
+    "seq_idx": 2,
+    "seq": "DAAKLTRAQAAAAAAKENAKNNIKIAEKLRKAAERDPAYQGQADGAEAAAKYDQTAAAYYDAQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0074_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1867106556892395,
+    "ptm": 0.7988134622573853,
+    "binder_id": "binder_0074",
+    "seq_idx": 3,
+    "seq": "LEARKTRLEARAAALEREAAAQRALAARAEAAAVENPEVAGEAAGARAAAAQAEAGAAAARAAAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0075_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.769784688949585,
+    "ptm": 0.928687334060669,
+    "binder_id": "binder_0075",
+    "seq_idx": 0,
+    "seq": "NSAKEAALAQGTAEAEAITDAGLAAALAAMAAGDLRRAGGAREAAAEQVAFTMGYAGAPEAEAAARSRDTDARLAAAIAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0075_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8747560977935791,
+    "ptm": 0.9461719393730164,
+    "binder_id": "binder_0075",
+    "seq_idx": 1,
+    "seq": "SSAAAAARAAGEEQAQAIREAGLAAARAAVERGDLRAAGGAREAAAEQVAEAMGAAGASIADCANASRETYRALKEAIREAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0075_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.23121236264705658,
+    "ptm": 0.7846344709396362,
+    "binder_id": "binder_0075",
+    "seq_idx": 2,
+    "seq": "GAEAAAKLAAGEAKAAEIKAAGLAEALKAVAEGDLRRAGAARERAGQEVAETLAEAGADIATAARASRDVVAQLRAAIKAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0075_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.18846793472766876,
+    "ptm": 0.7690919637680054,
+    "binder_id": "binder_0075",
+    "seq_idx": 3,
+    "seq": "EEEAEERRRDGLARAERILEAGLARAREAVAAGDLRAAGGARDAAAEEVARVMAEAGMSIPEAAELSRAAFAALRAAIGEEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0076_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6592845320701599,
+    "ptm": 0.8972052335739136,
+    "binder_id": "binder_0076",
+    "seq_idx": 0,
+    "seq": "DAARTRLLAAAEACKKASKMDGAADEAKATAIGAAAQLVTILGPAAQPLAAELGKNAQEAAASENAALKTAQALEEVAAQL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0076_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2786161005496979,
+    "ptm": 0.7995089292526245,
+    "binder_id": "binder_0076",
+    "seq_idx": 1,
+    "seq": "DAAVAALEAGAEACLKTRRLPGAADAALATARGAGARLITILGPAAEAAAAALGADAARAAASDEAALLTAASLRAAARAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0076_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.20744159817695618,
+    "ptm": 0.7895554304122925,
+    "binder_id": "binder_0076",
+    "seq_idx": 2,
+    "seq": "FSPRRKLAAAAAACRRAAHMEGRAYAAMATARGAGASLLTQLGPAAAPRVAALGAAATAAAASENAADEMAAALEATAAQL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0076_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.41723912954330444,
+    "ptm": 0.8405017852783203,
+    "binder_id": "binder_0076",
+    "seq_idx": 3,
+    "seq": "SAVRARLRDAARACRRSGALEGKAAAAQATANDAGAKLVAQLGQAALPLAQQLGQGATACAASADAAACTADLLEALATAV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0077_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.13866743445396423,
+    "ptm": 0.726178765296936,
+    "binder_id": "binder_0077",
+    "seq_idx": 0,
+    "seq": "SAPVDNDFAQAKAAAEGAELERKAGFWAGAGLSGAGASYRARAAAAAGNLDLATVCAAIAKKAAEDAELAGKADKSLKDNAAGSKALAKEVAALVAARK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0077_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2973133623600006,
+    "ptm": 0.7879591584205627,
+    "binder_id": "binder_0077",
+    "seq_idx": 1,
+    "seq": "MSIAESKAKHAEASLKGAKLEKKAGAWQGAAISGAEAAFEALEAAKLSDLKEAETAAKWAEEAAKLAKEGGKKLPEEAENAKGAEELAKKIEKLVKERK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0077_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6150339841842651,
+    "ptm": 0.8548747301101685,
+    "binder_id": "binder_0077",
+    "seq_idx": 2,
+    "seq": "MPVAAARQAAGAASVAAALRELRAGGFEGAAISGAAGAAKLLAAAEQGTPEVAAVAQGGAKAAAGLALIGGAAVPEMAANAAGAAAMAAAIAALVAARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0077_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6465644240379333,
+    "ptm": 0.8835141658782959,
+    "binder_id": "binder_0077",
+    "seq_idx": 3,
+    "seq": "MTPVDSNFKKAKQSLEGAILEFKVGGWEGAAESGAFAAAKALTAARGGNAEQAKEAAELSKKAAELALEGGKELPKLAEDAAGAKKLAKETEELAEERK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0078_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.12484931200742722,
+    "ptm": 0.7785435914993286,
+    "binder_id": "binder_0078",
+    "seq_idx": 0,
+    "seq": "EARRAARREHLAQRYLVDLALGAGMEFYTLVEEGEVALGLEVQGNTLASAYGYAPLVLLLALLVFLALFALS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0078_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17731034755706787,
+    "ptm": 0.7828869223594666,
+    "binder_id": "binder_0078",
+    "seq_idx": 1,
+    "seq": "EAARAARRAHQSANLLANSAVGTGMEFYTRSAEGDFATGIEVVLDTLAMTEGFRALVGAAAAAVYVLLATST",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0078_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1981377750635147,
+    "ptm": 0.7932758927345276,
+    "binder_id": "binder_0078",
+    "seq_idx": 2,
+    "seq": "MEERERRKELRAANRLRNTAVGTGYEFFTALQEGDVETGADVVADALAMSSGFAGVVAALAAAVFAALAAGA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0078_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.16737699508666992,
+    "ptm": 0.7788935303688049,
+    "binder_id": "binder_0078",
+    "seq_idx": 3,
+    "seq": "EARKAARDAHRAEQLMRSLAHGMGLEYFALDKEGEKKRGEEVKKETLEKATGFADRVKALADEVYKALSSAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0079_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.28617537021636963,
+    "ptm": 0.83311927318573,
+    "binder_id": "binder_0079",
+    "seq_idx": 0,
+    "seq": "DSAQRRIRQSVLKRIKKTREKLSSLHPEARTLFDKALARLGEFEGMIAAVGEVTAGIEQRLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0079_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.16923078894615173,
+    "ptm": 0.8209730386734009,
+    "binder_id": "binder_0079",
+    "seq_idx": 1,
+    "seq": "SHRTATITISVLATCRKSEEKLAKLHPDARAMWERAKGRKGLFEGMYAACGQVMEACTEALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0079_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.14443981647491455,
+    "ptm": 0.8022781014442444,
+    "binder_id": "binder_0079",
+    "seq_idx": 2,
+    "seq": "AARAARIAEAVRRDILRTEAKLRALIPEATQLFAEAVARNGEVAGAIAASGAATERIEKLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0079_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17500397562980652,
+    "ptm": 0.8099048137664795,
+    "binder_id": "binder_0079",
+    "seq_idx": 3,
+    "seq": "GERRARITAATRKEIAATEAKMAELHEDAPELFDSARAKYGYVEGTFAAVGAVTDQIAMRLS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0080_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8639916777610779,
+    "ptm": 0.938616931438446,
+    "binder_id": "binder_0080",
+    "seq_idx": 0,
+    "seq": "ALAALKAATAAVAAARAAAEAQLADPSAPAADKVATARAAHAAANAGMAAARAAARDPATAAAGAALAAQAGAAEAAADALLARTMEELEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0080_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8086977601051331,
+    "ptm": 0.9349578619003296,
+    "binder_id": "binder_0080",
+    "seq_idx": 1,
+    "seq": "LEREAERALEEVRRALAAVKAALADPSAPLAEKVEVARRADAAANRALAVARKAARDPRTQELGEELAREAGEAAAAAWELLAEAMEELES",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0080_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.2938706874847412,
+    "ptm": 0.788971483707428,
+    "binder_id": "binder_0080",
+    "seq_idx": 2,
+    "seq": "LREKTEAALAAVTAARAAAEAALADKSVSLADKVAVARAADAAANAGLAVARQAAADPATAEAGEALAAQAGAAQAAAEALLSSAMEEAMA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0080_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.20800665020942688,
+    "ptm": 0.7608637809753418,
+    "binder_id": "binder_0080",
+    "seq_idx": 3,
+    "seq": "LAADLAAARRAVEAALEEVKEALADGSTPPAEAAAIAKRADDAANRGLGVAEKGAQDPATQAEAKALAAAAGQASDAANALLARTMSRVEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0081_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1534023880958557,
+    "ptm": 0.7431387305259705,
+    "binder_id": "binder_0081",
+    "seq_idx": 0,
+    "seq": "NRVAHDIALDNAGSARTMARTVPEAAETAAAWAVAGAKTDPGEAGRLAEEVAAEAARRSPAAAAVRDEALAQTPKDVWDMAEQLMDATFERILQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0081_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.130913645029068,
+    "ptm": 0.7464843988418579,
+    "binder_id": "binder_0081",
+    "seq_idx": 1,
+    "seq": "SRVRRNAGKDNAGSAAKIAETIPEAARAAAAYAVAGAKVDAGEAGRNALAREQAIAAADPTAAAFAAEARAMSLKDVYLRARELEAEAGRRALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0081_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1960807591676712,
+    "ptm": 0.7496652603149414,
+    "binder_id": "binder_0081",
+    "seq_idx": 2,
+    "seq": "SRVRRNLGKEYAGSGRNILATVPEAAKAAAAWAVAGAKTDDGEWGQEARRVAEEVAAASPEAAAVAKEAEAMTLEEVHNRAVELEDEVGERLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0081_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.142007976770401,
+    "ptm": 0.7525313496589661,
+    "binder_id": "binder_0081",
+    "seq_idx": 3,
+    "seq": "SAVRHNLGREYAGDAKNIAERIPEAAREAAAHAVLGAKVDGGEWGKKAEAGLEAVAARDPEAGTYAEKARALSAKDTYEEAVALADEAGEKIRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0082_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2033996284008026,
+    "ptm": 0.7905846834182739,
+    "binder_id": "binder_0082",
+    "seq_idx": 0,
+    "seq": "TMDARLAYAELVAARYPVAAACVELVEAAGAAAPTELADGCEAIILAAGGTLTPFQEREVMRAAEAYALARAARAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0082_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.15956275165081024,
+    "ptm": 0.7785532474517822,
+    "binder_id": "binder_0082",
+    "seq_idx": 1,
+    "seq": "TPEQMREYAKRIAAAEESAIECIDKALEMGSAPFHEIADVAEEIILKSGGKYTPAEKAEIMRAVENMAVARAIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0082_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.17463353276252747,
+    "ptm": 0.7806986570358276,
+    "binder_id": "binder_0082",
+    "seq_idx": 2,
+    "seq": "TMAEKRAIAEEVAARYPVAAECVAAAAAMGAAPLTEVADVCEEIILNAGGRYSPKEKALIMRAVEYFYLARAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0082_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5848639607429504,
+    "ptm": 0.8780457973480225,
+    "binder_id": "binder_0082",
+    "seq_idx": 3,
+    "seq": "SAAARTAEANAVAAKYPTAAKCVAAAAAAGAATPEELADIAEEIILAAGGALTPAQKTEIMRAVENFALARAEAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0083_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7977823615074158,
+    "ptm": 0.9342526197433472,
+    "binder_id": "binder_0083",
+    "seq_idx": 0,
+    "seq": "GLADGLRAERDAAEAAAAGAAAAYAAEKASGADPKRAQSLAALRASYERSRERYLRALEGAEE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0083_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1746101677417755,
+    "ptm": 0.8058141469955444,
+    "binder_id": "binder_0083",
+    "seq_idx": 1,
+    "seq": "ELVEALAEGLAGATAAEAGFKAALGALTAAGTDAKAAQAAAAEAKSFAAAAAKYKAALEAARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0083_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7859793305397034,
+    "ptm": 0.9335559606552124,
+    "binder_id": "binder_0083",
+    "seq_idx": 2,
+    "seq": "DLLEALEEERERAAAAAKGYEAAAAALKAAGTDPKALQAAEAEAADYKASEAKYTRAAAGAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0083_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.46703121066093445,
+    "ptm": 0.8618285655975342,
+    "binder_id": "binder_0083",
+    "seq_idx": 3,
+    "seq": "DLASDLQNERDVMLANRDGAEAAAAALAAAGADPRATAAAAAEAREYARATEKYAAALRGALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0084_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19771859049797058,
+    "ptm": 0.8077930212020874,
+    "binder_id": "binder_0084",
+    "seq_idx": 0,
+    "seq": "SAEIAQLEAEAAAARAAAAAAAAASAAAAAAAAATAGTHAYRSFAVEADANARGYAAAAAAYAAAASRLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0084_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.514568030834198,
+    "ptm": 0.871772825717926,
+    "binder_id": "binder_0084",
+    "seq_idx": 1,
+    "seq": "EAEVKKLLEQAEEFEKEAKESAARAEAAKKAAAASPRHHTFESGANDEKANALGYTKAALAYKAKAKELT",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0084_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.48038655519485474,
+    "ptm": 0.8545019030570984,
+    "binder_id": "binder_0084",
+    "seq_idx": 2,
+    "seq": "DEQIEALRANAKAAEEAAAKAEAQAAAAEAAAAATSATHAYQSLANDRRRDAEGYAKLAADYKAAADALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0084_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.43327921628952026,
+    "ptm": 0.8593054413795471,
+    "binder_id": "binder_0084",
+    "seq_idx": 3,
+    "seq": "EKEVADLLANAAAADKEAKAAKANAAAAKAAAAATAEKHTYTSAATDYDNAAKGYKAMAAKYRKAAEELK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0085_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2759780287742615,
+    "ptm": 0.7988091707229614,
+    "binder_id": "binder_0085",
+    "seq_idx": 0,
+    "seq": "ETEELAKYAKQALENANANLRDDRAIAAAAAARAAADPADAQAHRAATNAAYDAAGNAAKAKELQARLEKLQAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0085_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7976901531219482,
+    "ptm": 0.9372979998588562,
+    "binder_id": "binder_0085",
+    "seq_idx": 1,
+    "seq": "TTQELIDVAEAAAAQTAAYASAYQAGADAAAAVAAADPANAGARGAAANFTHHAAGEKAQLGALTERRNSLKAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0085_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.17111027240753174,
+    "ptm": 0.7807428240776062,
+    "binder_id": "binder_0085",
+    "seq_idx": 2,
+    "seq": "MRAALIAEADRAAKDAEAARTDYEAVRDAAAALAAADPGDRQARGAAQNAAAQAAGERARLTELRTRAELLRAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0085_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7619701623916626,
+    "ptm": 0.9344393610954285,
+    "binder_id": "binder_0085",
+    "seq_idx": 3,
+    "seq": "EREVLIEIANAALADTRAAADGHATGAAAAAAKKAADPSNAQAAGAATAHASSEAGNRRKAAEIAARRQRLIAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0086_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.5184402465820312,
+    "ptm": 0.8936585783958435,
+    "binder_id": "binder_0086",
+    "seq_idx": 0,
+    "seq": "HARAHAIGDIYTDKAGEAAKDPEKSQALMDEGAAAVAADDSATPREKAGTAAVARKIRLK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0086_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.48143482208251953,
+    "ptm": 0.8828787803649902,
+    "binder_id": "binder_0086",
+    "seq_idx": 1,
+    "seq": "GGRGHAIGHIYTDLAGKAADDPQRSADIMRKGAELLAASPDATPDEIAGTRAVAEKVALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0086_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.48541730642318726,
+    "ptm": 0.8869796991348267,
+    "binder_id": "binder_0086",
+    "seq_idx": 2,
+    "seq": "DARCYALDGEFMRAAGSAADDPEKAAALARRGAEAVAADPSCTARHKAGMRRVAEKIELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0086_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.4113081395626068,
+    "ptm": 0.8765829801559448,
+    "binder_id": "binder_0086",
+    "seq_idx": 3,
+    "seq": "NARGYTLGHLYAQAAGAASDDPAKAQAVMAQGAAALNAMDDASPAHKAGYARVAAQIQLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0087_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.5195232033729553,
+    "ptm": 0.8582316040992737,
+    "binder_id": "binder_0087",
+    "seq_idx": 0,
+    "seq": "SDLAQAAAALKAAEAKFAAAQAVAQTGTPQAALQAMAEARQFASAGANMCAQMGSAAEEEQKLNALSRTANDQAIAIAASL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0087_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.809352695941925,
+    "ptm": 0.9343826770782471,
+    "binder_id": "binder_0087",
+    "seq_idx": 1,
+    "seq": "SDVALGETALAAATAKYEEAKKVAATGTKDEALKAAAEARNFAGAGADYCARLGVCADQERQLNEISRDMNDQAAAIAKEI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0087_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7922271490097046,
+    "ptm": 0.9261932969093323,
+    "binder_id": "binder_0087",
+    "seq_idx": 2,
+    "seq": "SAEALGRAALDAARAKADQAKRVKATGTIEEGLAAAAAARNFAHAGADGAAQSGECQEQEREYNNISADMNKLAAELAKAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0087_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7862751483917236,
+    "ptm": 0.9273588061332703,
+    "binder_id": "binder_0087",
+    "seq_idx": 3,
+    "seq": "SPLEEAEAALAAVEAAWAAARETAATGTAEEALAAMAEARNFADAAADWCAQLGVAEEQEAKANAISRDARKAAVEIAAAI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0088_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.22103051841259003,
+    "ptm": 0.7643049955368042,
+    "binder_id": "binder_0088",
+    "seq_idx": 0,
+    "seq": "AEAAWRERANQAAAVSALDAATGGVTEADFLKSGTKDEILEGIKNADDAIAAADAAERAAANTERAAEIQAAAREVRARAKTAKAALEATL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0088_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.47817254066467285,
+    "ptm": 0.8472326397895813,
+    "binder_id": "binder_0088",
+    "seq_idx": 1,
+    "seq": "AAEERQQRFNQAAAQFALDYAKGGVTEARFLRNGTPEEVQYGLDCAAAALRAADVAAEKARQTPDKDTLGARAASVRAAAAQERDQLEKRL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0088_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.18016543984413147,
+    "ptm": 0.7421069145202637,
+    "binder_id": "binder_0088",
+    "seq_idx": 2,
+    "seq": "AAEERRKRYAQSLAQYALDEAAGGVAEGKFLADGTPEEKQLGLDACKASQAAADLAAQYAAQTTQRVTLQAAAARLRAEATAIAKQIEASL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0088_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6736125946044922,
+    "ptm": 0.894357442855835,
+    "binder_id": "binder_0088",
+    "seq_idx": 3,
+    "seq": "AAAARAVQAARARATYALNQAIGGVTEAEFLKDGTPEEIKQAIDFADAAIAAAKLAKDEAKATPDAAELTKKAEEAEKRAKDAKKEAEAKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0089_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3716965317726135,
+    "ptm": 0.8081850409507751,
+    "binder_id": "binder_0089",
+    "seq_idx": 0,
+    "seq": "SAAVAGMQASFNAFQAQIAAGTVTGKSVGEMEAAAGSAMQLLADAGDVAGLQAIAAQLAALATVAQNAATQVGQNATNAANEANSSAAGAQLEAAYLQTL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0089_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.47142672538757324,
+    "ptm": 0.8239868879318237,
+    "binder_id": "binder_0089",
+    "seq_idx": 1,
+    "seq": "ADAVTGYAKAAAAVRAKLEAGTVTGRDVGEADTAAGAAIGAAAQAGDLKAIENIAKLNAELAEAAAEFAAKNGEAAAHLAAAAAGNERGARKTAKLLKLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0089_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.24208909273147583,
+    "ptm": 0.7542427182197571,
+    "binder_id": "binder_0089",
+    "seq_idx": 2,
+    "seq": "SAYVAGFKQAADEITAKLKAGTVSGKDVGDADAAAGSAIAGCAEAGDVEGIKEIAAIAEDVAKAAEAAAKKVGKAAANLAEAMKGAAEGAKKTAKLLEAV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0089_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7017199993133545,
+    "ptm": 0.9047273397445679,
+    "binder_id": "binder_0089",
+    "seq_idx": 3,
+    "seq": "AAAVEGFELAADTIRAKLEAGTITGADVGAMHAAGGSALGAAAEAGDVEGIREIAAILRDLARVAEEKAMRVGQTAANAADAARGDARGAEKEADLLRLT",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0090_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8713586330413818,
+    "ptm": 0.9460767507553101,
+    "binder_id": "binder_0090",
+    "seq_idx": 0,
+    "seq": "IEREIEEHRRKARDYRTQAKAVMAQANAQAAAVRADREKALAIQAQGAVQSAKLSDAAFAHIHRAEELE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0090_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.836551308631897,
+    "ptm": 0.9434344172477722,
+    "binder_id": "binder_0090",
+    "seq_idx": 1,
+    "seq": "AAARIAEHEELAREHVARAKAIQADCNRAAQAVRANREAALELAARGGYESGRLADEAAAHVSEAEALR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0090_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.21238696575164795,
+    "ptm": 0.7871595621109009,
+    "binder_id": "binder_0090",
+    "seq_idx": 2,
+    "seq": "MEVEIAAERARAQAYVAEAKAVIDRHSAAAAAVRADKERAFREAAKGAVESALLDEKAAEAVRRAEELE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0090_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8674431443214417,
+    "ptm": 0.944892406463623,
+    "binder_id": "binder_0090",
+    "seq_idx": 3,
+    "seq": "AEEKIREEKEKARQAIAEARAIKERANAAAAEVRADKDEALFLQAKGDMESSKLSEIAFEHIRKAEELE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0091_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19401386380195618,
+    "ptm": 0.750262975692749,
+    "binder_id": "binder_0091",
+    "seq_idx": 0,
+    "seq": "SVDAHRAALDERNAIAEALAAEMAASDDAAAAAAAAKAAAALAAAGVGTEGMAEAARYIEASGKITPAKAATAGRAFGEAGKAAEAAVAAAIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0091_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.13750949501991272,
+    "ptm": 0.7535392045974731,
+    "binder_id": "binder_0091",
+    "seq_idx": 1,
+    "seq": "ALARERAALAERREAATALAATMAKSSPREAARAAAETAARLGQRGVQDEGMAEAHLEIRRSGKISAEKQAVAGRELGAAGAAAAAAVAATITAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0091_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1130942702293396,
+    "ptm": 0.729235827922821,
+    "binder_id": "binder_0091",
+    "seq_idx": 2,
+    "seq": "AVEREFAALAAGRAIARGTAEAMAAADAATAAAAAAAAAAAAADAGGLTSDMAEQVRLIRESGLITPEKVAAAGAAFGAAGAAGEDRTAATIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0091_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.13504235446453094,
+    "ptm": 0.7477424740791321,
+    "binder_id": "binder_0091",
+    "seq_idx": 3,
+    "seq": "AVEREEAALAQRRRAAERLAAQMAALDPAAAREAADAAAREMAAAGFGTEGMVEAHRFIERSGVVDPALIAAAGGALAAAGAAAEAAVAATIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0092_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.40950658917427063,
+    "ptm": 0.8604510426521301,
+    "binder_id": "binder_0092",
+    "seq_idx": 0,
+    "seq": "DKAEAAAAHWAEAREQLAKAQAFLAASKAAAADKALARKLNAAAHLHGYLAAEHRAQAIALLEELS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0092_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2226729691028595,
+    "ptm": 0.8133736252784729,
+    "binder_id": "binder_0092",
+    "seq_idx": 1,
+    "seq": "DLENLAKEELEMAKDELERSQAYDQQAAAQAGNRVQARTLSVKADIHGSIAADHLAKAIDYRELLK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0092_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6295860409736633,
+    "ptm": 0.9028279781341553,
+    "binder_id": "binder_0092",
+    "seq_idx": 2,
+    "seq": "SLEAKAKEYLAKAKEKAAAAADKRAAAKAAKADRRTARALNAAADAEGDKASEYLAKAIEYLEELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0092_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6748464703559875,
+    "ptm": 0.9121361970901489,
+    "binder_id": "binder_0092",
+    "seq_idx": 3,
+    "seq": "ALAAAAAAAEATAAAELAAAKAYRAAAKAAAADKAKARALEAQADAAGDKAAAALAESIDLREQLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0093_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2695658802986145,
+    "ptm": 0.8031429648399353,
+    "binder_id": "binder_0093",
+    "seq_idx": 0,
+    "seq": "QVDAAGQGAAAAVAPESKPAVDAATQAVTAIAAACTAECRAAIAAAAEGGFANIVRAKAAAPATIKAQCDGLVKGVELIAKTCA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0093_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7065051198005676,
+    "ptm": 0.9112236499786377,
+    "binder_id": "binder_0093",
+    "seq_idx": 1,
+    "seq": "AVQAAWDGAAALVAADNKPHVKAAGEQVAKIAAEATPECKAAITAAAQGVCANIASSRDAAPDIIKAKCDGGVAGAKLIAKACA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0093_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.20142504572868347,
+    "ptm": 0.776401937007904,
+    "binder_id": "binder_0093",
+    "seq_idx": 2,
+    "seq": "AVRAAMAGAAARVAPAARPHVEAAGRRLEAICAAATPECAEAIARAAQEGAADLAAAAGADPATVAAAADGLVAGARLLAKACA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0093_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.14211712777614594,
+    "ptm": 0.7600926160812378,
+    "binder_id": "binder_0093",
+    "seq_idx": 3,
+    "seq": "AISAALAGTAAAVSPEAKPHVQAAKERLVAIAAAATPEAAAAIAEACTIDAADIAAARDADPETIKEKCDGSVRGAELLAKMVE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0094_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3456776440143585,
+    "ptm": 0.8158441185951233,
+    "binder_id": "binder_0094",
+    "seq_idx": 0,
+    "seq": "VAERAAALAADAKAAIAAIGASGAAAHDLIGQAARKIVEAQQLDERYGQAAMAAVDALEAEDPIAGAQLRAAIEGTQKEVLVE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0094_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8121720552444458,
+    "ptm": 0.9332326650619507,
+    "binder_id": "binder_0094",
+    "seq_idx": 1,
+    "seq": "AADEAQALKAQAEAAIAAIAQGGPGLHEGIGQAAEHIVQAEELDAAEGAAMRQAVAQLKEQDPRAGERLERAIAGRRKERLVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0094_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.14736799895763397,
+    "ptm": 0.7736122012138367,
+    "binder_id": "binder_0094",
+    "seq_idx": 2,
+    "seq": "AGSEAADLQRQAIAAIDALAAAGPAMHAGQGEAARRTVQALNIDAAAGQQVLAKIGVMESRNPAAGAKLRAAVAGTQKEELVR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0094_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5896087288856506,
+    "ptm": 0.8877382278442383,
+    "binder_id": "binder_0094",
+    "seq_idx": 3,
+    "seq": "DATQAQALANAARAALAAIAASGAAAHAAVGEAAELTVQALQLDPEMGKEILAEVEKLTERNPLAGTRVKNAIAGRAKEQLVR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0095_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6297256946563721,
+    "ptm": 0.885342001914978,
+    "binder_id": "binder_0095",
+    "seq_idx": 0,
+    "seq": "AAAQAERVFAAGIAGKVRELQAAAATYERLARGALEKGMRAAAAAFAEAARTARLGAELTTAAASADPALAAAVYAAYAAAVVAAEDRAGALLR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0095_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8167528510093689,
+    "ptm": 0.9381366968154907,
+    "binder_id": "binder_0095",
+    "seq_idx": 1,
+    "seq": "ASADAMRTAARGIDGKIAEMERAAAIYARLAAGARRRGLREAAEKFDAAAATAAAGAAATRAARALSPELAARVYAFFLNQSIKNETEAGALLD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0095_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.23234671354293823,
+    "ptm": 0.768708348274231,
+    "binder_id": "binder_0095",
+    "seq_idx": 2,
+    "seq": "AAAAAEARLARGIAGQIAELASGAALALRLSAGATRRGLATAAAFYAAASAAAALGAALAAAAAARSPADAAAVYAATSAAVDALSAAAGAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0095_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.3874882459640503,
+    "ptm": 0.8211504817008972,
+    "binder_id": "binder_0095",
+    "seq_idx": 3,
+    "seq": "AAAAAAAMLARGIEGEIAELESASAKYRRLARGAEAAGLTEAAEWFRQASEIAETGAEETRRARELDPALAAAVYAHFNHQLVVAEDKAGEKLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0096_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2670694887638092,
+    "ptm": 0.8008359670639038,
+    "binder_id": "binder_0096",
+    "seq_idx": 0,
+    "seq": "GLVEAMNDAGATADAARAAAAAAEAAGFEDGARGARLAAAAREIAERGEAAAETVAAEESPNFARGAVGEAEALREIQEAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0096_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.16834308207035065,
+    "ptm": 0.7723028063774109,
+    "binder_id": "binder_0096",
+    "seq_idx": 1,
+    "seq": "ALVQAANERGYTAEEWRAAAGAAAAAGWRDLARAARTAAWAAAIAEKGAEAAAAVAQKESENFAKGVLFEAQALKAIRQAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0096_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1700930893421173,
+    "ptm": 0.7745267152786255,
+    "binder_id": "binder_0096",
+    "seq_idx": 2,
+    "seq": "GLVNAAMERGYSAAEWKAAAEAARAAGDVDGARAAQLAANAAAAADNGEAALATVRKENSDGFAKGAAFAADALREIRAER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0096_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15461960434913635,
+    "ptm": 0.7819717526435852,
+    "binder_id": "binder_0096",
+    "seq_idx": 3,
+    "seq": "GLVEKFIEAGWTAAQAWAAAEAAKAAGWVDMARAAELAAAAASAYENGEAALEAVRAAASPAFARGVRYAAEARRQLAEEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0097_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.623347282409668,
+    "ptm": 0.8879175186157227,
+    "binder_id": "binder_0097",
+    "seq_idx": 0,
+    "seq": "AAARAVAAAADAAGHFCSSLIDDAGGEALLDPAKAADAEKKVEAAAQRWQAAAAAFRARAAGLDPAGQAQVMARIARDTEGVERVRDRARKVIAQQKG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0097_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.6110646724700928,
+    "ptm": 0.8914972543716431,
+    "binder_id": "binder_0097",
+    "seq_idx": 1,
+    "seq": "REAARVAADAAAAGGFCSGQIDAAAGLALEDPSKAPAARAQVDAARARFAAAAEAIRAAAARLDPAGRARVEARLAQERAGVERVAELAQRIIDAKTA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0097_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.47355082631111145,
+    "ptm": 0.8359565734863281,
+    "binder_id": "binder_0097",
+    "seq_idx": 2,
+    "seq": "MEAARVAADADAAGAICSGEIAEAGGLAMEDPSEAEQAMTIVEEAVARFAAAEKEIRARAAKLSPEGRAQVLTRLDREAAGVARVRALATGIIAKEQL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0097_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6894456744194031,
+    "ptm": 0.9042158722877502,
+    "binder_id": "binder_0097",
+    "seq_idx": 3,
+    "seq": "SAAAAVAADANAAAAVTSDMISTAGGLALLDPEAAEEARALVLEAERRWREAAATIRAQAAKLTPDGREQVEATLKRNEEGVARVTRLANSIIQKKKE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0098_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8946695327758789,
+    "ptm": 0.9448676109313965,
+    "binder_id": "binder_0098",
+    "seq_idx": 0,
+    "seq": "MGAAERKEAEELANRSLARLQARIAEAKASGDPAARAAAEHAQAIADKGRENTQKEVEAEKSLAAQAAAYRGLAEGFVEQALGVERVL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0098_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.160309836268425,
+    "ptm": 0.7590959668159485,
+    "binder_id": "binder_0098",
+    "seq_idx": 1,
+    "seq": "SGEKLYEEALAQAKAARATLAAEIAAAKASGDPAAKAAAAHAQTKADAGEQNTKLECKAEKSPEAKAAAYFGLAQGYMEQARGVQRVL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0098_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.17655007541179657,
+    "ptm": 0.7597769498825073,
+    "binder_id": "binder_0098",
+    "seq_idx": 2,
+    "seq": "AGQAKLDAAKAEAGAAAATLAAAAAAARASGDPAAAAAAADAEADAADGINGTKLEIKAEKSPEAQAAAYAGLALGFAEEALGLQRVL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0098_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.19411084055900574,
+    "ptm": 0.7487081289291382,
+    "binder_id": "binder_0098",
+    "seq_idx": 3,
+    "seq": "SGEKAAAEAKALADKAAADLEAAQAAAAASGDPAARAAAAAAAAASARGRTNTEKEIAAEKDPLAQAAAWSGLAVGYGEQRNGVLRVQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0099_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7285546064376831,
+    "ptm": 0.886172890663147,
+    "binder_id": "binder_0099",
+    "seq_idx": 0,
+    "seq": "MSRAEEEARMRAALARDAAGHHARVAELLRGDPAFAPEAERAVAGARAAAAAAAAIEADPDATAKRAALTAEVGRHLAEAEAAQAAVIAAAD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0099_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.4650740325450897,
+    "ptm": 0.8496131896972656,
+    "binder_id": "binder_0099",
+    "seq_idx": 1,
+    "seq": "MSPQDQATTRMAALADDIAGSSEKVSTLLAGAPAFAEDAQLCADNARRCAAAATAARTNPADQAQRDANMAACGAGERQNNDFLARLLAAMS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0099_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.28029102087020874,
+    "ptm": 0.779554009437561,
+    "binder_id": "binder_0099",
+    "seq_idx": 2,
+    "seq": "TSPDERRVRLRRSLAADAAGTAAKTSALLAGDSAFADAAAAAAADAAAAAAYAAHAAADPSAVPEIDTGTAATGGALQAVEAAQAALIAAVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0099_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5543704032897949,
+    "ptm": 0.8589247465133667,
+    "binder_id": "binder_0099",
+    "seq_idx": 3,
+    "seq": "TSPEAQAVRIRRALAKSIAGSAARVSRLLRGAPAFAEEAKAAAAGSAAAAAFAALAEADPSRMEELAAGMGAAGKARDAIDEYEARLLAAVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0100_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.4327477216720581,
+    "ptm": 0.8719813823699951,
+    "binder_id": "binder_0100",
+    "seq_idx": 0,
+    "seq": "ARAARDAALRRATAIAAEIIAERADLSPDTRRGVASTAAHTRGLPDEARRAAMIASADGNRTLEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0100_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7824553847312927,
+    "ptm": 0.9342510104179382,
+    "binder_id": "binder_0100",
+    "seq_idx": 1,
+    "seq": "ATAARRQALEDAVAIAAEILARRGDLSPAAQAGAYGEAMHTAGLPSDERRQRIERSVELNRLLEE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0100_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7213593125343323,
+    "ptm": 0.8611265420913696,
+    "binder_id": "binder_0100",
+    "seq_idx": 2,
+    "seq": "ASAQRQANLARATALAREIIDELKDLSQDVRDGVMGSAAHNQGRADSDRRARMVRSAELNRKLEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0100_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.747812807559967,
+    "ptm": 0.9320127964019775,
+    "binder_id": "binder_0100",
+    "seq_idx": 3,
+    "seq": "AAAQRRADLERATAIARDLILEEGDLTPETKQGVTGAAAHNAGLPDEERRARIRASARGNRKLEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0101_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18480528891086578,
+    "ptm": 0.7454603314399719,
+    "binder_id": "binder_0101",
+    "seq_idx": 0,
+    "seq": "GSATAGVMAYHAAQMLAAKGEESKETRELGKRGLALFRQRYAPWWGTLGARIYMAAAKIGAEVSDAIPTAEGAALGADIVAFGEAAMIAAARLAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0101_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.13800498843193054,
+    "ptm": 0.7481260895729065,
+    "binder_id": "binder_0101",
+    "seq_idx": 1,
+    "seq": "GTATEGLVAYAAHQRLAALGVDSERTRALGERGWSRFTEKSRARLGSAGMGVYLAFADLGAAIMMASPTREGGKLGSDVTSLGQALARALAAAEKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0101_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.14566005766391754,
+    "ptm": 0.7451698780059814,
+    "binder_id": "binder_0101",
+    "seq_idx": 2,
+    "seq": "SFAGAGLVAYHAAQILAAEGVKSEETEAAGKRGFANFRARFAEWEGSLAWGIVEAMAAPGAAVSLAQPTTEGASVGADIVGAGYAAGIALARAAAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0101_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.21285507082939148,
+    "ptm": 0.7643854022026062,
+    "binder_id": "binder_0101",
+    "seq_idx": 3,
+    "seq": "GSSTFGAMAYWAALRLRRRGVESEATAAAGERGFARFREKYRAEVHSVGFVIYNVAMWLAAYVSDRYPTSEGGAIGGAIAGLGEQLMVAVARKREA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0102_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8716076612472534,
+    "ptm": 0.9409216046333313,
+    "binder_id": "binder_0102",
+    "seq_idx": 0,
+    "seq": "MPAAAKAAVTYIQATADTAGSTLSEAAAEAIDVGLMDVARECIRTAKDVGAKGNAAAAAVAADPAQAGTAIATAEAAKADANQKAERARKQVAEAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0102_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8241007924079895,
+    "ptm": 0.92926025390625,
+    "binder_id": "binder_0102",
+    "seq_idx": 1,
+    "seq": "PPERARAAVLYCNATAASTGALLSEAAARAIEAGLNETAKECIDKAKAVGKSCNAARAAVWADPAAADAARAAADAAEADGNAVAQQAEARVKAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0102_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8177473545074463,
+    "ptm": 0.930575966835022,
+    "binder_id": "binder_0102",
+    "seq_idx": 2,
+    "seq": "MPEEARTACAYINALAYTTGSLLSEAAADAIDAGDNETAKDLITAAATVGQVARDAAAAVYADPAQAPAARATAEAAGRVARAKAEEARGKIAALK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0102_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.84686279296875,
+    "ptm": 0.9369679093360901,
+    "binder_id": "binder_0102",
+    "seq_idx": 3,
+    "seq": "MPAAAKAACAYLQATEWSAGSRLSEAAARAIEAGDYETAARCIRAAKEVGARCVAAAAAVYADPSAADAARATADQAREEADRVAKEANERVEKLR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0103_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.27620401978492737,
+    "ptm": 0.8238320350646973,
+    "binder_id": "binder_0103",
+    "seq_idx": 0,
+    "seq": "SKAAEEAAAEARAAAERGAADPENGGTYADRAMALALRHKAELPAEVLREIGERVAAVLKALELVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0103_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.44747036695480347,
+    "ptm": 0.867042064666748,
+    "binder_id": "binder_0103",
+    "seq_idx": 1,
+    "seq": "AEAARAAYQEALAAAESGLANLETGGTYADRALALLLRHQAALRPEDAARIGELVQAAYNKLALVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0103_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.16935084760189056,
+    "ptm": 0.8070600628852844,
+    "binder_id": "binder_0103",
+    "seq_idx": 2,
+    "seq": "AAAAAAAAADARAAADLGLANPKTGGRYANRAQALLLRHAAAIDAESAAAIGTRVQAVYDAINLVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0103_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.4408276081085205,
+    "ptm": 0.8610389232635498,
+    "binder_id": "binder_0103",
+    "seq_idx": 3,
+    "seq": "AAAAQAAADAARAAADRGAADPETAGTHAERARALVLRHRSALPAATAADIGAKVQAVLDAVELVA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0104_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6639357805252075,
+    "ptm": 0.8847643733024597,
+    "binder_id": "binder_0104",
+    "seq_idx": 0,
+    "seq": "PAEAAAKTLQRLVDGLLADLEAARAFPELRSAFLENASETAEAAGAKAYIAAAKIPAKQELFLEAAQHCFEAAQACRSEDRLDEAIAHARRAAATIQRIQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0104_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1558828204870224,
+    "ptm": 0.7435810565948486,
+    "binder_id": "binder_0104",
+    "seq_idx": 1,
+    "seq": "AAAALAASLARRQAGLLRRLALARRHPDLRLAYLEDAAATAEAAGALCVRGAARVPDTAPLLLAAAEECFAAARACRSERELEEAEREARAAAALIAAIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0104_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.49290698766708374,
+    "ptm": 0.8531050682067871,
+    "binder_id": "binder_0104",
+    "seq_idx": 2,
+    "seq": "EAAGCAASLANLVAGLRRDLALARAVPELAEAFLEAASGTARDAAIKARICAARIPAQADLFDALAAELAAAAAACASGERLDEAEAEAADAAALLDEIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0104_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17634239792823792,
+    "ptm": 0.7409850358963013,
+    "binder_id": "binder_0104",
+    "seq_idx": 3,
+    "seq": "LGEAIAASLQRKVDGLLTQLSLARQHPELQSAWLEAAAATARSAAAAAAIGADRIPETRDKLQALARALQKAAAAAESEENLAEAEAWARQARALVAAIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0105_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.21199843287467957,
+    "ptm": 0.752036452293396,
+    "binder_id": "binder_0105",
+    "seq_idx": 0,
+    "seq": "AEARVERLCEELSRGIAKVAGREDCAPTLFRAIRAAFPAALAAVTAGKAGDRAAALKALATARGICLALMTEAGLDPELANEAAEACVGAALRAARLAHA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0105_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7098191976547241,
+    "ptm": 0.9108495712280273,
+    "binder_id": "binder_0105",
+    "seq_idx": 1,
+    "seq": "AEEETERLIESLARGIALLSGHPEIAPAIRNAIRACLPLALAAVQAGRAGDRAARAEHIAAALGVALATMRAAGLADADALETALAVTGAAKRAAKSRLD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0105_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.37721574306488037,
+    "ptm": 0.809456467628479,
+    "binder_id": "binder_0105",
+    "seq_idx": 2,
+    "seq": "AEEETKALIHQLALGIAQASGLPEAKPVIEEAIWEIFPYCLAAVRAGRAGDRAARLAALAEAAGVALAKFRAAGLTDAEALELAEAAVGAALKAARLYLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0105_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.263786256313324,
+    "ptm": 0.7827128171920776,
+    "binder_id": "binder_0105",
+    "seq_idx": 3,
+    "seq": "ARAEVDALLRARARGIAEISGFPEVADALYAAIAAAFPYALAAVEAGRAGDREAAQAWRAKAGGVALAQMRAAGLSDADALDAARAAVGAAEAGARLYLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0106_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.15415498614311218,
+    "ptm": 0.73643559217453,
+    "binder_id": "binder_0106",
+    "seq_idx": 0,
+    "seq": "MTPSPRAARAAAAEYAADREAAAAGIALGLANIARGLVAQGDTDRGARVLAEAGALEANAAANGAEAAAALAAAAEAVGSEGIRLLAELLKAAEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0106_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.24847453832626343,
+    "ptm": 0.7556166052818298,
+    "binder_id": "binder_0106",
+    "seq_idx": 1,
+    "seq": "TSPTPAAAAAQAAAYKEAPEDAAAGIAHGLINQARGAEARGDTTRGASIRAAAGAMAAAAATDPAAAADALAAAGIALGSAGVLQLAADLAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0106_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.22669033706188202,
+    "ptm": 0.7661198973655701,
+    "binder_id": "binder_0106",
+    "seq_idx": 2,
+    "seq": "ADPSARAAAAAVAEYELDPQAAAAGFAEYLRDRAFGLRRRGEEAKGDAVGAHAGQAQAAAGANAAYAAAALAAAARELGSAGVARAATLFAKAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0106_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.17184509336948395,
+    "ptm": 0.7505902647972107,
+    "binder_id": "binder_0106",
+    "seq_idx": 3,
+    "seq": "MTPSEDAAKAAAEEWAEDPAAAAAGIALYLADVGHGLEAQGDTTRGRRVLDAAGRMAAAAAADAAAAAAALQEAGRAVGSQGILRLARLLAATAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0107_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1667281687259674,
+    "ptm": 0.7542445659637451,
+    "binder_id": "binder_0107",
+    "seq_idx": 0,
+    "seq": "AAAAARRRSAAARSAVARAGREAALRAAAAGTREEAHAYAVAATQWGDTEGHDLAAIVCEAEPALAEEAAANWKAAAAAAAAAEAALARAAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0107_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.20662835240364075,
+    "ptm": 0.7687509655952454,
+    "binder_id": "binder_0107",
+    "seq_idx": 1,
+    "seq": "MEGLARASEALALAAEARANRAAARAEAAAGTPEVARLWAVQAWQWGLAYGSALSAIACLLDAASAEEARENVLQARRASEAAAAASAEAAAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0107_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7132556438446045,
+    "ptm": 0.906474769115448,
+    "binder_id": "binder_0107",
+    "seq_idx": 2,
+    "seq": "AKREALKAECRALAEEARAARAAARARAAAGDREVAHAWSVAADCWGSAAGAAHAAIKCLDEPKLWEKALQCLKAAKAARAAAEAAAARAAALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0107_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.43148109316825867,
+    "ptm": 0.8311325907707214,
+    "binder_id": "binder_0107",
+    "seq_idx": 3,
+    "seq": "KERAAAIAQATAAAAAAQAGKKTAKALAAAGTREVARLYAAAAEAWGNAEGAAMAAIAAWEDPKLKAAAKENAANAEAFAAAAKAAWAAAAAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0108_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.19184580445289612,
+    "ptm": 0.7656563520431519,
+    "binder_id": "binder_0108",
+    "seq_idx": 0,
+    "seq": "GAQRAAIAATTRAAMEAVAQVHPELAEAFTAMAASLQEAADRDAAKDAADSANRIASVAAKGCAACASVAKATAEAFADPAAAEKVEAERDRAVQAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0108_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.19788362085819244,
+    "ptm": 0.7501596212387085,
+    "binder_id": "binder_0108",
+    "seq_idx": 1,
+    "seq": "GEKRQEIAEAAEKAFEAAAKAYPELKDALLAVGASLKHAADADDQADTAQSADNLARVLAAGSPLAAEIAKATADAFRDPAALEKVKAMMKKAEELV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0108_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1639578938484192,
+    "ptm": 0.7512538433074951,
+    "binder_id": "binder_0108",
+    "seq_idx": 2,
+    "seq": "AAARKEIADITARGMAAEAENHPEKREAFLAAGASVVEAAAGDDAADTAKSCNRLADVLAKSCKDAAEILKAAGNAFADKSGIKKVQEAEEKAKAKV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0108_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1611786037683487,
+    "ptm": 0.7409025430679321,
+    "binder_id": "binder_0108",
+    "seq_idx": 3,
+    "seq": "KETRRRIAAIAQEAFEALAALHPELADAARSGAASIAEAADGDDRADTSRSAERLAEVFAKGCPLCAEVAKATAKAFADPAAIADVEEARDRAKEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0109_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.24701878428459167,
+    "ptm": 0.8248555064201355,
+    "binder_id": "binder_0109",
+    "seq_idx": 0,
+    "seq": "GMTQAEIEVLVGEGLDAAQAGDYATAADYFLAANELHARQEPSPSGAARTLAGGKELAAKLRARG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0109_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2177654206752777,
+    "ptm": 0.8212887644767761,
+    "binder_id": "binder_0109",
+    "seq_idx": 1,
+    "seq": "DETRREIENLVGEALEKALAGEFEEAAQNLLKANQLWAAAETTAAEGARIEAGGVQLAQKILERG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0109_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.1855728030204773,
+    "ptm": 0.8085324764251709,
+    "binder_id": "binder_0109",
+    "seq_idx": 2,
+    "seq": "MSTQATIDELCGAALQAAEAGNYDKAAALLNEATDLAAGGAATPQEATRQRAGGAALSAKVKARG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0109_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1968759447336197,
+    "ptm": 0.8078731298446655,
+    "binder_id": "binder_0109",
+    "seq_idx": 3,
+    "seq": "TDTLEKIEELVGRALERAEAGDYEAAARDLLEANELAAAAERTPAERERILAGGRRLAADLLARG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0110_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7586321234703064,
+    "ptm": 0.9177564978599548,
+    "binder_id": "binder_0110",
+    "seq_idx": 0,
+    "seq": "NQQISALLAQATKDYEKGKEEFERGKQLEGTSEAAAEYIESNGYSARSEDKAISAAQLAKKAGNQQARDAAEELGAKAWKLNRESEAAIAKRLAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0110_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.22873318195343018,
+    "ptm": 0.7508290410041809,
+    "binder_id": "binder_0110",
+    "seq_idx": 1,
+    "seq": "SAEINELFDRGRQHLQEGKQYLQQAKALEGTKEAVQLAVEAAAHFGAALDDFISAAMLARRAGDEDKRKAAEAGGGEAQQGLDEAQQLIASGLLN",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0110_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8422003388404846,
+    "ptm": 0.929827094078064,
+    "binder_id": "binder_0110",
+    "seq_idx": 2,
+    "seq": "AAQVAALLEQGKKYLEEGKKYLRKAEELKGTKEAGKYAVDAAAAAGRALHKFLSAAQLAAKAGDDAAKTQAEAGGAQAYKVLQEADKLIAEILEK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0110_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7853913307189941,
+    "ptm": 0.9247146844863892,
+    "binder_id": "binder_0110",
+    "seq_idx": 3,
+    "seq": "AEQVTALIQEGEKSLAQGKERLAEAEALRGSKAALKAAVQANAAFGAALRKYYSAAMLAKKAGDKEAQQKAEKLGAEARELQRRAEALIAAGLAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0111_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.20502570271492004,
+    "ptm": 0.7814616560935974,
+    "binder_id": "binder_0111",
+    "seq_idx": 0,
+    "seq": "AARVAGQARRHAAGCRRAIDYARVEAEALRANAAAATGALAFLRATDPAAAAALPADEIAAWAAEAEATANAIAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0111_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.16533255577087402,
+    "ptm": 0.7778863906860352,
+    "binder_id": "binder_0111",
+    "seq_idx": 1,
+    "seq": "AARIAGYARDNADGCKLCIKYITVETEAAESNAAACRGAIAELRATDPGLAAALDVAAIDAAADEASAAAAAVRKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0111_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.16601821780204773,
+    "ptm": 0.7772256731987,
+    "binder_id": "binder_0111",
+    "seq_idx": 2,
+    "seq": "AARIAGEALDEARGCRQCIKYIEEEWDAALDNAKACLGALAALKREDPALAAALPEEQIRKDAEEAKEAAERARKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0111_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.13021168112754822,
+    "ptm": 0.7547101378440857,
+    "binder_id": "binder_0111",
+    "seq_idx": 3,
+    "seq": "AARVAGMARRHAASCEEALKYIEVESEAAAEAAAACRGALAALRAEDAAAAAALDAAATAAAAAAAAAAAAAEAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0112_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.14417001605033875,
+    "ptm": 0.771234393119812,
+    "binder_id": "binder_0112",
+    "seq_idx": 0,
+    "seq": "GRAAGAANRALRTALGRAARAAIAAATTPAEAAAAAAALAGAYMATLGPDAGAAAAEAAASLMSPETAAAVQRAAAAAMRKLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0112_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1981911063194275,
+    "ptm": 0.7851382493972778,
+    "binder_id": "binder_0112",
+    "seq_idx": 1,
+    "seq": "SREAGAQRSAAAAAAGVNARAIIEAAADEAEAAARCGALAADRIKTNGRADGGMAAEAAASLMTPDAGARVMEEMAKLITASA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0112_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19780026376247406,
+    "ptm": 0.7746351361274719,
+    "binder_id": "binder_0112",
+    "seq_idx": 2,
+    "seq": "ARSQGAARRRLAAQAGAEAAATIAAAANAAAAAAGVAALARDRLLTIGRRAGALTAAAAASLMDTDAGAEVQAAEAKLVKEAD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0112_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.18665441870689392,
+    "ptm": 0.7773138284683228,
+    "binder_id": "binder_0112",
+    "seq_idx": 3,
+    "seq": "AREAGEAARALAAAAGREAAAAIAAAADPEAAAERCCALAARLHATLGAVAGSLAAQAAASLMDAATGARVQAADERLVRELE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0113_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.4698392152786255,
+    "ptm": 0.8516196012496948,
+    "binder_id": "binder_0113",
+    "seq_idx": 0,
+    "seq": "TLLVLAAALAFAAIVALGIIITAILGAIDAGMAEGVMEGAAGANGPCDAAGSAFHLFVTLITGNAVLGNAVGRGVKELCRALRRLAEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0113_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.23222270607948303,
+    "ptm": 0.7801527380943298,
+    "binder_id": "binder_0113",
+    "seq_idx": 1,
+    "seq": "SRLALLAKVAYLAAARLGRLLRDYLGKVDAGWAEAVADGDASRNGPCHGAGTAAALFVTRSTGDAALGGAVGRAVRAACLALRQLSSRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0113_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15123885869979858,
+    "ptm": 0.7528795599937439,
+    "binder_id": "binder_0113",
+    "seq_idx": 2,
+    "seq": "GRLAEMAALILRALIALGEVLRIELRRVDEGLGQAVLEGAQGYNGPCDATGTAFALWVRLSTGDSRLGDAVGRAVNTVCRALLALTEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0113_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.30526643991470337,
+    "ptm": 0.7996435165405273,
+    "binder_id": "binder_0113",
+    "seq_idx": 3,
+    "seq": "SNAAKAAEVTLNLLVIVGYLLAKWLEKIDPGLGAAVREGFQGKNGPCDGTGTAVMLYVTLVTGDAVLGGLVGKAVDAVCKALLKLAKKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0114_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1653728038072586,
+    "ptm": 0.7721234560012817,
+    "binder_id": "binder_0114",
+    "seq_idx": 0,
+    "seq": "AAAAYATIGALLKAAVDAAGKDAVEGAKLLEQAAALAAAAGLAWSGGGEILSGETIGRMLEAGQEDAAVADALRSAVAQIQALAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0114_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.23127824068069458,
+    "ptm": 0.7880644798278809,
+    "binder_id": "binder_0114",
+    "seq_idx": 1,
+    "seq": "DAAALAAIGRLLREAVEAAERDPIEGARLLVEAARLAADAGLPMTSGAGVAAGRAVGLMLKAAEKDPAAARALREAVAEMRRLGK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0114_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.21604301035404205,
+    "ptm": 0.7862257361412048,
+    "binder_id": "binder_0114",
+    "seq_idx": 2,
+    "seq": "SGAAAAAVGQLLADALAAAQADAITGAELLEAAARLAAAAGLPLTAGAGMLQGETFGLMLEAGLADRAAAEALRRAVQRIKELGK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0114_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1891825944185257,
+    "ptm": 0.7717233300209045,
+    "binder_id": "binder_0114",
+    "seq_idx": 3,
+    "seq": "AGPVYARVGALLDEALLAAKKDPITAAAVLTEAAELAAAAGLPMSGGAGAKAGAVMGEMLISAQADPTAAKQLRAAVERIRALGR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0115_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6436840295791626,
+    "ptm": 0.8994240164756775,
+    "binder_id": "binder_0115",
+    "seq_idx": 0,
+    "seq": "LEAALRAEAAAKIAAARAVGEATAATRAALGAAAAADPSRREEFRARAREADAAGALTSTRLDTAAGEALEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0115_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.19904883205890656,
+    "ptm": 0.7927317023277283,
+    "binder_id": "binder_0115",
+    "seq_idx": 1,
+    "seq": "RSEELLQLAREKIAQARAVGAAQQAVRARLGAAAAEDPEKAAEYRTAARRAEAAAASQSKQLDTLAGQALEEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0115_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7163594961166382,
+    "ptm": 0.9168726205825806,
+    "binder_id": "binder_0115",
+    "seq_idx": 2,
+    "seq": "KDEELLQAAKDAIEASKALGAAERAERTKLGAAAAERPELAAEYRQRAREARARAAAESTRYSEAAGEALELA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0115_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.588604748249054,
+    "ptm": 0.9001939296722412,
+    "binder_id": "binder_0115",
+    "seq_idx": 3,
+    "seq": "EKSALLSAAREAIAAARAVGAEERAERKRLGAMAAADPSRAAEYRAAARQAAAAASNRSTALDEEAGEALQAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0116_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.20007672905921936,
+    "ptm": 0.8145960569381714,
+    "binder_id": "binder_0116",
+    "seq_idx": 0,
+    "seq": "GAHDAVRAAVLLAAAEQGRGKARAERARALDPEAYARAEASVRAAPAAAAAMANRRLAQLQAAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0116_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.20274221897125244,
+    "ptm": 0.8072648644447327,
+    "binder_id": "binder_0116",
+    "seq_idx": 1,
+    "seq": "GAHDAMNAMRKYAMAKMGLGGERAVRSRENNPAAFAAAEAAAEAAPEQAKAIGERAAAQAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0116_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15190182626247406,
+    "ptm": 0.8065385818481445,
+    "binder_id": "binder_0116",
+    "seq_idx": 2,
+    "seq": "GAHEAVHALTALQAARLGVGEAEAEALRRRNPAAFEAAAAAAAGAPARAAALGERRVAQLAAAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0116_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22327783703804016,
+    "ptm": 0.8150752782821655,
+    "binder_id": "binder_0116",
+    "seq_idx": 3,
+    "seq": "GAHDAVAAAVAADAARLGAGEDEAAARRAANPAAYAAALAACEAGPAAAAAAGKRRLEQLALAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0117_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18698245286941528,
+    "ptm": 0.783583402633667,
+    "binder_id": "binder_0117",
+    "seq_idx": 0,
+    "seq": "DTAEATARQAREFTARGQAEVAAAAARFGPAAALATMRAHLSALTQDRHEAAKVGQCSAAAWQAAADALSTAGGDALEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0117_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.5723598003387451,
+    "ptm": 0.892989456653595,
+    "binder_id": "binder_0117",
+    "seq_idx": 1,
+    "seq": "ATAAEAAAAATAAREEAAAQCKAAAAKEGAAAALKTMLEKTKEAKARRAEAAKLGRAAAAAWEAAQEAISAAAGEAIAKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0117_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6820433139801025,
+    "ptm": 0.9090067744255066,
+    "binder_id": "binder_0117",
+    "seq_idx": 2,
+    "seq": "DAVAAGAKEAAKFAKEGVEACEKAAKTEGPAAALAKMRELTAQARAKRKEAAKRSPELAAAWEAASHQISDAAGEAIYKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0117_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1759711056947708,
+    "ptm": 0.7606566548347473,
+    "binder_id": "binder_0117",
+    "seq_idx": 3,
+    "seq": "ATVAARAAEARAFRDAASKEIADAAKTEGPAAALAVQREHLARLRAQQAEAAKISREAAAAWEAASGEVSQAAGEAMEAN",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0118_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.3103964924812317,
+    "ptm": 0.8053207397460938,
+    "binder_id": "binder_0118",
+    "seq_idx": 0,
+    "seq": "NPALAELEKALRAVAEELTPEARAAMEAAALACRAVAAAHADDPARAASGWRTVAGQAIAAVAAAEGEAGLAAALRIGRAVRQAVDLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0118_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2806612551212311,
+    "ptm": 0.7899064421653748,
+    "binder_id": "binder_0118",
+    "seq_idx": 1,
+    "seq": "SPWEAHLIAALKELAAKATPEAAKELDAAAEAIGAAVATAAADPALASSLVLEATGIAIVNVGEAEGEEGLKLAKEIGKATAAARRLMA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0118_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.865909993648529,
+    "ptm": 0.9427452087402344,
+    "binder_id": "binder_0118",
+    "seq_idx": 2,
+    "seq": "SVAVEKLERRLAEIGARCSPEAREALEAGARAVRAAAVRFREDPARASSMWNTVAGITIDEVAAAEGEAGLETAAAIGRAVQEAKALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0118_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7787368297576904,
+    "ptm": 0.9288779497146606,
+    "binder_id": "binder_0118",
+    "seq_idx": 3,
+    "seq": "MRATEELERGLRELAEKSSPEAAEALEAAAAGARAAATQYADNPGLAASVWDTIAGECIAKVCEAEGEEGLALAREIGDVMARAKRLLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0119_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.36167091131210327,
+    "ptm": 0.8182916641235352,
+    "binder_id": "binder_0119",
+    "seq_idx": 0,
+    "seq": "DPARGQAVSLLNEAAAALEAAKADKEAAQAIADALIARLRALADAVPALAGLCEQAAADLAAAKADAEAAIDTARAAAARLAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0119_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.19834008812904358,
+    "ptm": 0.7827162742614746,
+    "binder_id": "binder_0119",
+    "seq_idx": 1,
+    "seq": "DTAAGQALTAMQTAAAAIKEAAGDPAAAAATARALVDLLRAQAAASPALAGRLRAAAAAIEAAAGDPAAAAATTEAAAAALAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0119_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15350978076457977,
+    "ptm": 0.771237850189209,
+    "binder_id": "binder_0119",
+    "seq_idx": 2,
+    "seq": "DGVLGQSIARLRRAAEEIRRAMEDPARAREIVRELIAALRAAAAADPALKDKYDAAAERLEKAMEDANAARTACEDARKELEK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0119_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.24275697767734528,
+    "ptm": 0.7964687943458557,
+    "binder_id": "binder_0119",
+    "seq_idx": 3,
+    "seq": "DAAKGQAITTLTDAAAAIKQALADPSAAKAIVNALIDRLDTMAAAVPFLAPLLHEAATALKEALADPTAAADAAEAMAARLQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0120_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.40291690826416016,
+    "ptm": 0.822284996509552,
+    "binder_id": "binder_0120",
+    "seq_idx": 0,
+    "seq": "DPAARHLESGIAAARAYAAALRAAGHAAQAARCEQAQAACEELRARGASAAEAHAANVAAGDDGAQLMDEAGVAEETGLEAEWKAAQAAKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0120_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8192048072814941,
+    "ptm": 0.9378243684768677,
+    "binder_id": "binder_0120",
+    "seq_idx": 1,
+    "seq": "DWARHQLEAGIAYADSAEKALLEAGKEDEAARAREARARVEQYLAAGVDAATANAAGEAAGNDAAQWMEEAGIDEETGLAAEAEAWQAATA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0120_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6651334166526794,
+    "ptm": 0.9061247706413269,
+    "binder_id": "binder_0120",
+    "seq_idx": 2,
+    "seq": "TAAEQDLTSGIAYAREAAAALEAAGDSAAAAAAREARARAEAWRAEGVPAGEAHACAEGAGDNMAQLMDAAGVSEDAGLAAEAATWETAKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0120_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6291534304618835,
+    "ptm": 0.8542788624763489,
+    "binder_id": "binder_0120",
+    "seq_idx": 3,
+    "seq": "DYARHQLLCGMAAAATRQATLDDAGHADAAARAAAAGAAVAALAAAGVTPGESAAAGEGAGNDGAALMDEAGVSEDAGLAAEAATWKACRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0121_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7234269976615906,
+    "ptm": 0.9301337003707886,
+    "binder_id": "binder_0121",
+    "seq_idx": 0,
+    "seq": "DRRAFAAEKAARMLENARKMAEYIKTLSPEDAQKARDEEVQGLDIEQATYEAGFRDDPEAAALVRKATEEAKRILNEAAEAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0121_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8084426522254944,
+    "ptm": 0.9438259601593018,
+    "binder_id": "binder_0121",
+    "seq_idx": 1,
+    "seq": "ERLAFAAAKAAKMLANTKKAAAYLKTLSPEDAKAAAEEEIQGLKEDALNLEQGFRDDPSAAQLVREATAQGIAILNAAVEAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0121_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6440934538841248,
+    "ptm": 0.9054742455482483,
+    "binder_id": "binder_0121",
+    "seq_idx": 2,
+    "seq": "SMRPWAERRAQQLLANAKKAAAYMATLSPEDAKAAAAEEIQGIGAEAYTLSQGAQGDPVAKDIVDSAAADAIALLKAAAEAI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0121_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7858290672302246,
+    "ptm": 0.9355002641677856,
+    "binder_id": "binder_0121",
+    "seq_idx": 3,
+    "seq": "SMLEFAQEKSKHLLENAKKEAAFISSLSKEDAKEAAKEEIEGVKIHENTLTKGFAGDASAAALMKAAADEAIKILKDAADKQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0122_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.42407843470573425,
+    "ptm": 0.8311907052993774,
+    "binder_id": "binder_0122",
+    "seq_idx": 0,
+    "seq": "AFAERAGEGVLKASRLGPEACIETVEGLLRDIAARARASGDADAAAAAVRAILEAASENPACLRAAVEAADGMADGLDPEGAALLRAAVDDVTKQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0122_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7803033590316772,
+    "ptm": 0.9211196303367615,
+    "binder_id": "binder_0122",
+    "seq_idx": 1,
+    "seq": "ASAEAAGRGVAKAARLGAEACRETVAADIIDAAFKAQASGDAEAAARTVKAILEAAALNPDCLRAAVEAARGAAQGLAPEGAALLRAAAEAVVAES",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0122_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8035891056060791,
+    "ptm": 0.9305965304374695,
+    "binder_id": "binder_0122",
+    "seq_idx": 2,
+    "seq": "SRAAAAGDGVKKATALGPEAAIETIAGMVIDTAHRAKASGDAAAAAAEVAAILEAAAADPEALEAGEAAARGMAAGLSPAAAALILAAVAAVRAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0122_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.27163103222846985,
+    "ptm": 0.7834410667419434,
+    "binder_id": "binder_0122",
+    "seq_idx": 3,
+    "seq": "SDAEAAGVGMEKATKLGVDAARKTAGEMILDVASHTKATGMCNSGATAVRAILTAAAASPAALDAAVAEAWGAAEGLTRNCARIVKETAEEVRKEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0123_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7449049949645996,
+    "ptm": 0.9329187870025635,
+    "binder_id": "binder_0123",
+    "seq_idx": 0,
+    "seq": "ASLADAAGEQAVRAAAEDLANWPEAERYLALATELARQAGTEAKAARLRTGFELQREVLRL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0123_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.6754095554351807,
+    "ptm": 0.9101989269256592,
+    "binder_id": "binder_0123",
+    "seq_idx": 1,
+    "seq": "GSVALAAGEAASEAYGKDLANKDSAQAYLDLAEAAADAAGTTELADRLRAGFELEKKVLKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0123_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6803408265113831,
+    "ptm": 0.8940954208374023,
+    "binder_id": "binder_0123",
+    "seq_idx": 2,
+    "seq": "ASQAAMAYDQADRAYAEDLTNQELAERYLALGLECAEAAGTAAGAQRGLAGFELQKKVLEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0123_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2326098382472992,
+    "ptm": 0.8275123238563538,
+    "binder_id": "binder_0123",
+    "seq_idx": 3,
+    "seq": "GSIAADAFEQASAAYAADPANRELAEAYLRKGREAAAAEGTESQAEAGEAGFELEVKALAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0124_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.15806837379932404,
+    "ptm": 0.7747232913970947,
+    "binder_id": "binder_0124",
+    "seq_idx": 0,
+    "seq": "DQEAKDAVLAACTAVAKQMEAAGAAGTPEAAALAASGASSAREEAADAAKGDAQAAAENRRDLEESFARLTKLIAKVLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0124_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3628748059272766,
+    "ptm": 0.7834556102752686,
+    "binder_id": "binder_0124",
+    "seq_idx": 1,
+    "seq": "DAALKAAVQREARARREEFDKIGAAGNPEAAAAANSGAASAAQDAADASAGDAAAAAAQQRRLDASDRRIKALIAKIEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0124_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.17063002288341522,
+    "ptm": 0.7775599360466003,
+    "binder_id": "binder_0124",
+    "seq_idx": 2,
+    "seq": "AAAAADAVQAQATAVAADFTKRGAAGNPEAAAMADAGAASAQEAAGNARAGDEAAAAAQQARLTASADRLAQLIDTIEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0124_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15122340619564056,
+    "ptm": 0.7741187810897827,
+    "binder_id": "binder_0124",
+    "seq_idx": 3,
+    "seq": "AQAAVEAVLAQATAVAKYFKKLGAKGNPEAAAAAEAGAASARAKAGNAAAGDATAAEAQRAKLETAAAALDELIKRIEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0125_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18526078760623932,
+    "ptm": 0.7821986079216003,
+    "binder_id": "binder_0125",
+    "seq_idx": 0,
+    "seq": "GARRDLRGAERLSEGVVALGERVGTEAEARARADALRAQMMAGDASTREECMGELLELRTALADREAAAAAAQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0125_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.38153377175331116,
+    "ptm": 0.8312426209449768,
+    "binder_id": "binder_0125",
+    "seq_idx": 1,
+    "seq": "CPKGIRRSLDKLGAQVVAEGAKNGTEAQAAAQVAALTQAALAADAAGRDEYMGQLLNLLEALTAQREKMEAER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0125_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.33308154344558716,
+    "ptm": 0.8297773599624634,
+    "binder_id": "binder_0125",
+    "seq_idx": 2,
+    "seq": "GDKCLQRGMEKLSAEVVAVAEKVGTAAEAKAKAGELTEKARAADSEGQEEVLAQLEDLLADLTKELAAQEAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0125_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1974615901708603,
+    "ptm": 0.7855854034423828,
+    "binder_id": "binder_0125",
+    "seq_idx": 3,
+    "seq": "DPAGLRKGLEKLSAEAVAKGKELGTEKEAEAKMDALYKAALAADAAGQEAVVGEMLDYLAELTEAVKRAALEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0126_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2888658940792084,
+    "ptm": 0.8256019949913025,
+    "binder_id": "binder_0126",
+    "seq_idx": 0,
+    "seq": "TEAAGEYEERMTEAADEGNAEKARELGEEGVRAMKLMGRLTGSTNDCENDAVALERLTALKVKEVEEKKL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0126_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3626480996608734,
+    "ptm": 0.8411605358123779,
+    "binder_id": "binder_0126",
+    "seq_idx": 1,
+    "seq": "PGAAGVYLEKAVEAAEAGDKERTKAIIDAGVAAMKAFGKATGATATADAAAKALKERGATLVAKIEKAEA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0126_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.36424946784973145,
+    "ptm": 0.8439843654632568,
+    "binder_id": "binder_0126",
+    "seq_idx": 2,
+    "seq": "SGAAGYYEEQAREAAEAGKADEAKKLTADGQEAMATLGEKTGTKAAAAKDAAALKAMGDMLVKAVAAAKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0126_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.2571675777435303,
+    "ptm": 0.8152351975440979,
+    "binder_id": "binder_0126",
+    "seq_idx": 3,
+    "seq": "SGAAGEYEEKMTEAAEAGDAEKAREYGKEGVEAMKTLGQATGTTAEATAGAEALKTRTELLVKKVELEKA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0127_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8903480768203735,
+    "ptm": 0.9431751370429993,
+    "binder_id": "binder_0127",
+    "seq_idx": 0,
+    "seq": "EKKEELEAARAAAVAAQKAAEAAAKAAAEAAAAAKAAGDEKAAGYWQSVAKYAKGLATGAAATAKVLEAEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0127_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7681214809417725,
+    "ptm": 0.9260661602020264,
+    "binder_id": "binder_0127",
+    "seq_idx": 1,
+    "seq": "AEAAELAAMAAEQKAAAKAAEAAAAAARALADAAKAAGDTRAYGRYLSLARFHEGEAAGARAAAKVLEAEL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0127_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.29527440667152405,
+    "ptm": 0.8144114017486572,
+    "binder_id": "binder_0127",
+    "seq_idx": 2,
+    "seq": "KSLLELQKDAEYERAAAAAAQAAQAAAKAAADAAAAAGDARLAGLYAALARSAAGAAAGATASAKVLEAEI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0127_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8008731603622437,
+    "ptm": 0.9332830905914307,
+    "binder_id": "binder_0127",
+    "seq_idx": 3,
+    "seq": "ARKAELEEKLAEEEAEAAKAKAAAAAAAAAAAAAAAAGDAKAAGLWTSVAHEAQGAAKGAELAAAVLRAEI",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0128_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.17904703319072723,
+    "ptm": 0.7857669591903687,
+    "binder_id": "binder_0128",
+    "seq_idx": 0,
+    "seq": "DATERARALAIDVKAAAAGSLAEAIAYLSDEAVDLGGKAAGAGTGDEVRAALAAALAGAIADGEAGLRAAAALAGQWMRELL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0128_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.19679954648017883,
+    "ptm": 0.7969145178794861,
+    "binder_id": "binder_0128",
+    "seq_idx": 1,
+    "seq": "SAERRARALQLDVRAASEGSFAEALDALSDECVDLIGRARGAGTGEAVEAALTAACARAAADGEAGAEEAARLAADWLRTLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0128_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6750208735466003,
+    "ptm": 0.9032246470451355,
+    "binder_id": "binder_0128",
+    "seq_idx": 2,
+    "seq": "SAARRAAALRADVRAAAAGDRTEALDALSCQAVQLIGRARGAGDGEAVEAELSAALARAEADGEAGIEAAASLCAEWLRALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0128_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1807727962732315,
+    "ptm": 0.7807475924491882,
+    "binder_id": "binder_0128",
+    "seq_idx": 3,
+    "seq": "NAARRGAALILDIDAAAQGNLEEALASLTEAAVEVIGRARGAGTGAEVGAELNALCAEAAADGRAGLQRAAEAIAQWMARLD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0129_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1901170164346695,
+    "ptm": 0.7770994901657104,
+    "binder_id": "binder_0129",
+    "seq_idx": 0,
+    "seq": "MEKKAAEEAAGAAAADAAVARAKAALKAHREQADGALCDAIAEAAAQECEEALAAESDVTVSLAVLRASRAVKAHADALLAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0129_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1305599808692932,
+    "ptm": 0.7641748189926147,
+    "binder_id": "binder_0129",
+    "seq_idx": 1,
+    "seq": "AEALEAELRRGREAARESVDTAAKTLEALRSEANGALCDAITEAAAEMCGVRLSECSDLVVSLAVSESSKEVKSLADKMLME",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0129_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.31002581119537354,
+    "ptm": 0.8145362734794617,
+    "binder_id": "binder_0129",
+    "seq_idx": 2,
+    "seq": "MKRLMECMKKGEEAAKKAVARAENALDAQRDELTGALGDAIVGAAAQECSELLKECPGTVVTVATSEASRNIRARVRAFRQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0129_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5389716625213623,
+    "ptm": 0.8746277093887329,
+    "binder_id": "binder_0129",
+    "seq_idx": 3,
+    "seq": "DLMLAAELAQGRAAAEAAYERARAALDRHAAAADGAMWDALAHAAAEECAAALAGASDLVVTLAEADCSRAVRAWADERRAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0130_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7618056535720825,
+    "ptm": 0.9329855442047119,
+    "binder_id": "binder_0130",
+    "seq_idx": 0,
+    "seq": "DEASAQQAELAALKDLLERKATEERELAKASGAAMRTDPAAAAEAGAKRAAAGSEQSQVDAQIIALVAER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0130_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1722419559955597,
+    "ptm": 0.7923197746276855,
+    "binder_id": "binder_0130",
+    "seq_idx": 1,
+    "seq": "SQRRREEEELRRLAEELRAAAARARALAAAAGAAERADAAAAAAYAAAREAANRAADAAEARMVALMDER",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0130_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.6606861352920532,
+    "ptm": 0.911009669303894,
+    "binder_id": "binder_0130",
+    "seq_idx": 2,
+    "seq": "SELERAKAELAALREKLKAAAAESRQLRKESGAALRQNKATANELGAKAGAAIDKAEEIDARIVALMDAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0130_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7656848430633545,
+    "ptm": 0.9373074769973755,
+    "binder_id": "binder_0130",
+    "seq_idx": 3,
+    "seq": "AAEAARAARLAELKTQLDRAAAESAELERAAGAALRRDKAEAFRLAAQAYQAANAQDAAEAEAIALMDAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0131_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1599780172109604,
+    "ptm": 0.739614725112915,
+    "binder_id": "binder_0131",
+    "seq_idx": 0,
+    "seq": "STAVHIAEANAAMQKILDVATKFAAGSKSAEKQTADIVEGAKAGWEAGLGAAERAITETVEENPALAEAGRKALAEMGALSKKLDAAIAAAAHAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0131_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1911487579345703,
+    "ptm": 0.7467015385627747,
+    "binder_id": "binder_0131",
+    "seq_idx": 1,
+    "seq": "DAATWAAAANAAAAAALAATAEFAAKCEKGDAYIAEVKEGQAKGIEEGFGAAEYAILECSQEKPELAPEGEATRATLGALSRALDAALTAAARARAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0131_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5602485537528992,
+    "ptm": 0.8718755841255188,
+    "binder_id": "binder_0131",
+    "seq_idx": 2,
+    "seq": "AAQAHIDAANAAAAAILATTSAFAAKCANGAAYIAAANAGYAKGPWDGLGACEEALLRCGEERPDLAPEGRAARGEIGALSRQLNRHIAQAARAEAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0131_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.21410764753818512,
+    "ptm": 0.7516887187957764,
+    "binder_id": "binder_0131",
+    "seq_idx": 3,
+    "seq": "DAAAWAAAALEAMAAIADVTAEFAAKSAEGSKLTAEVAAGGSLGYDEGLGAAELALLKTCEEKPELAELGEAARARIGELSAAMNAYIARAEAARAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0132_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1835361123085022,
+    "ptm": 0.809031069278717,
+    "binder_id": "binder_0132",
+    "seq_idx": 0,
+    "seq": "AEAVARAGVAEDALDVLRAKERAAAIAAATGEEGAKEGAALVADAEARAQEARAGEEKLRLVV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0132_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1902683973312378,
+    "ptm": 0.795302152633667,
+    "binder_id": "binder_0132",
+    "seq_idx": 1,
+    "seq": "AAAVEEAGRAAAALRVRAAEQRARAIEAADGEAGARRGKALQERAREAALRAAEMNEKLRLVV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0132_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3402619957923889,
+    "ptm": 0.8543084263801575,
+    "binder_id": "binder_0132",
+    "seq_idx": 2,
+    "seq": "SDSVLLAGYAENGLRVLAAEARAAALAAADGAAGAERGAALVAAARQAAADAKQKMDQLELVV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0132_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.6149623394012451,
+    "ptm": 0.9083850383758545,
+    "binder_id": "binder_0132",
+    "seq_idx": 3,
+    "seq": "GQAVRDAGAAENALDVAAAKQRGAATAAADGDAGKAQAQAIDAAAQARAAKAAEGNAILERVV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0133_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1961510330438614,
+    "ptm": 0.7691963911056519,
+    "binder_id": "binder_0133",
+    "seq_idx": 0,
+    "seq": "SDSSAEAAARNLVKEAKYGVEGLEESASEGVADALADGEARARTEIRALELAAETLEKDDELKEGAKAARERAARGRAALAARQAARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0133_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3929261267185211,
+    "ptm": 0.8010441660881042,
+    "binder_id": "binder_0133",
+    "seq_idx": 1,
+    "seq": "GQARARAAARNLVREGRVSPEGLRESAAAGVAEAAANGAANLEDEINALELAAAELAADPALAPAAAEAAAEAARARAVLDALRAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0133_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7909769415855408,
+    "ptm": 0.9251457452774048,
+    "binder_id": "binder_0133",
+    "seq_idx": 2,
+    "seq": "DDEAAEQAAKNLLKAGKVSVEGLTEAAAEDAAVNLGDGLDRAETMLKALELAAEAAAKDKTLAKAAEALKEQAKKLREAIAARKAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0133_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.164585679769516,
+    "ptm": 0.7415139675140381,
+    "binder_id": "binder_0133",
+    "seq_idx": 3,
+    "seq": "AEARARRAAANYVREGRVGTEGGRESAEHGAAEAAADGVENAEVKIRSLAIAAAEAAADAALAPAAEALRAAQRRAEAALAAVRAALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0134_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.7372256517410278,
+    "ptm": 0.9128313064575195,
+    "binder_id": "binder_0134",
+    "seq_idx": 0,
+    "seq": "SARAEELGRAAGRARTAAIAACDAGDIDAAIAALAEAAEYCRAAGAEDPANGGTFDDHAAGCEATAALLKKMAPTPQEALAFAADTMRLM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0134_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.5484080910682678,
+    "ptm": 0.8661966323852539,
+    "binder_id": "binder_0134",
+    "seq_idx": 1,
+    "seq": "AEDGARLGAQLGESNAAAINAAKQGDIDTIISELEKAAAYAQEAAAVDDEYGGYFNSLAASYNKTAEVLRNMKEDAKEAAAMAAGTVEDM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0134_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3674422800540924,
+    "ptm": 0.8107001185417175,
+    "binder_id": "binder_0134",
+    "seq_idx": 2,
+    "seq": "SATYAALGAQAGTENKAAQEAGKAGDLDATIAALKKAAEAYKAAAAADPAHGGTFASMAAGYDAMAAWLEAMKDEPEAACAAAHDGIARM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0134_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.44557175040245056,
+    "ptm": 0.841032862663269,
+    "binder_id": "binder_0134",
+    "seq_idx": 3,
+    "seq": "SKAFAQAGAEAGAHRTAAIQAAEAGDLEACIEHLKAAARALEEAAAIDPARGGYYHRLAAGCREIAAQLEKMRAEPKEACAFAADTLNIM",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0135_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.8383272290229797,
+    "ptm": 0.9350684285163879,
+    "binder_id": "binder_0135",
+    "seq_idx": 0,
+    "seq": "DALKAALLARATVLMQQAEEVAQQLLALGAEHPELAEGCYTTAADIATAVAGAQKAADAGQYSTALAAAEHALKKAEAGLYGARLQIRVIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0135_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.8864730000495911,
+    "ptm": 0.942473292350769,
+    "binder_id": "binder_0135",
+    "seq_idx": 1,
+    "seq": "AQAAAAAVAEARALQARAAAVADQLLAMGREYPELAIGAQTTVADVQTAVAGASAAAAAGDTATALAAARRALDHAERGLAGFAIEKKVIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0135_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7216174602508545,
+    "ptm": 0.9183557629585266,
+    "binder_id": "binder_0135",
+    "seq_idx": 2,
+    "seq": "SEAQDDLLRRAEELRERARRLAEELLEIGKEHPALRRGAEESCADIQTAIEGSRALAAAGRYEDALAAAEYALERAERALKGFKKEIEVVK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0135_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8157548308372498,
+    "ptm": 0.9325655102729797,
+    "binder_id": "binder_0135",
+    "seq_idx": 3,
+    "seq": "AQAAAATRAAADAANREATEYAAKLRALGKEHPELAVGAEETGAQVQTAIAGSNAQLAAGNADAALAAAQHALEVARKALEGFEKQIKVVN",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0136_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.22685091197490692,
+    "ptm": 0.7628828883171082,
+    "binder_id": "binder_0136",
+    "seq_idx": 0,
+    "seq": "ATAEALQQQANELAAQAANELKTGAKEAARIAGDEAEGAEVLAQAATLGIALSEAVGRIVERHPAGAEAAKAAAKYMRKADRLLSQAVRARNLAT",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0136_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.19686658680438995,
+    "ptm": 0.7548919916152954,
+    "binder_id": "binder_0136",
+    "seq_idx": 1,
+    "seq": "PEADALREEARRYAAAARASLEEGAREMARIVGDEALGEEVLEQAAYLPLSLADAVGEAADRREEAGKGIAVASHHQRQSERLLGRSTFLLNQAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0136_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.18395563960075378,
+    "ptm": 0.7444403767585754,
+    "binder_id": "binder_0136",
+    "seq_idx": 2,
+    "seq": "SEAASLRASADALAAEARDAYLKGAEEAAKITGLEALGAKVKAAAATIPRALGDAVGEALDERPEGRKAAEAAAELEARANSLLGKAVAARAAAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0136_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.15005911886692047,
+    "ptm": 0.7413161396980286,
+    "binder_id": "binder_0136",
+    "seq_idx": 3,
+    "seq": "TTAAELEARAGELAARSAEALREGAAAAGEIAGDEAAAAQVREHAETLPIALAAAIGRIADERPEAAEAAAVAAELEAKADKLRSAAVRALAQAR",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0137_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.20876958966255188,
+    "ptm": 0.7680704593658447,
+    "binder_id": "binder_0137",
+    "seq_idx": 0,
+    "seq": "MADRTAKAAAYYAATAEQGVEKNKKDVKVFPEADFGIESIGDAADGARGNADAYAAAYEKAGFTATAARVKTGGAAFRDAHAARLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0137_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2386876791715622,
+    "ptm": 0.7587443590164185,
+    "binder_id": "binder_0137",
+    "seq_idx": 1,
+    "seq": "AAARRAAAGKYVTANAAQGVAKNAKDVRVFPDADFVDTASGGLANAARGNAAAYAAALKAAGFTAAAEKVAAGGAAAAAAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0137_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15861567854881287,
+    "ptm": 0.7502742409706116,
+    "binder_id": "binder_0137",
+    "seq_idx": 2,
+    "seq": "AAERAAAHAAKVAAKAAEGVELDAKDVQVFPEADPVDNAGGGAAEGALGDADALAAEYRKAGFDAAAERTRAGGAAAAAARAARLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0137_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.19214674830436707,
+    "ptm": 0.7655524611473083,
+    "binder_id": "binder_0137",
+    "seq_idx": 3,
+    "seq": "ALQRRTAAGAYWRANAQKGVDLNKKDVQVNPEADFFDASIGGAIAGAKGDAAAYAAALEAAGYTDAAAAVKAGGDAFAAAMAAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0138_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.5524321794509888,
+    "ptm": 0.8805941343307495,
+    "binder_id": "binder_0138",
+    "seq_idx": 0,
+    "seq": "SADDKAAIDAKLGALLKEAREFLLEAEKQAKVDAKKAKEYLKKAEDKATEAVKIAPEVSPAGRHAARAALKICALAKNAKVPEDAAVICALGVS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0138_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.1617966592311859,
+    "ptm": 0.754173755645752,
+    "binder_id": "binder_0138",
+    "seq_idx": 1,
+    "seq": "SRAARDAVDAEVGALIAEAKTACRRAAVMADLNAQEAEAALREAEAKAKEALELAPRASPAAREAAKAMLATCQLARQASTPEDAAQILKIGVS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0138_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8476191163063049,
+    "ptm": 0.9398521780967712,
+    "binder_id": "binder_0138",
+    "seq_idx": 2,
+    "seq": "TAAEQDAVNAQVGALIDAALAAMNKAAELAARDPAAAQAELDRARALAEEAVALAPQASPAARARARGVLKTCELAARAATPADAATILRLGVE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0138_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.22051791846752167,
+    "ptm": 0.77218097448349,
+    "binder_id": "binder_0138",
+    "seq_idx": 3,
+    "seq": "SAAEQEAINAEVGQLIQQARDFARQAAALAAKDAAAAAAARQQAAALAAQAAALAPRASPALRENAAGLLATMRQAAAAATPADAATVLRLGIE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0139_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.31369978189468384,
+    "ptm": 0.8288753628730774,
+    "binder_id": "binder_0139",
+    "seq_idx": 0,
+    "seq": "PTPDVVAAAGRVGQLAKQAAAAMEKEGPEILETAGGFIGRALTNSAKAAEYLARAMQFAEEKLSKAQAEAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0139_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.11297418922185898,
+    "ptm": 0.7673006057739258,
+    "binder_id": "binder_0139",
+    "seq_idx": 1,
+    "seq": "AAPETIAAAARVGALADEAAAALLEEGEGVRRMASGLIDTAIDVAAEAARLLAAAEASARAALAAAKAARE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0139_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19512653350830078,
+    "ptm": 0.8025604486465454,
+    "binder_id": "binder_0139",
+    "seq_idx": 2,
+    "seq": "FPRRVQDLAAEVGDLAREAAAALDEEGPEVLARGRGMMEDAIDNAARADEYLAAARAHAQAVLAAARKARA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0139_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.5541369915008545,
+    "ptm": 0.8335008025169373,
+    "binder_id": "binder_0139",
+    "seq_idx": 3,
+    "seq": "PDEAVLEACNRVGALADEAASLLKERGPQLRADAQGMMERALTNRARAADYLAKAESTVTAVRQEAQAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0140_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.30837076902389526,
+    "ptm": 0.8267523646354675,
+    "binder_id": "binder_0140",
+    "seq_idx": 0,
+    "seq": "TTQDRIAAAGAEITAKRDAVAAKAKAQDPKMADAAGEAAAADAEAAIKAAEAAAKAAEAERRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0140_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.18894881010055542,
+    "ptm": 0.7981756925582886,
+    "binder_id": "binder_0140",
+    "seq_idx": 1,
+    "seq": "SPEARIAQARTDLADRAAAMSSAAAALDPATASAAAEAAAQQRESDCEQAEERILAEAQERAS",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0140_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7391460537910461,
+    "ptm": 0.915193498134613,
+    "binder_id": "binder_0140",
+    "seq_idx": 2,
+    "seq": "SAEAEIAAATKAIDDEAKAKIADAAKKDPKTASAAAHAAAEQADSDKDAAEAAIKQAAELAAK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0140_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.29419296979904175,
+    "ptm": 0.8238711953163147,
+    "binder_id": "binder_0140",
+    "seq_idx": 3,
+    "seq": "TAEAKIEEAKASIQEKRDAVVAAAAAGAAADADAAASAAAQMAEEEARAAEEKILESEREKLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0141_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.4431181252002716,
+    "ptm": 0.8335413932800293,
+    "binder_id": "binder_0141",
+    "seq_idx": 0,
+    "seq": "SAVDAAQQAAARARAAIADTKAFADQAAKLGIVPQLAADARAAADAAAAAADAALAAAQADPATAKEAARVADAARNAAGAAKSKLLAAVVDAKG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0141_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.23873981833457947,
+    "ptm": 0.7637478709220886,
+    "binder_id": "binder_0141",
+    "seq_idx": 1,
+    "seq": "AALAAAEASYDRAAAALAAARALAAQAAAEGIVPDLAAAAQANCQTAAAAAADAMAAARADPAKARDAALTADAARSAAGDAAAAVLAAIIDRLG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0141_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.29493141174316406,
+    "ptm": 0.7850705981254578,
+    "binder_id": "binder_0141",
+    "seq_idx": 2,
+    "seq": "DRLAAARAAYDRARAAIDRAIELARGAEKMGIAPELARAARERCERARRAADAAWEAAQADPAQAPAAAATCDAAHDAAGAAEALVLSSVIAKLG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0141_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.19432426989078522,
+    "ptm": 0.7505729794502258,
+    "binder_id": "binder_0141",
+    "seq_idx": 3,
+    "seq": "AKLAAAENAYQAAKEWINKTIDFAKQAEDQGIVPELAKKSKQQCETAYKAADAAIAAAKADPALAPEAAATCDAAKHIAGTKYAEVLAAVVKALG",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0142_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.22803625464439392,
+    "ptm": 0.8082704544067383,
+    "binder_id": "binder_0142",
+    "seq_idx": 0,
+    "seq": "AAARAKVAAAAAEAGAVIGAYAAATGAASGTAAAIKTFEADGTPEAALKASAAEGVAAADAAAALARARAERRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0142_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17689906060695648,
+    "ptm": 0.7988235950469971,
+    "binder_id": "binder_0142",
+    "seq_idx": 1,
+    "seq": "AKARSLKARAAALAAEAIAAAAAAHGPAAGAKATVEAFNADPSPLAALLASAAEGVLGENAQKALRDAREAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0142_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7375594973564148,
+    "ptm": 0.9254907965660095,
+    "binder_id": "binder_0142",
+    "seq_idx": 2,
+    "seq": "MKSRQLIAEARERAAADIDAAAAATGGAAGAAKTIDEYNKDDTALGALLASAAEGVVAERAQAEAVAARAARAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0142_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.19595186412334442,
+    "ptm": 0.7934319972991943,
+    "binder_id": "binder_0142",
+    "seq_idx": 3,
+    "seq": "DKNEALVRAAAAEAAATIAAEAAATGAAAGAARAIAKFDADDSTEGALKASAAEGVVAEQAQRAAAAARAARRA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0143_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.2569553256034851,
+    "ptm": 0.8118952512741089,
+    "binder_id": "binder_0143",
+    "seq_idx": 0,
+    "seq": "EVDRARRLSAEGVAKTEEAAKQGVTACLAAGGAAIGALEHAAFQSTSDEAKAVLGDGAAKVREIAAKAFA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0143_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.2794288992881775,
+    "ptm": 0.8225656747817993,
+    "binder_id": "binder_0143",
+    "seq_idx": 1,
+    "seq": "EEETAKELARKGIADTKAAAKKGVTACLGAAGKAVGDLEKFAVASTSNEAKKIAGEGISEIKKIADEAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0143_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.5905178189277649,
+    "ptm": 0.8937861919403076,
+    "binder_id": "binder_0143",
+    "seq_idx": 2,
+    "seq": "ELAEGRELAAAGVAEARAAAKEGVVAAAGAAGRAQGLLEKAGFRSTSDETKRVLGEGIAEVGAIADAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0143_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8427870273590088,
+    "ptm": 0.941547155380249,
+    "binder_id": "binder_0143",
+    "seq_idx": 3,
+    "seq": "EVAAAKALGEAGKAATQAAAKKGVVAAQGAGDAARGKLFNAAVKSDSDEAKRVLGAATAEVNSIVESAQA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0144_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.1921842247247696,
+    "ptm": 0.8095863461494446,
+    "binder_id": "binder_0144",
+    "seq_idx": 0,
+    "seq": "SARGEEARARDRARGEAARAAAAAARAAAAADAAVGAALAAAARAYGAAADAASAAEDAELMEQVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0144_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.3031705617904663,
+    "ptm": 0.8479313850402832,
+    "binder_id": "binder_0144",
+    "seq_idx": 1,
+    "seq": "AAAGSALRAAAKAAGAAARALGAAARAALAQDAATGAALRAAATAAEAAAEKQSAAADASLMDAVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0144_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.3112703859806061,
+    "ptm": 0.8426104187965393,
+    "binder_id": "binder_0144",
+    "seq_idx": 2,
+    "seq": "SKEAEAFFAKARAAGAACRAMGAAARQIRAADPAAGAAAAKAAAAACAAAGAASAAADERLMERVD",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0144_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7088949680328369,
+    "ptm": 0.9329442977905273,
+    "binder_id": "binder_0144",
+    "seq_idx": 3,
+    "seq": "GAAGEAFRAAAAAAGAAARAAMAEARAALERDPAAGREARAAAVRDRLAREAASAAADAELLAKVE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0145_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.20251981914043427,
+    "ptm": 0.8032739162445068,
+    "binder_id": "binder_0145",
+    "seq_idx": 0,
+    "seq": "AGQAIYEAHLQATIDGAKALSSDKEGAKETADATATACGAELVALGLSADEALAAAKDIKDAGAASIK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0145_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.29662981629371643,
+    "ptm": 0.8293457627296448,
+    "binder_id": "binder_0145",
+    "seq_idx": 1,
+    "seq": "AADLNFRRGLEATIRAARALQANPAGAEETARSTAAEVAAEMVALGAPLADAAAAAAEVLDAGAREIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0145_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.18936622142791748,
+    "ptm": 0.8038609027862549,
+    "binder_id": "binder_0145",
+    "seq_idx": 2,
+    "seq": "AAEALAARHLAATIAAARALKGDKPGAKETAESSATECMAELVALGEDPDTALAAATEILDAGAAEIA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0145_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.21509528160095215,
+    "ptm": 0.8069053292274475,
+    "binder_id": "binder_0145",
+    "seq_idx": 3,
+    "seq": "AADTVATAALTAAINAAKAMASNKEGARETADSEATAVGASLVALGVAPERALAAADEIRKAGEEELK",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0146_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.22566600143909454,
+    "ptm": 0.792522132396698,
+    "binder_id": "binder_0146",
+    "seq_idx": 0,
+    "seq": "MAEAEARVKGIIEAAKEASPAAAAALAALAERTELDDDDATGLEQEVARIMAGGWSDAEATAAIANTGKDIDLARLV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0146_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.26265403628349304,
+    "ptm": 0.8038331270217896,
+    "binder_id": "binder_0146",
+    "seq_idx": 1,
+    "seq": "GAAARQEAAGIVAAAEEHSSRAAARLRELAERYPLDPDDVESLSGEVVQILRAGWDEDSALASIERTEKDIIVARLV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0146_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.31447020173072815,
+    "ptm": 0.8228795528411865,
+    "binder_id": "binder_0146",
+    "seq_idx": 2,
+    "seq": "SSAAEATVRGIIAAAAEHSPRAAEVMREIAENISINVDAARALAGEAAAIISAGKSPEEAEKAILETAKDIQLSQLL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0146_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.47677892446517944,
+    "ptm": 0.8602689504623413,
+    "binder_id": "binder_0146",
+    "seq_idx": 3,
+    "seq": "GTETKERVEGTIAAAKSVSPEAARIIAETAERYAMDADDAESLDGTVASILAAGKSPEEARKAVEKTALDIQLSALV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0147_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.6302816271781921,
+    "ptm": 0.904228687286377,
+    "binder_id": "binder_0147",
+    "seq_idx": 0,
+    "seq": "MLAERRAEARARAEQAAEKDPEFAPGLLATRAADAAEDAFRERRAAAAEAAAERRRRHAERQ",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0147_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.17503546178340912,
+    "ptm": 0.8065817952156067,
+    "binder_id": "binder_0147",
+    "seq_idx": 1,
+    "seq": "QLEKQRAAGYARAEAAAAADAAFAPGLAETRAGRAAEEAHRAARAAAAERAAKELAERAEAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0147_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.19292858242988586,
+    "ptm": 0.8121872544288635,
+    "binder_id": "binder_0147",
+    "seq_idx": 2,
+    "seq": "DSATRRQVGEARAQAAAEKRPEFKPGLEETRQGNAAEAAWRAARAAARAAARAAAQAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0147_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.7006465196609497,
+    "ptm": 0.9273881316184998,
+    "binder_id": "binder_0147",
+    "seq_idx": 3,
+    "seq": "SSAERRRAGLARCRDAAAKDPDFAPGLAATEAADAAEAAYRADREAASAAAAAAAAAAAAAA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0148_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.21344980597496033,
+    "ptm": 0.7691522836685181,
+    "binder_id": "binder_0148",
+    "seq_idx": 0,
+    "seq": "QAALLAEQAAAAAQQARRYAGLLSEAQGQELGAELSARAFPESAAYHDARKAAAKAARDAAAERQAEALAAAKAAEAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0148_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7629556059837341,
+    "ptm": 0.9114698171615601,
+    "binder_id": "binder_0148",
+    "seq_idx": 1,
+    "seq": "ARAELAAAAAAAEREARRYHGLEREARGVAKGAELSARVFPENAEYQEALRERAERFAAAAGAARAEARARAEELRAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0148_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.7986003160476685,
+    "ptm": 0.9211178421974182,
+    "binder_id": "binder_0148",
+    "seq_idx": 2,
+    "seq": "NDAALAAAAEAAHRAARRHDGLAREAEGIARGAELGREAFPESAAFHAEAAAAARAALAAARAERDRAAADAAALRAALA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0148_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.23774582147598267,
+    "ptm": 0.783921480178833,
+    "binder_id": "binder_0148",
+    "seq_idx": 3,
+    "seq": "PAQALADAAAAAERAAKRQHGLEREYAGRIEGAKLARQAFPESAEYHEAVAREAEAGAKAAAAARAAAAAAAAALAAQLA",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0149_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18987971544265747,
+    "ptm": 0.7548788189888,
+    "binder_id": "binder_0149",
+    "seq_idx": 0,
+    "seq": "MSEEESEASEAAARAGAKAAAAFHPVWLAIARGLEALGEAVAAADGSPQAAAVAAALLRGGRRVREMTKEALGTVKSDRLAELIAALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0149_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.7481377720832825,
+    "ptm": 0.9042949676513672,
+    "binder_id": "binder_0149",
+    "seq_idx": 1,
+    "seq": "MSAEESAASRAAAEAGAQRVAAEAEAWARQAEALLARGDEVAKQDPSAAAKAEAARLRRQGNTLRSLLREALGTVRSVQLAQQIEHAE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0149_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.8097629547119141,
+    "ptm": 0.9198721051216125,
+    "binder_id": "binder_0149",
+    "seq_idx": 2,
+    "seq": "MSPELAEKSQAAADAGAKRIEERRAEWEAEARALLAEGTAVAAEDGSAEAIAKAEALRRQGRRLLALLRSALGRVRSNALAAEIAALE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0149_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.1829776167869568,
+    "ptm": 0.7563508152961731,
+    "binder_id": "binder_0149",
+    "seq_idx": 3,
+    "seq": "MSPDESRASRAAALAGAQQAFEQKEEILAQAAALRAEGEAVAAADPSAAARARAEQLLREGRRLEELARDALGTVRSDKLALLIAKLE",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0150_seq0_T0.5",
+    "ok": true,
+    "iptm": 0.18381457030773163,
+    "ptm": 0.7489821910858154,
+    "binder_id": "binder_0150",
+    "seq_idx": 0,
+    "seq": "DMREIARAALEAAAASCEASAATAVLAGPAALEFATAAAVDALTRTARICHAIPECAPLGERAEAMAEKVREAAEKGAEAAIKAMQEAAKEFKAMAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0150_seq1_T0.5",
+    "ok": true,
+    "iptm": 0.22506943345069885,
+    "ptm": 0.7723816633224487,
+    "binder_id": "binder_0150",
+    "seq_idx": 1,
+    "seq": "KDDEIVRAALLSAAASCDDSAATALTRGPAAADYADANAVAALTKLAAICAGVPAHAALGAKAAGQAAAVAAAAAAGAAAAVEALKAAAAACRAAAEAV",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0150_seq2_T0.5",
+    "ok": true,
+    "iptm": 0.15738056600093842,
+    "ptm": 0.749313235282898,
+    "binder_id": "binder_0150",
+    "seq_idx": 2,
+    "seq": "SNLDTASGALQSAAASCEAAAATAALAGPAAAARAAEDAIAALNKTATIMNSIPKTKDLGDQAEAQAAAIRQAAAKGAEAAIKAMIQAAKWMTAQAAAL",
+    "temp": "0.5"
+  },
+  {
+    "name": "binder_0150_seq3_T0.5",
+    "ok": true,
+    "iptm": 0.8559467792510986,
+    "ptm": 0.9413785934448242,
+    "binder_id": "binder_0150",
+    "seq_idx": 3,
+    "seq": "DAREIAKAALLAAAASCEAAAATAMLAGPKAADGATQRAVNGLERTADICNAIPEFRELGREAEEQAKAIEAAAKEGAEKAIAKMIETAKWFKKKADEI",
+    "temp": "0.5"
+  }
+]

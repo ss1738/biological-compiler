@@ -1,0 +1,144 @@
+[06:45:00] [T0.5]   20/150 backbones re-designed, 80 sequences so far
+[06:45:44] [T0.5]   40/150 backbones re-designed, 160 sequences so far
+[06:46:28] [T0.5]   60/150 backbones re-designed, 240 sequences so far
+[06:47:13] [T0.5]   80/150 backbones re-designed, 320 sequences so far
+[06:47:57] [T0.5]   100/150 backbones re-designed, 400 sequences so far
+[06:48:42] [T0.5]   120/150 backbones re-designed, 480 sequences so far
+[06:49:26] [T0.5]   140/150 backbones re-designed, 560 sequences so far
+[06:49:48] [T0.5]   150/150 backbones re-designed, 600 sequences so far
+[06:49:48] [T0.5] GEN COMPLETE: 600 sequences generated at temp=0.5
+[06:49:48] [T0.5] 600 sequences to fold as complexes
+[06:59:21] [T0.5]   [10/600] binder_0003_seq1_T0.5: ipTM=0.478 ptm=0.817
+[07:08:52] [T0.5]   [20/600] binder_0005_seq3_T0.5: ipTM=0.154 ptm=0.778
+[07:18:21] [T0.5]   [30/600] binder_0008_seq1_T0.5: ipTM=0.406 ptm=0.840
+[07:27:51] [T0.5]   [40/600] binder_0010_seq3_T0.5: ipTM=0.291 ptm=0.795
+[07:37:21] [T0.5]   [50/600] binder_0013_seq1_T0.5: ipTM=0.583 ptm=0.882
+[07:46:51] [T0.5]   [60/600] binder_0015_seq3_T0.5: ipTM=0.220 ptm=0.801
+[07:56:21] [T0.5]   [70/600] binder_0018_seq1_T0.5: ipTM=0.143 ptm=0.756
+[08:05:52] [T0.5]   [80/600] binder_0020_seq3_T0.5: ipTM=0.275 ptm=0.793
+[08:15:22] [T0.5]   [90/600] binder_0023_seq1_T0.5: ipTM=0.798 ptm=0.932
+[08:24:52] [T0.5]   [100/600] binder_0025_seq3_T0.5: ipTM=0.872 ptm=0.946
+[08:34:22] [T0.5]   [110/600] binder_0028_seq1_T0.5: ipTM=0.156 ptm=0.814
+[08:43:52] [T0.5]   [120/600] binder_0030_seq3_T0.5: ipTM=0.144 ptm=0.770
+[08:53:23] [T0.5]   [130/600] binder_0033_seq1_T0.5: ipTM=0.774 ptm=0.918
+[09:02:52] [T0.5]   [140/600] binder_0035_seq3_T0.5: ipTM=0.314 ptm=0.839
+[09:12:23] [T0.5]   [150/600] binder_0038_seq1_T0.5: ipTM=0.863 ptm=0.943
+[09:21:54] [T0.5]   [160/600] binder_0040_seq3_T0.5: ipTM=0.193 ptm=0.797
+[09:31:24] [T0.5]   [170/600] binder_0043_seq1_T0.5: ipTM=0.164 ptm=0.779
+[09:40:54] [T0.5]   [180/600] binder_0045_seq3_T0.5: ipTM=0.841 ptm=0.936
+[09:50:24] [T0.5]   [190/600] binder_0048_seq1_T0.5: ipTM=0.164 ptm=0.740
+[09:59:54] [T0.5]   [200/600] binder_0050_seq3_T0.5: ipTM=0.369 ptm=0.803
+[10:09:24] [T0.5]   [210/600] binder_0053_seq1_T0.5: ipTM=0.175 ptm=0.785
+[10:18:54] [T0.5]   [220/600] binder_0055_seq3_T0.5: ipTM=0.831 ptm=0.934
+[10:28:24] [T0.5]   [230/600] binder_0058_seq1_T0.5: ipTM=0.185 ptm=0.766
+[10:37:53] [T0.5]   [240/600] binder_0060_seq3_T0.5: ipTM=0.209 ptm=0.809
+[10:47:22] [T0.5]   [250/600] binder_0063_seq1_T0.5: ipTM=0.700 ptm=0.909
+[10:56:52] [T0.5]   [260/600] binder_0065_seq3_T0.5: ipTM=0.179 ptm=0.818
+[11:06:21] [T0.5]   [270/600] binder_0068_seq1_T0.5: ipTM=0.174 ptm=0.787
+[11:15:50] [T0.5]   [280/600] binder_0070_seq3_T0.5: ipTM=0.266 ptm=0.769
+[11:25:19] [T0.5]   [290/600] binder_0073_seq1_T0.5: ipTM=0.225 ptm=0.748
+[11:34:48] [T0.5]   [300/600] binder_0075_seq3_T0.5: ipTM=0.188 ptm=0.769
+[11:44:17] [T0.5]   [310/600] binder_0078_seq1_T0.5: ipTM=0.177 ptm=0.783
+[11:53:46] [T0.5]   [320/600] binder_0080_seq3_T0.5: ipTM=0.208 ptm=0.761
+[12:03:15] [T0.5]   [330/600] binder_0083_seq1_T0.5: ipTM=0.175 ptm=0.806
+[12:12:43] [T0.5]   [340/600] binder_0085_seq3_T0.5: ipTM=0.762 ptm=0.934
+[12:22:12] [T0.5]   [350/600] binder_0088_seq1_T0.5: ipTM=0.478 ptm=0.847
+[12:31:41] [T0.5]   [360/600] binder_0090_seq3_T0.5: ipTM=0.867 ptm=0.945
+[12:41:10] [T0.5]   [370/600] binder_0093_seq1_T0.5: ipTM=0.707 ptm=0.911
+[12:50:39] [T0.5]   [380/600] binder_0095_seq3_T0.5: ipTM=0.387 ptm=0.821
+[13:00:08] [T0.5]   [390/600] binder_0098_seq1_T0.5: ipTM=0.160 ptm=0.759
+[13:09:37] [T0.5]   [400/600] binder_0100_seq3_T0.5: ipTM=0.748 ptm=0.932
+[13:19:06] [T0.5]   [410/600] binder_0103_seq1_T0.5: ipTM=0.447 ptm=0.867
+[13:28:35] [T0.5]   [420/600] binder_0105_seq3_T0.5: ipTM=0.264 ptm=0.783
+[13:38:05] [T0.5]   [430/600] binder_0108_seq1_T0.5: ipTM=0.198 ptm=0.750
+[13:47:34] [T0.5]   [440/600] binder_0110_seq3_T0.5: ipTM=0.785 ptm=0.925
+[13:57:02] [T0.5]   [450/600] binder_0113_seq1_T0.5: ipTM=0.232 ptm=0.780
+[14:06:31] [T0.5]   [460/600] binder_0115_seq3_T0.5: ipTM=0.589 ptm=0.900
+[14:16:00] [T0.5]   [470/600] binder_0118_seq1_T0.5: ipTM=0.281 ptm=0.790
+[14:25:29] [T0.5]   [480/600] binder_0120_seq3_T0.5: ipTM=0.629 ptm=0.854
+[14:34:57] [T0.5]   [490/600] binder_0123_seq1_T0.5: ipTM=0.675 ptm=0.910
+[14:44:26] [T0.5]   [500/600] binder_0125_seq3_T0.5: ipTM=0.197 ptm=0.786
+[14:53:54] [T0.5]   [510/600] binder_0128_seq1_T0.5: ipTM=0.197 ptm=0.797
+[15:03:22] [T0.5]   [520/600] binder_0130_seq3_T0.5: ipTM=0.766 ptm=0.937
+[15:12:51] [T0.5]   [530/600] binder_0133_seq1_T0.5: ipTM=0.393 ptm=0.801
+[15:22:19] [T0.5]   [540/600] binder_0135_seq3_T0.5: ipTM=0.816 ptm=0.933
+[15:31:48] [T0.5]   [550/600] binder_0138_seq1_T0.5: ipTM=0.162 ptm=0.754
+[15:41:16] [T0.5]   [560/600] binder_0140_seq3_T0.5: ipTM=0.294 ptm=0.824
+[15:50:44] [T0.5]   [570/600] binder_0143_seq1_T0.5: ipTM=0.279 ptm=0.823
+[16:00:12] [T0.5]   [580/600] binder_0145_seq3_T0.5: ipTM=0.215 ptm=0.807
+[16:09:40] [T0.5]   [590/600] binder_0148_seq1_T0.5: ipTM=0.763 ptm=0.911
+[16:19:08] [T0.5]   [600/600] binder_0150_seq3_T0.5: ipTM=0.856 ptm=0.941
+[16:19:08] [T0.5] === FOLD COMPLETE temp=0.5: 600/600 folded ===
+[16:19:08] [T0.5] ipTM: mean=0.386 max=0.895 n>0.5=182
+[16:19:53] [T1.0]   20/150 backbones re-designed, 80 sequences so far
+[16:20:38] [T1.0]   40/150 backbones re-designed, 160 sequences so far
+[16:21:23] [T1.0]   60/150 backbones re-designed, 240 sequences so far
+[16:22:07] [T1.0]   80/150 backbones re-designed, 320 sequences so far
+[16:22:51] [T1.0]   100/150 backbones re-designed, 400 sequences so far
+[16:23:36] [T1.0]   120/150 backbones re-designed, 480 sequences so far
+[16:24:20] [T1.0]   140/150 backbones re-designed, 560 sequences so far
+[16:24:42] [T1.0]   150/150 backbones re-designed, 600 sequences so far
+[16:24:42] [T1.0] GEN COMPLETE: 600 sequences generated at temp=1.0
+[16:24:42] [T1.0] 600 sequences to fold as complexes
+[16:34:09] [T1.0]   [10/600] binder_0003_seq1_T1.0: ipTM=0.140 ptm=0.742
+[16:43:37] [T1.0]   [20/600] binder_0005_seq3_T1.0: ipTM=0.470 ptm=0.860
+[16:53:05] [T1.0]   [30/600] binder_0008_seq1_T1.0: ipTM=0.157 ptm=0.742
+[17:02:33] [T1.0]   [40/600] binder_0010_seq3_T1.0: ipTM=0.133 ptm=0.772
+[17:12:00] [T1.0]   [50/600] binder_0013_seq1_T1.0: ipTM=0.171 ptm=0.783
+[17:21:28] [T1.0]   [60/600] binder_0015_seq3_T1.0: ipTM=0.155 ptm=0.798
+[17:30:57] [T1.0]   [70/600] binder_0018_seq1_T1.0: ipTM=0.164 ptm=0.762
+[17:40:25] [T1.0]   [80/600] binder_0020_seq3_T1.0: ipTM=0.201 ptm=0.776
+[17:49:53] [T1.0]   [90/600] binder_0023_seq1_T1.0: ipTM=0.137 ptm=0.758
+[17:59:21] [T1.0]   [100/600] binder_0025_seq3_T1.0: ipTM=0.238 ptm=0.761
+[18:08:49] [T1.0]   [110/600] binder_0028_seq1_T1.0: ipTM=0.212 ptm=0.820
+[18:18:17] [T1.0]   [120/600] binder_0030_seq3_T1.0: ipTM=0.136 ptm=0.770
+[18:27:45] [T1.0]   [130/600] binder_0033_seq1_T1.0: ipTM=0.214 ptm=0.776
+[18:37:12] [T1.0]   [140/600] binder_0035_seq3_T1.0: ipTM=0.166 ptm=0.803
+[18:46:40] [T1.0]   [150/600] binder_0038_seq1_T1.0: ipTM=0.241 ptm=0.797
+[18:56:08] [T1.0]   [160/600] binder_0040_seq3_T1.0: ipTM=0.151 ptm=0.795
+[19:05:35] [T1.0]   [170/600] binder_0043_seq1_T1.0: ipTM=0.174 ptm=0.795
+[19:15:03] [T1.0]   [180/600] binder_0045_seq3_T1.0: ipTM=0.374 ptm=0.817
+[19:24:31] [T1.0]   [190/600] binder_0048_seq1_T1.0: ipTM=0.180 ptm=0.757
+[19:33:59] [T1.0]   [200/600] binder_0050_seq3_T1.0: ipTM=0.246 ptm=0.752
+[19:43:26] [T1.0]   [210/600] binder_0053_seq1_T1.0: ipTM=0.127 ptm=0.775
+[19:52:54] [T1.0]   [220/600] binder_0055_seq3_T1.0: ipTM=0.131 ptm=0.757
+[20:02:21] [T1.0]   [230/600] binder_0058_seq1_T1.0: ipTM=0.197 ptm=0.765
+[20:11:49] [T1.0]   [240/600] binder_0060_seq3_T1.0: ipTM=0.456 ptm=0.853
+[20:21:17] [T1.0]   [250/600] binder_0063_seq1_T1.0: ipTM=0.177 ptm=0.760
+[20:30:44] [T1.0]   [260/600] binder_0065_seq3_T1.0: ipTM=0.259 ptm=0.829
+[20:40:11] [T1.0]   [270/600] binder_0068_seq1_T1.0: ipTM=0.167 ptm=0.776
+[20:49:39] [T1.0]   [280/600] binder_0070_seq3_T1.0: ipTM=0.163 ptm=0.742
+[20:59:08] [T1.0]   [290/600] binder_0073_seq1_T1.0: ipTM=0.118 ptm=0.747
+[21:08:35] [T1.0]   [300/600] binder_0075_seq3_T1.0: ipTM=0.770 ptm=0.926
+[21:18:03] [T1.0]   [310/600] binder_0078_seq1_T1.0: ipTM=0.145 ptm=0.789
+[21:27:31] [T1.0]   [320/600] binder_0080_seq3_T1.0: ipTM=0.191 ptm=0.754
+[21:36:59] [T1.0]   [330/600] binder_0083_seq1_T1.0: ipTM=0.143 ptm=0.798
+[21:46:26] [T1.0]   [340/600] binder_0085_seq3_T1.0: ipTM=0.137 ptm=0.779
+[21:55:53] [T1.0]   [350/600] binder_0088_seq1_T1.0: ipTM=0.228 ptm=0.772
+[22:05:21] [T1.0]   [360/600] binder_0090_seq3_T1.0: ipTM=0.176 ptm=0.775
+[22:14:48] [T1.0]   [370/600] binder_0093_seq1_T1.0: ipTM=0.124 ptm=0.765
+[22:24:16] [T1.0]   [380/600] binder_0095_seq3_T1.0: ipTM=0.152 ptm=0.752
+[22:33:44] [T1.0]   [390/600] binder_0098_seq1_T1.0: ipTM=0.150 ptm=0.759
+[22:43:12] [T1.0]   [400/600] binder_0100_seq3_T1.0: ipTM=0.160 ptm=0.805
+[22:52:40] [T1.0]   [410/600] binder_0103_seq1_T1.0: ipTM=0.186 ptm=0.808
+[23:02:09] [T1.0]   [420/600] binder_0105_seq3_T1.0: ipTM=0.173 ptm=0.746
+[23:11:37] [T1.0]   [430/600] binder_0108_seq1_T1.0: ipTM=0.121 ptm=0.742
+[23:21:05] [T1.0]   [440/600] binder_0110_seq3_T1.0: ipTM=0.231 ptm=0.765
+[23:30:34] [T1.0]   [450/600] binder_0113_seq1_T1.0: ipTM=0.141 ptm=0.756
+[23:40:02] [T1.0]   [460/600] binder_0115_seq3_T1.0: ipTM=0.310 ptm=0.832
+[23:49:31] [T1.0]   [470/600] binder_0118_seq1_T1.0: ipTM=0.389 ptm=0.801
+[23:58:59] [T1.0]   [480/600] binder_0120_seq3_T1.0: ipTM=0.148 ptm=0.742
+[00:08:28] [T1.0]   [490/600] binder_0123_seq1_T1.0: ipTM=0.558 ptm=0.892
+[00:17:57] [T1.0]   [500/600] binder_0125_seq3_T1.0: ipTM=0.151 ptm=0.786
+[00:27:25] [T1.0]   [510/600] binder_0128_seq1_T1.0: ipTM=0.148 ptm=0.784
+[00:36:54] [T1.0]   [520/600] binder_0130_seq3_T1.0: ipTM=0.803 ptm=0.936
+[00:46:23] [T1.0]   [530/600] binder_0133_seq1_T1.0: ipTM=0.242 ptm=0.754
+[00:55:52] [T1.0]   [540/600] binder_0135_seq3_T1.0: ipTM=0.207 ptm=0.755
+[01:05:21] [T1.0]   [550/600] binder_0138_seq1_T1.0: ipTM=0.141 ptm=0.751
+[01:14:50] [T1.0]   [560/600] binder_0140_seq3_T1.0: ipTM=0.197 ptm=0.815
+[01:24:18] [T1.0]   [570/600] binder_0143_seq1_T1.0: ipTM=0.145 ptm=0.799
+[01:33:47] [T1.0]   [580/600] binder_0145_seq3_T1.0: ipTM=0.152 ptm=0.794
+[01:43:16] [T1.0]   [590/600] binder_0148_seq1_T1.0: ipTM=0.165 ptm=0.760
+[01:52:46] [T1.0]   [600/600] binder_0150_seq3_T1.0: ipTM=0.140 ptm=0.740
+[01:52:46] [T1.0] === FOLD COMPLETE temp=1.0: 600/600 folded ===
+[01:52:46] [T1.0] ipTM: mean=0.208 max=0.827 n>0.5=30
